@@ -6,7 +6,13 @@
 
 ---
 
-# Preface
+# [Preface.](#preface-1)
+
+# [Observations on Meteorolites or Aërolites, considered Geographically, Statistically, and Cosmically; Accompanied by a Complete Catalogue of Meteoric Falls.](#observations-on-meteorolites-or-aërolites-considered-geographically-statistically-and-cosmically-accompanied-by-a-complete-catalogue-of-meteoric-falls-1)
+
+---
+
+# Preface.
 
 The following Essay originally appeared in the Philosophical Magazine for November and December 1854. I have been induced to publish it in a separate form. It has undergone both revision and addition; and the _lunar_ theory of the origin of meteorites has been noticed at some length.
 
