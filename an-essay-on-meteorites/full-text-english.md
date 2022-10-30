@@ -114,7 +114,7 @@ It would indeed be strange should these bodies --- varying in size and weight fr
 
 The next point I shall draw attention to, are the variations in the number of falls taken in five-yearly periods, from 1795 up to 1854:-
 
-                                  |     
+ &nbsp;                           | &nbsp;    
 ----------------------------------|-----
  From 1795 to 1800 are described… | 7   
  From 1800 to 1805 are described… | 6   
