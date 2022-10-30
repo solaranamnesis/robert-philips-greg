@@ -67,6 +67,18 @@ Table A.
  Canada                            | \-           | 1           | 1           | \-                     
  Totals                            | 268          | 84          | 352         | \-                     
 
-Table B. - Showing the number of Meteoric Depositions recorded, arranged according to zones of Latitude, North.
+Table B. --- Showing the number of Meteoric Depositions recorded, arranged according to zones of Latitude, North.
+
+ Between N\. Latitude 5° and 10°  | 3   
+----------------------------------|-----
+ Between N\. Latitude 10° and 20° | 18  
+ Between N\. Latitude 20° and 30° | 35  
+ Between N\. Latitude 30° and 40° | 75  
+ Between N\. Latitude 40° and 50° | 129 
+ Between N\. Latitude 50° and 60° | 68  
+ Between N\. Latitude 60° and 70° | 9   
+                                  | 337 
+
+Table C. --- Showing the proportion of falls, for several countries, that might be supposed to occur, making due allowance for the relative extent and population of each, taking France as the standard or unit of comparison, and commencing with the year 1790.
 
 ...
