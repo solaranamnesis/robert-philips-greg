@@ -40,7 +40,7 @@ Considerable allowance must be made in the following, as indeed in all considera
 
 Table A.
 
- **Countries\.**                   | **Stones\.** | **Irons\.** | **Total\.** | **Average latitude\.** 
+ **Countries\.**                   | **Stones\.** | **Irons\.** | **Total\.** | **Average latitude\. °** 
 -----------------------------------|--------------|-------------|-------------|------------------------
  France                            | 34           | 1           | 35          | 46 N\.                 
  Ireland and Great Britain         | 20           | 1           | 21          | 53 N\.                 
