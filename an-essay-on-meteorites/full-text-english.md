@@ -92,4 +92,50 @@ Table C. --- Showing the proportion of falls, for several countries, that might 
  European Russia           | 12                  | 31                    
  United States             | 18                  | 8                     
 
+The number of meteoric falls recorded for Great Britain, France, Germany, Austria and Italy, is thus shown to have been sixty-seven, in a period of sixty-four years. Taking the area of these five countries at 900,000 square miles, and that of the earth's surface at 197 millions, we obtain 220 as the number of annual falls likely, in the ordmary course of events, to be observed, were the whole surface of our globe peopled with an European density of population and a similar degree of civilization.
+
+Taking, however, into consideration that one-half of mankind is alternately experiencing the darkness of night, when they are not so likely to observe the descent of these bodies or mark the exact spot where they reach the earth's surface, we may fairly, instead of 220, assume 400 as more nearly the number of falls likely to occur under the above-named conditions. What proportion 400 may bear to the entire number that fall, it is not easy to conjecture, though after mature consideration, I am inclined to think that number will exceed one-third of the whole.* It is desirable to bear in mind the probability of a not _unequal_ distribution of meteorite falls on the surface of the earth, because it might appear from a too superficial or limited examination, that such was not the case, a view, indeed, apparently adopted by Professor Shepard, in some remarks he published in 1850, respecting the "Geographical Distribution" of these bodies. He considers that there are some regions of the earth's surface, or certain zones, towards or in which there is a tendency to "concentration in the deposition" of meteoric matter; and he instances particular countries, as Canada, Portugal, Spain, South Italy, Sicily, Hungary, Denmark, Sweden, Norway, and Northern Russia, which furnish few or no instances of meteoric deposition. As regards Norway only can his remarks strictly hold good, as will be admitted on a perusal of the localities given in the catalogue accompanying this paper: that there are some irregularities no one wul deny, yet considering the strange nature of, and the pheanomena exhibited by, these bodies, and making due allowance for various causes likely to affect an observable uniformity of deposition, it is only remarkable how uniformly they have everywhere been observed.*
+
+*) See Table H., and Note _a_, p. 29.
+
+*) For mention of some less important, though not less curious, irregulurities concerning the fall and nature of meteorites, see Note 1. at the end.
+
+Professor Shepard correctly takes for the United States the parallel of 37° N. as the line of greatest average meteoric deposition, and for Europe that of 46° N.
+
+A line drawn through the centre of greatest meteoric deposttion in America would, if prolonged so as to include the like centre for Europe, form, with the ordinary parallels of latitude, an angle of about 10° or 11°.
+
+I shall now quote Prof. Shepard's own words:-
+
+"If then it appears that these aërial strangers alight upon our earth in such great preponderance over limited areas, can we help admitting that there presides over their descent some great law, or in other words, that these falls take place in accordanee with some fixed plan. The present stage of our knowledge may, indeed, be inadequate to develope what that plan actually is; but when we see so marked an approach, by the courses of our meteoric regions, to the isothermal parallels for the same zones, and again, an observable coincidence between the trends of the meteoric regions and the isodynamic lines, we are strongly tempted to refer the forces of greatest activity concerned in the phaenomenon, to a union of thermal and magnetic action; although it is, at the same time, possible that more powerful local attractions in the surfaces concerned, than exist elsewhere, may also exert some influences over the deposition of these singular bodies."
+
+I need not say more respecting this part of the subject, except that I must differ from Prof. Shepard, and give my facts and reasons for so doing.
+
+It would indeed be strange should these bodies --- varying in size and weight from half an ounce to 30,000 lbs., sometimes containing no iron at all, and occasionally composed of nothing but iron, having an oblique direction generally from east to west, and a velocity of fifteen to thirty miles in a second, --- be attracted by particular countries more than others, or arrange themselves in zones parallel to the isothermal or isodynamic lines.
+
+The next point I shall draw attention to, are the variations in the number of falls taken in five-yearly periods, from 1795 up to 1854:-
+
+                                  |     
+----------------------------------|-----
+ From 1795 to 1800 are described… | 7   
+ From 1800 to 1805 are described… | 6   
+ From 1805 to 1810 are described… | 13  
+ From 1810 to 1815 are described… | 15  
+ From 1815 to 1820 are described… | 9   
+ From 1820 to 1825 are described… | 12  
+ Falls…                           | 62  
+ From 1825 to 1830 are described… | 11  
+ From 1830 to 1835 are described… | 7   
+ From 1835 to 1840 are described… | 12  
+ From 1840 to 1845 are described… | 14  
+ From 1845 to 1850 are described… | 11  
+ From 1850 to 1854 are described… | 7   
+ Falls…                           | 63  
+ Total…                           | 125 
+
+This gives an average of eleven for each of the twelve quinquennial periods, or nearly _two_ per annum; but one more fall is recorded for the first moiety of the sixty years than for the second, though one might have expected rather a marked increase during the second period, owing to the increase which has taken place during the last quarter of a century in population and intelligence, as well as facilities for procuring and disseminating information.
+
+Indeed, as but one fall is recorded for each of the years 1852, 1853, 1854 and 1855, and but two for each of the years 1847, 1848, 1849 and 1850, while some years present us with three, four, and even five instances of falls, one is almost led to imagine a temporary if not absolute falling off in the frequency of these phaenomena; whether this may be owing to accident and chance, or to the existence of some unknown cause or cycle, we must, from want of more data, at present remain ignorant.
+
+The following Table, presenting an analysis of the total number of known falls I have been enabled to collect or hear of, arranged according to the falls for each month, from the year AD 1496 to 1855, shows some curious if not indeed important results.
+
 ...
