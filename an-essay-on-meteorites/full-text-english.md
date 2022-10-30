@@ -138,4 +138,24 @@ Indeed, as but one fall is recorded for each of the years 1852, 1853, 1854 and 1
 
 The following Table, presenting an analysis of the total number of known falls I have been enabled to collect or hear of, arranged according to the falls for each month, from the year AD 1496 to 1855, shows some curious if not indeed important results.
 
+Table D.
+
+ **Month.**               | **No.** 
+--------------------------|---------
+ January                  | 10      
+ February                 | 15      
+ March                    | 17      
+ April                    | 14 1/2    
+ May                      | 17      
+ June                     | 18      
+ First half-yearly total  | 91 1/2    
+ July                     | 19 1/2    
+ August                   | 15      
+ September                | 16      
+ October                  | 14      
+ November                 | 16      
+ December                 | 9       
+ Second half-yearly total | 89 1/2    
+ N. B. Average            | 15.0    
+
 ...
