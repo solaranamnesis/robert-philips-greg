@@ -81,4 +81,15 @@ Table B. --- Showing the number of Meteoric Depositions recorded, arranged accor
 
 Table C. --- Showing the proportion of falls, for several countries, that might be supposed to occur, making due allowance for the relative extent and population of each, taking France as the standard or unit of comparison, and commencing with the year 1790.
 
+ **&nbsp;**                | **Actual number\.** | **Computed number\.** 
+---------------------------|---------------------|-----------------------
+ France                    | 19                  | 19                    
+ Great Britain and Ireland | 11                  | 12                    
+ Spain                     | 5                   | 9                     
+ Germany                   | 12                  | 13                    
+ Austria                   | 14                  | 13                    
+ Italy                     | 11                  | 14                    
+ European Russia           | 12                  | 31                    
+ United States             | 18                  | 8                     
+
 ...
