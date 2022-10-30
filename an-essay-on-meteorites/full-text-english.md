@@ -46,26 +46,26 @@ Table A.
  Ireland and Great Britain         | 20           | 1           | 21          | 53 N\.                 
  Bavaria, Prussia; Germany         | 38           | 6           | 44          | 51 N\.                 
  Hungary, Bohemia; Austria         | 28           | 5           | 33          | 48 N\.                 
- Switzerland                       | 2            | \-          | 2           | 46 N\.                 
+ Switzerland                       | 2            | &nbsp;      | 2           | 46 N\.                 
  Lombardy, Piedmont, Sicily; Italy | 33           | 1           | 34          | 43 N\.                 
- Portugal and Spain                | 9            | \-          | 9           | 40 N\.                 
+ Portugal and Spain                | 9            | &nbsp;      | 9           | 40 N\.                 
  European Russia                   | 14           | 1           | 15          | 54 N\.                 
  Finland and Siberia               | 4            | 3           | 7           | 63 N\.                 
- Sweden                            | 1            | \-          | 1           | 60 N\.                 
+ Sweden                            | 1            | &nbsp;      | 1           | 60 N\.                 
  Asia Minor, Crete; Turkey         | 10           | 1           | 11          | 40 N\.                 
  Egypt, Arabia and N\. Africa      | 6            | 1           | 7           | 30 N\.                 
  Tartary, Persia and Central Asia  | 1            | 2           | 3           | 35 N\.                 
- Japan and China                   | 23           | \-          | 23          | 18 N\.                 
+ Japan and China                   | 23           | &nbsp;      | 23          | 18 N\.                 
  Ceylon and India                  | 19           | 3           | 22          | 20 N\.                 
  United States                     | 18           | 36          | 54          | 35 N\.                 
  Greenland                         | 1            | 2           | 3           | 65 N\.                 
  West Indies and Mexico            | 2            | 10          | 12          | 25 N\.                 
- Sandwich Islands                  | 1            | \-          | 1           | 20 N\.                 
+ Sandwich Islands                  | 1            | &nbsp;      | 1           | 20 N\.                 
  South Africa                      | 2            | 2           | 4           | 30 S\.                 
- Java                              | 1            | \-          | 1           | 10 S\.                 
+ Java                              | 1            | &nbsp;      | 1           | 10 S\.                 
  South America                     | 1            | 8           | 9           | 20 S\.                 
- Canada                            | \-           | 1           | 1           | \-                     
- Totals                            | 268          | 84          | 352         | \-                     
+ Canada                            | &nbsp;       | 1           | 1           | &nbsp;                     
+ Totals                            | 268          | 84          | 352         | &nbsp;                     
 
 Table B. --- Showing the number of Meteoric Depositions recorded, arranged according to zones of Latitude, North.
 
@@ -77,7 +77,7 @@ Table B. --- Showing the number of Meteoric Depositions recorded, arranged accor
  Between N\. Latitude 40° and 50° | 129 
  Between N\. Latitude 50° and 60° | 68  
  Between N\. Latitude 60° and 70° | 9   
-                                  | 337 
+ &nbsp;                           | 337 
 
 Table C. --- Showing the proportion of falls, for several countries, that might be supposed to occur, making due allowance for the relative extent and population of each, taking France as the standard or unit of comparison, and commencing with the year 1790.
 
