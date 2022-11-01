@@ -645,3 +645,29 @@ Note 5. --- _Mineral Species found in Aërolites_.
  33\.   | Sulphurous acid\.                                 
  34\.   | Graphite\.   
  
+ _Chemical Elements found in Aërolites._
+ 
+  &nbsp; | &nbsp;        
+--------|---------------
+ 1\.    | Iron\.        
+ 2\.    | Nickel\.      
+ 3\.    | Magnesium\.   
+ 4\.    | Oxygen\.      
+ 5\.    | Silicon\.     
+ 6\.    | Sulphur\.     
+ 7\.    | Calcium\.     
+ 8\.    | Aluminium\.   
+ 9\.    | Chromium\.    
+ 10\.   | Sodium\.      
+ 11\.   | Potassium\.   
+ 12\.   | Phosphorus\.  
+ 13\.   | Lead\.        
+ 14\.   | Carbon\.      
+ 15\.   | Chlorine\.    
+ 16\.   | Cobalt\.      
+ 17\.   | Manganese\. ? 
+ 18\.   | Copper\.      
+ 19\.   | Hydrogen\.    
+ 20\.   | Tin\. ?       
+
+
