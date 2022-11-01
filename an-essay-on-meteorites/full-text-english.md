@@ -513,6 +513,37 @@ Note _b_. --- Epochs when it would appear that the falls of aërolites may be pe
 
 Table G. --- Showing years when there have been meteoric falls, arranged monthly.
 
+ **&nbsp;**            | **Jan\.** | **Feb\.** | **Mar\.** | **April\.** | **May\.** | **June\.** | **July\.** | **Aug\.** | **Sept\.** | **Oct\.** | **Nov\.** | **Dec\.** 
+-----------------------|-----------|-----------|-----------|-------------|-----------|------------|------------|-----------|------------|-----------|-----------|-----------
+ Period of 63 years\.  | 1844      | 1853      | 1849      | 1851        | 1855      | 1850       | 1847       | 1841      | 1854       | 1849      | 1850      | 1846      
+ &nbsp;                | 1825      | 1848      | 1843      | 1844        | 1848      | 1843       | 1843       | 1835      | 1852       | 1844      | 1849      | 1836      
+ &nbsp;                | 1824      | 1847      | 1841      | 1842        | 1846      | 1841       | 1842       | 1829      | 1843       | 1838      | 1846      | 1833      
+ &nbsp;                | 1810      | 1839      | 1820      | 1838        | ? 1831    | 1838       | 1840       | 1823      | 1831       | 1827      | 1839      | 1813      
+ &nbsp;                | 1796      | 1830      | 1818      | 1812        | 1829      | 1834       | 1837       | 1822      | 1826       | 1824      | 1835      | 1807      
+ &nbsp;                | &nbsp;    | 1827      | 1813      | 1812        | 1827      | 1828       | 1835       | 1818      | 1825       | 1819      | 1833      | 1803      
+ &nbsp;                | &nbsp;    | 1825      | 1811      | 1808        | 1808      | 1822       | ? 1831     | 1812      | 1822       | 1815      | 1822      | 1803      
+ &nbsp;                | &nbsp;    | 1824      | 1807      | 1804        | 1806      | 1821       | 1820       | 1810      | 1822       | 1803      | 1820      | 1798      
+ &nbsp;                | &nbsp;    | 1818      | 1806      | 1799        | 1791      | 1819       | 1811       | &nbsp;    | 1814       | 1791      | 1814      | 1795      
+ &nbsp;                | &nbsp;    | 1815      | 1805      | 1795        | &nbsp;    | 1818       | 1810       | &nbsp;    | 1813       | &nbsp;    | 1811      | &nbsp;    
+ &nbsp;                | &nbsp;    | 1814      | 1798      | &nbsp;      | &nbsp;    | 1809       | 1803       | &nbsp;    | 1808       | &nbsp;    | 1805      | &nbsp;    
+ &nbsp;                | &nbsp;    | 1796      | 1796      | &nbsp;      | &nbsp;    | 1805       | 1790       | &nbsp;    | 1802       | &nbsp;    | &nbsp;    | &nbsp;    
+ &nbsp;                | &nbsp;    | &nbsp;    | &nbsp;    | &nbsp;      | &nbsp;    | 1794       | &nbsp;     | &nbsp;    | &nbsp;     | &nbsp;    | &nbsp;    | &nbsp;    
+ Period of 100 years\. | 1717      | 1785      | 1683      | 1780        | 1751      | 1752       | 1766       | 1789      | 1775       | 1787      | 1773      | &nbsp;    
+ &nbsp;                | 1697      | 1671      | 1654      | 1750        | 1698      | 1723       | 1755       | 1766      | 1768       | 1750      | 1768      | &nbsp;    
+ &nbsp;                | 1683      | 1647      | 1636      | 1620        | 1680      | 1668       | 1753       | 1738      | 1753       | 1740      | 1639      | &nbsp;    
+ &nbsp;                | 1622      | &nbsp;    | &nbsp;    | 1715        | 1677      | 1635       | 1727       | 1650      | 1650       | 1674      | 1627      | &nbsp;    
+ &nbsp;                | &nbsp;    | &nbsp;    | &nbsp;    | 1620        | &nbsp;    | &nbsp;     | 1725       | 1642      | &nbsp;     | &nbsp;    | &nbsp;    | &nbsp;    
+ &nbsp;                | &nbsp;    | &nbsp;    | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | 1647       | 1828      | &nbsp;     | &nbsp;    | &nbsp;    | &nbsp;    
+ &nbsp;                | &nbsp;    | &nbsp;    | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | 1635       | 1618      | &nbsp;     | &nbsp;    | &nbsp;    | &nbsp;    
+ Period of 200 years\. | 1585      | 1596      | 1540      | 1580        | 1591      | 1581       | &nbsp;     | 1511      | &nbsp;     | 1492      | &nbsp;    | &nbsp;    
+ &nbsp;                | 1496      | 1583      | &nbsp;    | 1561        | &nbsp;    | &nbsp;     | &nbsp;     | &nbsp;    | &nbsp;     | &nbsp;    | &nbsp;    | &nbsp;    
+ &nbsp;                | &nbsp;    | 1491      | &nbsp;    | 1552        | &nbsp;    | &nbsp;     | &nbsp;     | &nbsp;    | &nbsp;     | &nbsp;    | &nbsp;    | &nbsp;    
+ &nbsp;                | &nbsp;    | &nbsp;    | &nbsp;    | 1520        | &nbsp;    | &nbsp;     | &nbsp;     | &nbsp;    | &nbsp;     | &nbsp;    | &nbsp;    | &nbsp;    
+ &nbsp;                | &nbsp;    | &nbsp;    | &nbsp;    | 1379        | &nbsp;    | &nbsp;     | &nbsp;     | &nbsp;    | &nbsp;     | &nbsp;    | &nbsp;    | &nbsp;    
+ &nbsp;                | 1328      | &nbsp;    | &nbsp;    | &nbsp;      | &nbsp;    | 1249       | &nbsp;     | &nbsp;    | 1304       | &nbsp;    | &nbsp;    | 856       
+
+Table H. --- Showing the days of the month on which some extraordinary meteors have been recorded during the last sixty or seventy years.
+
 ...
 
 Note _a_. --- It is worthy of remark that audibly explosive meteors are of remarkably rare occurrence.
