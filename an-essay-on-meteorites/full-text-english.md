@@ -486,6 +486,35 @@ Table F. --- Showing the days of each month on which aërolites have fallen to t
  November     | 5          | 7          | 11         | 13         | 17          | 20          | 23         | 25         | 27         | 29         | 29         | 29         | 29         | 30         | 30         | &nbsp;     | &nbsp;     
  December     | 11         | 13         | 13         | 13         | 13 \(1803\) | 13 \(1803\) | 14         | 25         | 28         | &nbsp;     | &nbsp;     | &nbsp;     | &nbsp;     | &nbsp;     | &nbsp;     | &nbsp;     | &nbsp;     
 
+Note _a_. --- Epochs supposed to be periodical in displays of "luminous meteors" are here inserted for the purpose of comparing the results with Table F.:-
+
+ &nbsp;   | &nbsp;        
+----------|---------------
+ April    | 22\-25\.      
+ July     | 17\-19\.      
+ August   | 9\-13\.       
+ October  | 16\-18\.      
+ November | 10\-14\.      
+ November | 27\-29\.      
+ Decemer  | 8\-12\. \(?\) 
+
+Note _b_. --- Epochs when it would appear that the falls of aërolites may be periodical:-
+
+ &nbsp;    | &nbsp;   
+-----------|----------
+ February  | 15\-19\. 
+ March     | 21\-25\. 
+ May       | 17\-20\. 
+ June      | 20\-22\. 
+ July      | 24\-26\. 
+ September | 9\-14\.  
+ November  | 29\-30\. 
+ December  | 11\-14\. 
+
+Table G. --- Showing years when there have been meteoric falls, arranged monthly.
+
+...
+
 Note _a_. --- It is worthy of remark that audibly explosive meteors are of remarkably rare occurrence.
 
 As far as I can judge, the European newspapers and scientific journals record the occurrence of not more than one or two per annum; really not more than the cases of veritable stone-falls for the same time and over the same space. It is reasonable to assume, when an explosion is heard after the appearance or dissipation of a meteor, it is meteorolithic; and it is also probable as often as not, that in countries like England and France, the stone would be picked up, after the occurrence of such phaenomenon; I believe therefore that taking this into consideration, along with the calculations given at page 5, I am not far wrong in supposing the number of meteorolithic falls actually observed will not be less than _one-third_ the whole that really fall. In Table H. I have given the days of the month on which many of the most remarkable or historic (if I may so say) meteors have been observed during a period of many years, and it may be noticed how few are recorded as having been accompanied by any audible explosion. In confirmation of what is stated at pages 9 and 10, it may also be here pointed out that there are no asterisks (*) against the days of August 9-13th, or November 10-14th. This table, however, might, with some trouble, be made more complete.
