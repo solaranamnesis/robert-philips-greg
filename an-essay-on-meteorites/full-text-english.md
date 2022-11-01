@@ -402,3 +402,31 @@ _Fourthly_. That their period of least common occurrence takes place when the ea
 _Fifthly_. That they may reasonably be considered as once belonging to the group of planetoids or asteroids, and to partake therefore, to some extent at least, of the proper nature and conditions of asteroids.
 
 ...
+
+Note _a_. --- It is worthy of remark that audibly explosive meteors are of remarkably rare occurrence.
+
+As far as I can judge, the European newspapers and scientific journals record the occurrence of not more than one or two per annum; really not more than the cases of veritable stone-falls for the same time and over the same space. It is reasonable to assume, when an explosion is heard after the appearance or dissipation of a meteor, it is meteorolithic; and it is also probable as often as not, that in countries like England and France, the stone would be picked up, after the occurrence of such phaenomenon; I believe therefore that taking this into consideration, along with the calculations given at page 5, I am not far wrong in supposing the number of meteorolithic falls actually observed will not be less than _one-third_ the whole that really fall. In Table H. I have given the days of the month on which many of the most remarkable or historic (if I may so say) meteors have been observed during a period of many years, and it may be noticed how few are recorded as having been accompanied by any audible explosion. In confirmation of what is stated at pages 9 and 10, it may also be here pointed out that there are no asterisks (*) against the days of August 9-13th, or November 10-14th. This table, however, might, with some trouble, be made more complete.
+
+# Notes.
+
+Note 1. p. 6. --- One circumstance may be mentioned as being rather singular, which is, the extraordmary number of meteoric irons discovered within a comparatively short period in the United States, _viz._ thirty-four; while only one has been found in France, and but one in Great Britain; it may partly perhaps be accounted for when we consider how newly settled a country the former is, compared with either France or England.
+
+In Mexico ten or eleven meteoric irons have been discovered and described, but there is no recorded or historic instance of a stone-fall; and in the United States there have been seventeen falls of stones this century, and but one observed iron-fall.
+
+There is no accounting for these apparent irregularities; probably several of the Mexican and United States iron meteoric masses have been the result or produce of one shower or explosion.
+
+The proportion of stone- to iron-falls may be taken at 25 to 1, _i. e._ 96 per cent. of all that fall consist of stony matter; so that for the thirty-four iron masses found in the United States there may have been 34 x 25 = 850 stone-fails.
+
+Note 2. p. 8. --- It is remarkable, that while December has only nine falls recorded, _five_ out of these should have occurred on the 13th of the month, and _one_ on the 14th. Five fell within the space of only twelve years, and _two_ fell on the 13th December 1803, at two distinct localities.
+
+In looking through Prof. Powell's 'Catalogues of Luminous Meteors,' and various journals, there are mentioned only four meteors and two small falling stars for any 13th day of December.
+
+---
+
+Note 3. p. 10. --- Professor Cappocci of Naples, in a letter to M. Arago (given in the _Comptes Rendus_ for August 1840), endeavours, though I think not very successfully, to establish, not only a coincidence in the fall of aërolites and luminous meteors for the 16th and 17th of July, but assigns to them a recurrent period of five years, and concludes by supposing that they are "the result of an aggregation of cosmical atoms dispersed in space; atoms which are constrained to unite themselves by contrary poles in consequence of magnetic attraction." And he seems to consider comets, aurorae boreales,* meteors and aërolites as various resultants from bands or currents of nebulous matter existing in planetary space in a state of magnetism more or less intense.
+
+---
+
+Note 4. p. 10. --- It can hardly be imagined that the small fragments and atoms which usually constitute aërolites can have any luminosity, whether reflected or inherent. It is possible, however, they may form the more solid part or nucleus of larger and less solidified bodies. That ordinary falling stars, and more particularly the luminous meteors observable in the great periodic displays of August and November, are self-luminous, can hardly admit of doubt. It may be mentioned that Pallas has probably irregular and angular surfaces, like the majority of meteoric stones, and that Ceres is apparently surrounded with a very dense atmosphere; a circumstance perhaps also sometimes the case, on a far smaller scale, with meteorolithic fire-balls. Respecting the cause of the supposed breaking up of a planet between Mars and Jupiter, Mr. Nasmyth, at a recent meeting of the British Association, ingeniously suggested that its disruption might have occurred when the planet had arrived at some such condition or state of tension (whilst cooling) as that known to exist in a Prince Rupert drop, which, as is well known, shivers to pieces on the slightest injury to the surface.
+
+*) See page 25.
