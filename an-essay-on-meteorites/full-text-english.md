@@ -367,7 +367,7 @@ There is no occasion, in continuation, to enter into details concerning the phae
 
 ...
 
-In connexion with this similarity with the chemical elements and even minerals of our own planet, has been developed the theory of the _non-extra-_terrestrial origin of meteoric irons and stones; a theory principally supported by the chemists and electricians, as Sir H. Davy, Fusinieri, M. Biot, Prof. Shepard, M. F. G. Fischer and others. Before concluding this paper I shall shortly allude to this theory, as it bears strongly on the general subject. I cannot do better than again quote from Prof. Shepard (see his Report on American Meteorites, published in the American Journal of Science):-
+In connexion with this similarity with the chemical elements and even minerals of our own planet, has been developed the theory of the _non_-_extra_-terrestrial origin of meteoric irons and stones; a theory principally supported by the chemists and electricians, as Sir H. Davy, Fusinieri, M. Biot, Prof. Shepard, M. F. G. Fischer and others. Before concluding this paper I shall shortly allude to this theory, as it bears strongly on the general subject. I cannot do better than again quote from Prof. Shepard (see his Report on American Meteorites, published in the American Journal of Science):-
 
 "The extra-terrestrial origin of meteoric stones and iron masses seems likely to be more and more called in question, with the advance of knowledge respecting such substances, and as additions continue to be made to the connected sciences; I may therefore take an early occasion of presenting some views, founded partly upon Biot's theory of the aurora borealis, which seem to favour such an origin of meteorites."
 
