@@ -496,7 +496,7 @@ Note _a_. --- Epochs supposed to be periodical in displays of "luminous meteors"
  October  | 16\-18\.      
  November | 10\-14\.      
  November | 27\-29\.      
- Decemer  | 8\-12\. \(?\) 
+ December  | 8\-12\. \(?\) 
 
 Note _b_. --- Epochs when it would appear that the falls of aërolites may be periodical:-
 
