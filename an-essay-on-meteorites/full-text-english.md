@@ -544,7 +544,37 @@ Table G. --- Showing years when there have been meteoric falls, arranged monthly
 
 Table H. --- Showing the days of the month on which some extraordinary meteors have been recorded during the last sixty or seventy years.
 
-...
+ **Jan\.** | **Feb\.** | **Mar\.** | **April\.** | **May\.** | **June\.** | **July\.** | **Aug\.** | **Sept\.** | **Oct\.** | **Nov\.** | **Dec\.** 
+-----------|-----------|-----------|-------------|-----------|------------|------------|-----------|------------|-----------|-----------|-----------
+ 5         | 2         | 6         | 1           | 2         | 3\*        | 1          | 1         | 2          | 1         | 2         | 2\*       
+ 8         | 35        | 8         | 4           | 3         | 5\*        | 3          | 5         | 2          | 4         | 3         | 5\*       
+ 9         | 6         | 8         | 5           | 5         | 6\*        | 4          | 7         | 4          | 4         | 4         | 8         
+ 10        | 10        | 8         | 11          | 10\*      | 6          | 4          | 8         | 7          | 6         | 5         | 8         
+ 13        | 10\*      | 11        | 15          | 20        | 9          | 5          | 9         | 7          | 8         | 8         | 11\*      
+ 15        | 11\*      | 17        | 23          | 24        | 10\*       | 12         | 9         | 8          | 10        | 9         | 12        
+ 21        | 11\*      | 17        | 24          | 28        | 11         | 12         | 10        | 10         | 12        | 9         | 13        
+ 31        | 11        | 19\*      | &nbsp;      | &nbsp;    | 12         | 14         | 10        | 11\*       | 13        | 9         | 13        
+ &nbsp;    | 12        | 21\*      | &nbsp;      | &nbsp;    | 20         | 16         | 12        | 13         | 14        | 10        | 17\*      
+ &nbsp;    | 13        | 21        | &nbsp;      | &nbsp;    | 20         | 17\*       | 12        | 18         | 17        | 11        | 19        
+ &nbsp;    | 15        | 22        | &nbsp;      | &nbsp;    | 22         | 20         | 16        | 19         | 17        | 11        | 19        
+ &nbsp;    | 21        | &nbsp;    | &nbsp;      | &nbsp;    | 23         | 20         | 17        | 20         | 20        | 15        | 21        
+ &nbsp;    | 22        | &nbsp;    | &nbsp;      | &nbsp;    | 29         | 22         | 18\*      | 21         | 21        | 17        | 21        
+ &nbsp;    | 22        | &nbsp;    | &nbsp;      | &nbsp;    | 29         | 23         | 20        | 24         | 24        | 18        | 21        
+ &nbsp;    | 22        | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | 25         | 25        | 25\*       | 27\*      | 19        | 24\*      
+ &nbsp;    | 26        | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | 27         | 26        | 25         | 28        | 22        | 30        
+ &nbsp;    | &nbsp;    | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | 27         | 28        | 29         | 30        | 23        | &nbsp;    
+ &nbsp;    | &nbsp;    | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | 29         | &nbsp;    | 30         | 31        | 24        | &nbsp;    
+ &nbsp;    | &nbsp;    | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | 30\*       | &nbsp;    | &nbsp;     | &nbsp;    | 26        | &nbsp;    
+ &nbsp;    | &nbsp;    | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | &nbsp;     | &nbsp;    | &nbsp;     | &nbsp;    | 26        | &nbsp;    
+ &nbsp;    | &nbsp;    | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | &nbsp;     | &nbsp;    | &nbsp;     | &nbsp;    | 26        | &nbsp;    
+ &nbsp;    | &nbsp;    | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | &nbsp;     | &nbsp;    | &nbsp;     | &nbsp;    | 29        | &nbsp;    
+ &nbsp;    | &nbsp;    | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | &nbsp;     | &nbsp;    | &nbsp;     | &nbsp;    | 30        | &nbsp;    
+ &nbsp;    | &nbsp;    | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | &nbsp;     | &nbsp;    | &nbsp;     | &nbsp;    | 30        | &nbsp;    
+ &nbsp;    | &nbsp;    | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | &nbsp;     | &nbsp;    | &nbsp;     | &nbsp;    | 30        | &nbsp;    
+ &nbsp;    | &nbsp;    | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | &nbsp;     | &nbsp;    | &nbsp;     | &nbsp;    | 30        | &nbsp;    
+ &nbsp;    | &nbsp;    | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | &nbsp;     | &nbsp;    | &nbsp;     | &nbsp;    | 30        | &nbsp;    
+ &nbsp;    | &nbsp;    | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | &nbsp;     | &nbsp;    | &nbsp;     | &nbsp;    | 30        | &nbsp;    
+ &nbsp;    | &nbsp;    | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | &nbsp;     | &nbsp;    | &nbsp;     | &nbsp;    | 30        | &nbsp;    
 
 Note _a_. --- It is worthy of remark that audibly explosive meteors are of remarkably rare occurrence.
 
