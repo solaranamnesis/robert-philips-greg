@@ -373,7 +373,67 @@ The exclusion from a lunar origin of the larger meteoric masses, especially iron
 
 There is no occasion, in continuation, to enter into details concerning the phaenomena attending the fall of meteorites and fire-balls, _etc._, or to give a list of the analyses which have from time to time been made of various meteoric irons and stones. Suffice it to say, that no new chemical element has yet been discovered in these bodies, though several new mineral compounds have been observed. Most, indeed nearly all, the simple chemical elements have been detected in them. (See Note 5. p. 31.) Some consist of pure iron; others of iron alloyed with nickel, perhaps also accompanied with small quantities of carbon, chromium, cobalt, arsenic and phosphorus; and some few are mechanically combined with crystallized olivine; the majority have, however, a common or normal character, both internally and externally. They have been variously classified; as by Prof. Shepard in the following way, treating them as it were mineralogically:-
 
-...
+## Class 1. --- Metallic.
+
+### Order 1.
+
+Malleable, homogeneous.
+
+#### Sec. 1. Pure.
+
+#### Sec. 2. Alloyed.
+
+Closely crystalline.
+
+Coarsely crystalline.
+
+### Order 2.
+
+Malleable, heterogeneous.
+
+#### Amygdalo-peridotic.
+
+#### Amygdalo-pyritic.
+
+#### Pyrito-plumbaginous.
+
+### Order 3.
+
+Brittle.
+
+#### Pure.
+
+#### Alloyed.
+
+## Class 2. --- Stony.
+
+### Order 1.
+
+Trachytic.
+
+#### Sec. 1. Peridotic.
+
+Coarse-grained.
+
+Fine-grained.
+
+#### Sec. 2. Pyroxenic.
+
+#### Sec. 3. Chladnitic.
+
+#### Sec. 4. Carbonaceous.
+
+### Order 2.
+
+Trappean.
+
+#### Sec. 1. Homogeneous.
+
+#### Sec. 2. Porphyritic.
+
+### Order 3.
+
+#### Pumice-like.
 
 In connexion with this similarity with the chemical elements and even minerals of our own planet, has been developed the theory of the _non_-_extra_-terrestrial origin of meteoric irons and stones; a theory principally supported by the chemists and electricians, as Sir H. Davy, Fusinieri, M. Biot, Prof. Shepard, M. F. G. Fischer and others. Before concluding this paper I shall shortly allude to this theory, as it bears strongly on the general subject. I cannot do better than again quote from Prof. Shepard (see his Report on American Meteorites, published in the American Journal of Science):-
 
