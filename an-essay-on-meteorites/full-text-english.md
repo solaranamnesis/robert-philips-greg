@@ -469,7 +469,22 @@ _Fourthly_. That their period of least common occurrence takes place when the ea
 
 _Fifthly_. That they may reasonably be considered as once belonging to the group of planetoids or asteroids, and to partake therefore, to some extent at least, of the proper nature and conditions of asteroids.
 
-...
+Table F. --- Showing the days of each month on which aërolites have fallen to the earth.
+
+ **Months\.** | **&nbsp;** | **&nbsp;** | **&nbsp;** | **&nbsp;** | **&nbsp;**  | **&nbsp;**  | **&nbsp;** | **&nbsp;** | **&nbsp;** | **&nbsp;** | **&nbsp;** | **&nbsp;** | **&nbsp;** | **&nbsp;** | **&nbsp;** | **&nbsp;** | **&nbsp;** 
+--------------|------------|------------|------------|------------|-------------|-------------|------------|------------|------------|------------|------------|------------|------------|------------|------------|------------|------------
+ January      | 4          | 9          | 9          | 10         | 12          | 13          | 15         | 16         | 28         | &nbsp;     | &nbsp;     | &nbsp;     | &nbsp;     | &nbsp;     | &nbsp;     | &nbsp;     | &nbsp;     
+ February     | 3          | 10         | 10         | 13         | 15          | 15          | 13         | 18         | 18         | 18         | 19         | 19         | 25         | 27         | 27         | &nbsp;     | &nbsp;     
+ March        | 1          | 2          | 3          | 6          | 8           | 12          | 12         | 13         | 14         | 15         | 19         | 21         | 22         | 22         | 25         | 30         | 30         
+ April        | 1          | 5          | 5          | 11         | 12          | 13          | 15         | 17         | 18         | 19         | 26         | 28         | 29         | &nbsp;     | &nbsp;     | &nbsp;     | &nbsp;     
+ May          | 8          | 9          | 9          | 10         | 13          | 17          | 17         | 17         | 18         | 19         | 19         | 20         | 22         | 26         | 26         | 27         | 28         
+ June         | 2          | 4          | 5          | 6          | 9           | 9           | 12         | 12         | 13         | 15         | 16         | 20         | 20         | 21         | 22         | &nbsp;     | &nbsp;     
+ July         | 3          | 3          | 4          | 4          | 7           | 8           | 12         | 14         | 17         | 18         | 22         | 24         | 24         | 26         | 26         | 26         | 30         
+ August       | 4          | 4          | 5          | 6          | 7           | 9           | 10         | 15         | 15         | 18         | 20         | &nbsp;     | &nbsp;     | &nbsp;     | &nbsp;     | &nbsp;     | &nbsp;     
+ September    | 3          | 4          | 4          | 5          | 5           | 9           | 10         | 10         | 13         | 13         | 14         | 16         | 19         | &nbsp;     | &nbsp;     | &nbsp;     | &nbsp;     
+ October      | 1          | 1          | 2          | 3          | 5           | 6           | 8          | 12         | 13         | 13         | 14         | 20         | 25         | 27         | 31         | &nbsp;     | &nbsp;     
+ November     | 5          | 7          | 11         | 13         | 17          | 20          | 23         | 25         | 27         | 29         | 29         | 29         | 29         | 30         | 30         | &nbsp;     | &nbsp;     
+ December     | 11         | 13         | 13         | 13         | 13 \(1803\) | 13 \(1803\) | 14         | 25         | 28         | &nbsp;     | &nbsp;     | &nbsp;     | &nbsp;     | &nbsp;     | &nbsp;     | &nbsp;     | &nbsp;     
 
 Note _a_. --- It is worthy of remark that audibly explosive meteors are of remarkably rare occurrence.
 
