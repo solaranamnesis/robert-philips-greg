@@ -670,4 +670,26 @@ Note 5. --- _Mineral Species found in Aërolites_.
  19\.   | Hydrogen\.    
  20\.   | Tin\. ?       
 
+Note 6. p. 22. --- The following calculations will show that a mass of iron, having a spherical form, and weighing 20,000 lbs., could not reasonably have a greater velocity than 372 feet in a second if projected from a lunar volcano. The calculations are based on the following premises.
 
+A stone having 5.6 inches in diameter, with a density of 3.0, and weighing 10 lbs., is assumed to be projected from a lunar volcano at the rate of 9000 feet in a second, _i. e._ with a velocity more than sufficient, according to Dr. Smith and others, to allow it to pass the limits of mutual attraction between the moon and the earth.
+
+Taking the sp. sg. of iron 8.0, and bearing in mind that the areas are as the squares and the masses as the cubes of the diameters, we arrive at the following results. A mass of iron (globular) to weigh 20,000 lbs., sp. gr. 8, will be a little over 50.9 inches in diameter; found thus:-
+
+power( ( 20,000 lbs. x 16 oz. x 1728 ) / ( 8000 sp. gr. x 5236 ), 1/3) = power(132009, 1/3) = 50.9 in. nearly.
+
+A similar mass of stone to be the same weight, and sp. gr. 3.0, must be 70.6 inches in diameter; found thus:-
+
+power( (132009 x 8) / 3, 1/3) = power(352024, 1/3) = 70.6.
+
+Now if a piece of stone 5.6 inches in diameter, weighing 10 lbs., be projected with a velocity of 9000 feet per second, a mass 70.6 inches diameter, and weighing 20,000 lbs., could only be projected with a velocity of 715 feet per second, because the weights would increase so much faster than the sectional area.
+
+Thus as Lbs. 20,000/10 : Diam. 70.6² / 5.6² :: Velocity. 9000;
+
+or as Lbs. 2000 : Diam. 4984.36/31.36 :: Velocity. 9000 : 715 feet.
+
+The mass of iron has a less sectional area than the stone because of its greater specific gravity, _viz._ in the proportion of 50.9² to 70.6²; it would therefore only be projected with a velocity of 372 feet per second; or as
+
+498436 : 259081 :: 715 : 372.
+
+That is, a velocity more than 20 times too small to allow of the larger known meteoric masses to reach the earth, if projected from a lunar volcano.
