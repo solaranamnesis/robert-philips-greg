@@ -355,7 +355,7 @@ Dr. Smith gives us the result of some interesting experiments, to prove the fall
 
 "If then the apparent diameter of a luminous meteor at a given distance is to be accepted as a guide for calculating the real size of these bodies, the
 
-            &nbsp;                 |         &nbsp;               |     &nbsp;           
+ &nbsp;                            | &nbsp;                       | &nbsp;          
 -----------------------------------|------------------------------|-----------------
  Charcoal points would be…         | 80 feet in diam\. instead of | 3/10 of an in\. 
  Lime points would be              | 50 feet in diam\. instead of | 4/10 of an in\. 
