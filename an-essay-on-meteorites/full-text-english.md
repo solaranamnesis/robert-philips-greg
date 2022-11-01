@@ -605,3 +605,43 @@ Note 3. p. 10. --- Professor Cappocci of Naples, in a letter to M. Arago (given 
 Note 4. p. 10. --- It can hardly be imagined that the small fragments and atoms which usually constitute aërolites can have any luminosity, whether reflected or inherent. It is possible, however, they may form the more solid part or nucleus of larger and less solidified bodies. That ordinary falling stars, and more particularly the luminous meteors observable in the great periodic displays of August and November, are self-luminous, can hardly admit of doubt. It may be mentioned that Pallas has probably irregular and angular surfaces, like the majority of meteoric stones, and that Ceres is apparently surrounded with a very dense atmosphere; a circumstance perhaps also sometimes the case, on a far smaller scale, with meteorolithic fire-balls. Respecting the cause of the supposed breaking up of a planet between Mars and Jupiter, Mr. Nasmyth, at a recent meeting of the British Association, ingeniously suggested that its disruption might have occurred when the planet had arrived at some such condition or state of tension (whilst cooling) as that known to exist in a Prince Rupert drop, which, as is well known, shivers to pieces on the slightest injury to the surface.
 
 *) See page 25.
+
+Note 5. --- _Mineral Species found in Aërolites_.
+
+ &nbsp; | &nbsp;                                            
+--------|---------------------------------------------------
+ 1\.    | Iron\.                                            
+ 2\.    | Nickeliferous iron\.                              
+ 3\.    | Phosphuret of iron and nickel, or Schreibersite\. 
+ 4\.    | Limonite\.                                        
+ 5\.    | Magnetic iron pyrites\.                           
+ 6\.    | Iron pyrites\.                                    
+ 7\.    | Chromate of iron\.                                
+ 8\.    | Magnetic pyrites\.                                
+ 9\.    | Carbon\.                                          
+ 10\.   | Sulphur\.                                         
+ 11\.   | Lead\.                                            
+ 12\.   | Oxide of lead\.                                   
+ 13\.   | Cobalt\.                                          
+ 14\.   | Copper\. ?                                        
+ 15\.   | Magnetite\. ?                                     
+ 16\.   | Vitriolic nickel\.                                
+ 17\.   | Copperas\.                                        
+ 18\.   | Chloride of iron\.                                
+ 19\.   | Chloride of nickel\.                              
+ 20\.   | Chloride of cobalt\. ?                            
+ 21\.   | Peridot\.                                         
+ 22\.   | Anorthite\.                                       
+ 23\.   | Pyroxene\.                                        
+ 24\.   | Chladnite\. ?                                     
+ 25\.   | Garnet\.                                          
+ 26\.   | Chantonnite\. ?                                   
+ 27\.   | Chloride of calcium\.                             
+ 28\.   | Chloride of magnesium\.                           
+ 29\.   | Chloride of sodium\.                              
+ 30\.   | Soluble silica\.                                  
+ 31\.   | Epsom salt\.                                      
+ 32\.   | Glauber salt\.                                    
+ 33\.   | Sulphurous acid\.                                 
+ 34\.   | Graphite\.   
+ 
