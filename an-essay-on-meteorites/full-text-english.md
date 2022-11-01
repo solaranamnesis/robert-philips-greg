@@ -693,3 +693,5 @@ The mass of iron has a less sectional area than the stone because of its greater
 498436 : 259081 :: 715 : 372.
 
 That is, a velocity more than 20 times too small to allow of the larger known meteoric masses to reach the earth, if projected from a lunar volcano.
+
+# Catalogue. --- No. 1. Stones and Irons.
