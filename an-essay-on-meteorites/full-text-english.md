@@ -347,7 +347,11 @@ Dr. Smith gives us the result of some interesting experiments, to prove the fall
 
 "In my experiments, three solid bodies in a state of vigorous incandescence were used: 1st, charcoal points transmitting electricity; 2ndly, lime heated by the oxy-hydrogen blow-pipe; 3rdly, steel in a state of incandescence in a stream of oxygen gas. They were observed on a clear night at different distances, and the body of light (without the bordering rays) compared with the disk of the moon, then nearly full, and 45° above the horizon. Without going into details of the experiment the results will be tabulated."
 
-...
+ **&nsbc;**             | **Actual diam\. As seen as 10 in\.** | **Apparent diam\. At 200 yards\.** | **Apparent diam\. At ¼ mile\.** | **Apparent diam\. At ½ mile\.** 
+------------------------|--------------------------------------|------------------------------------|---------------------------------|---------------------------------
+ Carbon points…         | 3/10 of an inch,                     | ½ the diam\. moon’s disc,          | 3 diam\. do\.                   | 3 ½ diam\. do\.                 
+ Lime light…            | 4/10 of an inch,                     | 1/3 the diam\. moon’s disc,        | 2 diam\. do\.                   | 2 diam\. do\.                   
+ Incandes\. steel\.\.\. | 2/10 of an inch,                     | ¼ the diam\. moon’s disc,          | 1 diam\. do\.                   | 1 diam\. do\.                   
 
 "If then the apparent diameter of a luminous meteor at a given distance is to be accepted as a guide for calculating the real size of these bodies, the
 
