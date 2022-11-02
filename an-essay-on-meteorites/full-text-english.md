@@ -811,7 +811,7 @@ That is, a velocity more than 20 times too small to allow of the larger known me
  1755         | July                | Terra Nuova, S\. Italy\.                                 | &nbsp;            | Stone\.             | 7 oz\.                                          
  1766         | July                | Albereto near Milan, S\. Italy\.                         | &nbsp;            | Stone\.             | One\.                                           
  1766         | Aug\. 15            | Novellara, Modena, S\. Italy\.                           | &nbsp;            | Stone\.             | Doubtful\.                                      
- 1768         | Sep\. 13            | Luce, France\.                                           | 3\.50             | Stone\.             | 7 ½ lbs\.                                       
+ 1768         | Sep\. 13            | Lucé, France\.                                           | 3\.50             | Stone\.             | 7 ½ lbs\.                                       
  1768         | Nov\. 20            | Mauerkirchen, Bavaria\.                                  | 3\.45             | Stone\.             | Two; one of 38 lbs\.                            
  1773         | Nov\. 17            | Sigena, Arragon, Spain\.                                 | 3\.63             | Stone\.             | 9 lbs\.                                         
  1775         | Sep\. 19            | Rödach, Coburg, Germany\.                                | &nbsp;            | Stone\.             | &nbsp;                                          
@@ -903,7 +903,7 @@ That is, a velocity more than 20 times too small to allow of the larger known me
  1829         | May 8               | Forsythe, Georgia, U\. S\.                               | 3\.50             | Stone\.             | 36 lbs\.                                        
  1829         | Aug\. 15            | Deal, New Jersey, U\. S\.                                | &nbsp;            | Stone\.             | &nbsp;                                          
  1830         | Feb\. 15            | Launton, Oxford, England\.                               | &nbsp;            | Stone\.             | 2 ½ lbs\.                                       
- 1831         | July 18             | Poitiers, Vouille, France\.                              | 3\.55             | Stone\.             | 40 lbs\. \(or May 13\)\.                        
+ 1831         | July 18             | Poitiers, Vouillé, France\.                              | 3\.55             | Stone\.             | 40 lbs\. \(or May 13\)\.                        
  1831         | Sept\. 9            | Wessely, Moravia\.                                       | &nbsp;            | Stone\.             | &nbsp;                                          
  1833         | Nov\. 25            | Blansko, Moravia\.                                       | &nbsp;            | Stone\.             | 8 lbs\.                                         
  1833         | Dec\. 28            | Okaninak, Volhynia, Russia\.                             | &nbsp;            | Stone\.             | 30 lbs\. \(27 or 29 Dec\.\)                     
@@ -996,7 +996,7 @@ That is, a velocity more than 20 times too small to allow of the larger known me
  1820             | Guildford, N\. Carolina, U\. S\.                          | 7\.67             | 28                  | &nbsp;                                                                           
  1822             | Randolph co\., N\. Carolina, U\. S\.                      | &nbsp;            | 2                   | Crystalline structure faint; texture very hard\.                                 
  1827             | Atacama, Bolivia\.                                        | &nbsp;            | 300                 | With crystallized olivine\.                                                      
- 1828             | Caille, Department du Var, France\.                       | 7\.64             | 1,100               | Known 200 years ago\. Wid\. figs\.                                               
+ 1828             | Caille, Départment du Var, France\.                       | 7\.64             | 1,100               | Known 200 years ago\. Wid\. figs\.                                               
  1828             | Bedford co\., Pennsylvania, U\. S\.                       | 6\.91             | &nbsp;              | \(Doubtful mass\.\)                                                              
  1829             | Bohumilitz, Bohemia\.                                     | 7\.60             | 103                 | With schreibersite\.                                                             
  1823 or 1824     | Kinsdale, between West Mountains and Connecticut, U\. S\. | &nbsp;            | &nbsp;              | Several pieces\.                                                                 
