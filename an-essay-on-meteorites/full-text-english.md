@@ -1052,6 +1052,7 @@ That is, a velocity more than 20 times too small to allow of the larger known me
  &nbsp;           | St\. Rosa, Coahuila, North Mexico\.                       | 7\.8              | 252                 | Soft\. Wid\. figures\.                                                           
  &nbsp;           | Madoc, Canada\.                                           | &nbsp;            | 370                 | Soft\. Indistinct\.                                                              
  &nbsp;           | Orange River, South Africa\.                              | &nbsp;            | &nbsp;              | Wid\. figs\. Very perfect\.                                                      
+ 1835 | Cape of Good Hope, S\. Africa\. | 7\.3 | 323 lbs\. | Widd\. figs\. 
 
 # Catalogue. --- No. 3. Doubtful; or Date of Fall Unknown.
 
