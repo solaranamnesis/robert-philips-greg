@@ -695,3 +695,263 @@ The mass of iron has a less sectional area than the stone because of its greater
 That is, a velocity more than 20 times too small to allow of the larger known meteoric masses to reach the earth, if projected from a lunar volcano.
 
 # Catalogue. --- No. 1. Stones and Irons.
+
+ **Year\.**   | **Month and day\.** | **Locality\.**                                           | **Spec\. grav\.** | **Iron or stone\.** | **Remarks\.**                                   
+--------------|---------------------|----------------------------------------------------------|-------------------|---------------------|-------------------------------------------------
+ B\. C\.      | &nbsp;              | &nbsp;                                                   | &nbsp;            | &nbsp;              | &nbsp;                                          
+ 1478         | &nbsp;              | Crete\.                                                  | &nbsp;            | Stone\.             | ?                                               
+ 1200         | &nbsp;              | Orchomenos\.                                             | &nbsp;            | ? Stone\.           | &nbsp;                                          
+ 644          | &nbsp;              | China\.                                                  | &nbsp;            | Stone\.             | &nbsp;                                          
+ 570 or 520   | &nbsp;              | Crete\.                                                  | &nbsp;            | Stone\.             | &nbsp;                                          
+ 343 or 654   | &nbsp;              | Rome, Italy\.                                            | &nbsp;            | Stone\.             | A shower of stones\.                            
+ 466          | &nbsp;              | Egospotamos, Pergamus, Thrace\.                          | &nbsp;            | Stone\.             | Very large stone\.                              
+ 204          | &nbsp;              | Ancona, Italy\.                                          | &nbsp;            | Stone\.             | A shower\.                                      
+ 211          | &nbsp;              | China\.                                                  | &nbsp;            | Stone\.             | &nbsp;                                          
+ 192          | &nbsp;              | China\.                                                  | &nbsp;            | Stone\.             | Two falls\.                                     
+ 176          | &nbsp;              | Crustumerian Territory, Italy\.                          | &nbsp;            | ? Stone\.           | &nbsp;                                          
+ &nbsp;       | &nbsp;              | Vocontii Territory, Gaul\.                               | &nbsp;            | Stone\.             | Time of Pliny\.                                 
+ 89           | &nbsp;              | China\.                                                  | &nbsp;            | Stone\.             | &nbsp;                                          
+ 38 to 6      | &nbsp;              | China\.                                                  | &nbsp;            | Stone\.             | 7 distinct falls\.                              
+ 46           | &nbsp;              | Acilla, Africa\.                                         | &nbsp;            | Stone\.             | Several stones\.                                
+ A\. D\.      | &nbsp;              | &nbsp;                                                   | &nbsp;            | &nbsp;              | &nbsp;                                          
+ 2 to 333     | &nbsp;              | China\.                                                  | &nbsp;            | Stone\.             | 5 distinct falls\.                              
+ 452          | &nbsp;              | Thrace\.                                                 | &nbsp;            | Stone\.             | 3 large stones\.                                
+ &nbsp;       | &nbsp;              | Emessa and Mount Lebanon, Syria\.                        | &nbsp;            | Stone\.             | 6th century \(?\)                               
+ About 570    | &nbsp;              | Bender, Arabia\.                                         | &nbsp;            | Stone\.             | A shower\.                                      
+ 616          | &nbsp;              | China\.                                                  | &nbsp;            | Stone\.             | Several\.                                       
+ 823          | &nbsp;              | Saxony                                                   | &nbsp;            | Stone\.             | &nbsp;                                          
+ 856          | Winter \(Dec\.\)    | Egypt\.                                                  | &nbsp;            | Stone\.             | 5 stones\.                                      
+ 886 or 839   | &nbsp;              | Japan\.                                                  | &nbsp;            | ? Stone\.           | ?                                               
+ 892 or 897   | &nbsp;              | Ahmendabad, India\.                                      | &nbsp;            | Stone\.             | &nbsp;                                          
+ 921          | &nbsp;              | Narni, Italy\.                                           | &nbsp;            | Stone\.             | A very large one\.                              
+ 905          | &nbsp;              | China\.                                                  | &nbsp;            | Stone\.             | &nbsp;                                          
+ 951          | &nbsp;              | Augsburg, Bavaria\.                                      | &nbsp;            | Stone\.             | One\.                                           
+ 998          | &nbsp;              | Magdeburg, Prussia\.                                     | &nbsp;            | Stone\.             | Two\.                                           
+ 1021         | July or Aug\.       | Africa\.                                                 | &nbsp;            | Stone\.             | Several\.                                       
+ 1057         | &nbsp;              | Hoang?, China\.                                          | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1112         | &nbsp;              | Aquileia, Trieste\.                                      | &nbsp;            | ? Stone\.           | &nbsp;                                          
+ 1198         | &nbsp;              | Near Paris, France\.                                     | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1135 or 1136 | &nbsp;              | Oldisleben, Thuringia, Germany\.                         | &nbsp;            | Stone\.             | One 12 in\. in diameter\.                       
+ 1164         | &nbsp;              | Misnia, Saxony\.                                         | &nbsp;            | Stone\.             | A shower\.                                      
+ ?            | &nbsp;              | Würzburg, Franconia\.                                    | &nbsp;            | Stone\.             | 13th century\.                                  
+ ?            | &nbsp;              | Welixos, Ussing, Russia\.                                | &nbsp;            | Stone\.             | 13th or 14th century\.                          
+ 1249         | July 26             | Quedlinburg, Saxony\.                                    | &nbsp;            | Stone\.             | A shower\.                                      
+ 1280         | &nbsp;              | Alexandria, Egypt\.                                      | &nbsp;            | Stone\.             | One\. \(?\)                                     
+ About 1300   | &nbsp;              | Arragon, Spain\.                                         | &nbsp;            | Stone\.             | Several large ones\.                            
+ 1304         | Oct\. 1             | Friedland, Saale, Saxony\.                               | &nbsp;            | ?                   | &nbsp;                                          
+ 1305         | &nbsp;              | Vandals, S\. Austria\.                                   | &nbsp;            | ?                   | &nbsp;                                          
+ 1328         | Jan\. 9             | In Mortahiah and Dakhalia\.                              | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1368         | &nbsp;              | Oldenburg, Germany\.                                     | &nbsp;            | Iron\.              | ?                                               
+ 1379         | May 26              | Minden, Hanover\.                                        | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1421         | &nbsp;              | Island of Java\.                                         | &nbsp;            | Stone\.             | One\.                                           
+ 1438         | &nbsp;              | Burgos, Spain\.                                          | &nbsp;            | Stone\.             | Many\. ?                                        
+ 1474         | &nbsp;              | Viterbo, Italy\.                                         | &nbsp;            | Stone\.             | Two large ones\.                                
+ 1480         | &nbsp;              | S\. Saxony or Bohemia\.                                  | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1491         | Mar\. 22            | Crema, Italy\.                                           | &nbsp;            | Stone\.             | One\.                                           
+ 1492         | Nov\. 7             | Ensisheim, France\.                                      | 3\.50             | Stone\.             | 270 lbs\. weight; one\.                         
+ 1496         | Jan\. 28            | Cesena, Romagna, Italy\.                                 | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1510         | &nbsp;              | Padua, Italy\.                                           | &nbsp;            | Stone\.             | \(Doubtful\.\)                                  
+ 1511         | Sept\.              | Crema, North Italy\.                                     | &nbsp;            | Stone\.             | Large number\.                                  
+ 1516         | &nbsp;              | China\.                                                  | &nbsp;            | Stone\.             | 6 fragments\.                                   
+ 1520         | May                 | Arragon, Spain\.                                         | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1540         | Apr\. 28            | Limousin, France\.                                       | &nbsp;            | Stone\.             | ?                                               
+ About 1545   | &nbsp;              | Neuhof, Saxony\.                                         | &nbsp;            | Iron\.              | &nbsp;                                          
+ 1545         | &nbsp;              | Piedmont, Italy\.                                        | &nbsp;            | Stone\.             | ?                                               
+ 1552         | May 19              | Thuringia, Saxony\.                                      | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1559         | &nbsp;              | Miscoz, Transylvania\.                                   | &nbsp;            | Stone\.             | Several\.                                       
+ 1561         | May 17              | Eilenborg, Torgau, Prussia\.                             | &nbsp;            | Stone\.             | One\.                                           
+ 1580         | May 27              | Göttingen \(?\), Germany\.                               | &nbsp;            | Stone\.             | Several\.                                       
+ 1581         | July 26             | Thuringia, Germany\.                                     | &nbsp;            | Stone\.             | One\.                                           
+ 1583         | Mar\. 2             | Piedmont, Italy\.                                        | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1585         | Jan\. 9             | Castrovillari or Rosas?, Italy\.                         | &nbsp;            | Stone\.             | 30 lbs\.; one stone\.                           
+ 1591         | June 9              | Kumersdorf?, Germany\.                                   | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1596         | Mar\. 1             | Crevalcore, Piedmont\.                                   | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1618         | August              | Muraköz, Styria\.                                        | &nbsp;            | Stone\.             | 3 of about 100 lbs\. each\.                     
+ 1620         | Apr\. 17            | Jalindher, Persia\.                                      | &nbsp;            | Iron\.              | 7 lbs\.                                         
+ 1622         | Jan\. 10            | Devon, England\.                                         | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1627         | Nov\. 27            | Provence, France\.                                       | &nbsp;            | Stone\.             | 59 lbs\.                                        
+ 1628         | Aug\. 9             | Berkshire, England\.                                     | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1634         | Oct\. 27            | Charollois, France\.                                     | &nbsp;            | Stone\.             | Two stones\.                                    
+ 1635         | June 21             | Vago near Verona, Italy\.                                | &nbsp;            | Stone\.             | A large stone, N\. To S\.                       
+ 1635         | July 7              | Calce, Vicenza, Italy\.                                  | &nbsp;            | Stone\.             | 11 oz\. \(Doubtful\.\)                          
+ 1636         | Mar\. 6             | Sagau, Silesia, Prussia\.                                | &nbsp;            | Stone\.             | One large one\.                                 
+ 1639         | Nov\. 29            | Mt\. Vaison, Maritime Alps, France\.                     | &nbsp;            | Stone\.             | 38 lbs\. \_One\_\.                              
+ 1642         | Aug\. 4             | Suffolk co\., between Woodbridge and Aldboro’, England\. | &nbsp;            | Stone\.             | 4 lbs\.                                         
+ 1647         | Feb\. 18            | Zwickau, Saxony\.                                        | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1647         | August              | Stolzenau, Westphalia, Germany\.                         | &nbsp;            | Stone\.             | ?                                               
+ 1650         | Aug\. 6             | Dordrecht, Holland\.                                     | &nbsp;            | Stone\.             | One stone\.                                     
+ 1650         | Sep\. 4 ?           | Milan, Italy\.                                           | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1654         | Mar\. 30            | Funen Island, Denmark\.                                  | &nbsp;            | Stone\.             | A shower\.                                      
+ 1668         | Jun\. 20            | Verona, Italy\.                                          | &nbsp;            | Stone\.             | Large ones\.                                    
+ 1671         | Feb\. 27            | Swabia, Austria\.                                        | &nbsp;            | Stone\.             | A shower\.                                      
+ 1673         | &nbsp;              | Dietting, Bavaria\.                                      | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1674         | Oct\. 6             | Glarus canton, Switzerland\.                             | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1676         | &nbsp;              | Orkneys, Scotland\.                                      | &nbsp;            | Stone\.             | Fell into a boat\.                              
+ 1677         | May 28              | Ermendorf, Saxony\.                                      | &nbsp;            | Stone\.             | Several\.                                       
+ 1680         | May 18              | Near London, England\.                                   | &nbsp;            | Stone\.             | Several\.                                       
+ 1683         | Jan\. 12            | Castrovillari, Calabria, Italy\.                         | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1683         | Mar\. 3             | Piedmont, Italy\.                                        | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1692         | &nbsp;              | Temesvar, Hungary\.                                      | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1697         | Jan\. 13            | Near Sienna, Italy\.                                     | &nbsp;            | Stone\.             | Several\.                                       
+ 1698         | May 19              | Berne, Switzerland\.                                     | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1700         | Autum\.             | Jamaica, West Indies\.                                   | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1715         | Apr\. 11            | Garz, Pomerania, Prussia\.                               | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1717         | Jan\.               | Larissa, Macedonia\.                                     | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1723         | June 22             | Reichstadt, Bohemia\.                                    | &nbsp;            | Stone\.             | A shower\.                                      
+ 1725         | July 3              | Mixbury, Northamptonshire, England\.                     | &nbsp;            | Stone\.             | 20 lbs\.                                        
+ 1727         | July 22             | Lilaschitz, Bohemia\.                                    | &nbsp;            | Stone\.             | Several\.                                       
+ 1738         | Aug\. 18            | Carpentras, France\.                                     | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1740         | Oct\. 25            | Rasgrad, Hungary\.                                       | &nbsp;            | Stone\.             | Several\.                                       
+ 1740, 1741   | Winter              | Greenland\.                                              | &nbsp;            | Stone\.             | A large stone\.                                 
+ 1750         | Oct\. 12            | Niort, Normandy, France\.                                | &nbsp;            | Stone\.             | A large stone\.                                 
+ 1751         | May 26              | Agram, Croatia\.                                         | 7\.80             | Iron\.              | 71 \+ 16 lbs\. W\. to E\.                       
+ 1752         | June 5              | Freisengen, Bavaria\.                                    | &nbsp;            | Stone\.             | Several \(or 1722\)\.                           
+ 1753         | July 3              | Tabor, Bohemia\.                                         | 3\.65             | Stone\.             | Several stones\.                                
+ 1753         | Sept\.              | Liponas, France\.                                        | 3\.66             | Stone\.             | Two = 31 lbs\.                                  
+ 1755         | July                | Terra Nuova, S\. Italy\.                                 | &nbsp;            | Stone\.             | 7 oz\.                                          
+ 1766         | July                | Albereto near Milan, S\. Italy\.                         | &nbsp;            | Stone\.             | One\.                                           
+ 1766         | Aug\. 15            | Novellara, Modena, S\. Italy\.                           | &nbsp;            | Stone\.             | Doubtful\.                                      
+ 1768         | Sep\. 13            | Luce, France\.                                           | 3\.50             | Stone\.             | 7 ½ lbs\.                                       
+ 1768         | Nov\. 20            | Mauerkirchen, Bavaria\.                                  | 3\.45             | Stone\.             | Two; one of 38 lbs\.                            
+ 1773         | Nov\. 17            | Sigena, Arragon, Spain\.                                 | 3\.63             | Stone\.             | 9 lbs\.                                         
+ 1775         | Sep\. 19            | Rödach, Coburg, Germany\.                                | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1775 or 1776 | &nbsp;              | Obruteza in Volhynia, Russia\.                           | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1776 or 1777 | &nbsp;              | Fabriano, Ancona, Italy\.                                | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1779         | &nbsp;              | Pettiswood, West Meath, Ireland\.                        | &nbsp;            | Stone\.             | 6 oz\.                                          
+ 1780         | April 1             | Beeston, England\.                                       | &nbsp;            | Stone\.             | ?                                               
+ 1780         | &nbsp;              | Lahore, India\.                                          | &nbsp;            | Iron\.              | &nbsp;                                          
+ 1782         | &nbsp;              | Turin, Italy\.                                           | &nbsp;            | Stone\.             | One fell\.                                      
+ 1785         | Feb\. 19            | Eichstädt, Bavaria\.                                     | 3\.65             | Stone\.             | &nbsp;                                          
+ 1787         | Oct\. 1             | Kharkof, Ukraine, Russia\.                               | &nbsp;            | Stone\.             | A shower\.                                      
+ 1789         | Aug\. 20            | France\.                                                 | &nbsp;            | Stone\.             | 15 inches in diameter\.                         
+ 1790         | July 24             | Barbotan, France\.                                       | 3\.62             | Stone\.             | Several of 10 and 20 lbs\.                      
+ 1791         | Oct\. 20            | Menabilly, Cornwall, England\.                           | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1791         | May 17              | Tuscany, Italy\.                                         | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1794         | June 16             | Sienna, Italy\.                                          | 3\.40             | Stone\.             | 12 small ones\.                                 
+ 1795         | Dec\. 13            | Wold Cottage, Yorkshire, England\.                       | 3\.85             | Stone\.             | 56 lbs\.                                        
+ 1795         | Apr\. 13            | Ceylon, India\.                                          | 3\.55             | Stone\.             | &nbsp;                                          
+ 1796         | Jan\. 4             | Belaja, Zerkwa, Russia\.                                 | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1796         | Feb\. 19            | Friexo, Portugal\.                                       | &nbsp;            | Stone\.             | 10 lbs\.                                        
+ 1796         | Mar\. 8             | Lusatia, Saxony\.                                        | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1798         | Mar\. 12            | Salis, France\.                                          | 3\.45             | Stone\.             | Or March 8\. W\. to E\.                         
+ 1798         | Dec\. 13            | Benares, India\.                                         | 3\.36             | Stone\.             | A shower\.                                      
+ 1799         | April 5             | Baton Rouge, Mississippi, U\. S\.                        | &nbsp;            | Stone\.             | Belfast Chron\. of the war\.                    
+ ? 1802       | Sept\.              | Scotland\.                                               | &nbsp;            | Stone\.             | Several\.                                       
+ 1803         | Oct\. 8             | Apt, Provence, France\.                                  | 3\.48             | Stone\.             | 7 lbs\.                                         
+ 1803         | July 4              | East Norton, Leicestershire, England\.                   | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1803         | Dec\. 13            | L’Aigle, France\.                                        | 3\.45             | Stone\.             | 3000 stones fell\.                              
+ 1803         | Dec\. 13            | Mässing, Bavaria\.                                       | 3\.26             | Stone\.             | 3 ¼ lbs\. Contains little iron\.                
+ 1804         | April 5             | Possil, Glasgow, Scotland\.                              | 3\.53             | Stone\.             | S\. E\. To N\. W\.                              
+ 1805         | Mar\. 25            | Irkutsk, Siberia\.                                       | &nbsp;            | Stone\.             | \_Two\_, of 7 \+ 2 ½ lbs\.                      
+ 1805         | June                | Constantinople, Turkey\.                                 | 3\.17             | Stone\.             | Contains no iron\.                              
+ 1805         | Nov\.               | Asco, Corsica\.                                          | 3\.66             | Stone\.             | &nbsp;                                          
+ 1806         | Mar\. 15            | Alais, France\.                                          | 1\.70             | Stone\.             | Carbonaceous; no iron\.                         
+ 1806         | May 17              | Glastonbury, Somerset, England\.                         | &nbsp;            | Stone\.             | \_One\_, 2 ½ lbs\.                              
+ 1807         | Mar\. 13            | Timochen, Smolensk, Russia\.                             | 3\.64             | Stone\.             | 160 lbs\.                                       
+ 1807         | Dec\. 14            | Weston, Connecticut, U\. S\.                             | 3\.50             | Stone\.             | 300 lbs\.; in fragments\.                       
+ 1808         | &nbsp;              | Moradabad, India\.                                       | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1808         | Apr\. 19            | Parma, Italy\.                                           | 3\.40             | Stone\.             | &nbsp;                                          
+ 1808         | May 22              | Stannern, Moravia\.                                      | 3\.15             | Stone\.             | 250 stones fell; no iron\.                      
+ 1808         | Sept\. 3            | Lissa, Bohemia\.                                         | 3\.52             | Stone\.             | 4 or 5 small ones\.                             
+ 1809         | &nbsp;              | Kikina, Smolensk, Russia\.                               | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1809         | June 20             | Lat\. 30 58 N\., long\. 70 25 W\.                        | &nbsp;            | Stone\.             | 6 oz\. Fell on ship\-board\.                    
+ 1810         | Jan\. 7             | Caswell, N\. Carolina, U\. S\.                           | &nbsp;            | Stone\.             | 3 lbs\.                                         
+ 1810         | July                | Futty\-Ghur, India\.                                     | &nbsp;            | ? Stone\.           | &nbsp;                                          
+ 1810         | August              | Tipperary, Ireland\.                                     | &nbsp;            | Stone\.             | 7 ¾ lbs\.                                       
+ 1811         | Nov\. 23            | Panganoor, India\.                                       | &nbsp;            | Iron \(?\)\.        | &nbsp;                                          
+ 1811         | Mar\. 12            | Poltowa, Russia\.                                        | 3\.49             | Stone\.             | \_Two\_ fell; one of 13 lbs\.                   
+ 1811         | July 8              | Berlanguillas, Spain\.                                   | 3\.49             | Stone\.             | 3 fell\.                                        
+ 1812         | Apr\. 12            | Toulouse, France\.                                       | 3\.70             | Stone\.             | Several small ones\.                            
+ 1812         | Apr\. 15            | Erxleben, Saxony\.                                       | 3\.63             | Stone\.             | 4 ½ lbs\.                                       
+ 1812         | Aug\. 5             | Chantonnay, France\.                                     | 3\.46             | Stone\.             | One of 69 lbs\., and 2 smaller\.                
+ 1813         | Mar\. 14            | Cutro, Calabria, Italy\.                                 | &nbsp;            | Stone\.             | Dust and stones\.                               
+ 1813         | Sept\. 10           | Limerick, Ireland\.                                      | 3\.64             | Stone\.             | 17 \+ 65 \+ 24 lbs\. E\. to W\.                 
+ 1813         | Dec\. 13            | Lontalex, Wiborg, Finland\.                              | 3\.07             | Stone\.             | Contains no iron\.                              
+ 1814         | Feb\. 3             | Bachmut, Ekatherinoslaw, Russia\.                        | 3\.42             | Stone\.             | 40 lbs\.                                        
+ 1814         | Sept\. 5            | Agen, France\.                                           | 3\.60             | Stone\.             | Several; \_one\_ of 18 lbs\.                    
+ 1814 or 1812 | &nbsp;              | Saros, North Hungary\.                                   | &nbsp;            | Stone\.             | 112 lbs\.                                       
+ 1815         | Feb\. 18            | Loodianah, India\.                                       | &nbsp;            | Stone\.             | 25 lbs\.                                        
+ 1815         | Oct\. 3             | Chassigny, France\.                                      | 3\.65             | Stone\.             | 8 lbs\.; contains no iron\.                     
+ 1816         | &nbsp;              | Near Nagy Banya, Hungary\.                               | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1818         | Mar\. 30            | Gov\. Of Volhynia, Zabortzcka, Russia\.                  | 3\.40             | Stone\.             | One\.                                           
+ 1818         | Feb\. 15            | Limoges, France\.                                        | &nbsp;            | ? Stone\.           | ?                                               
+ 1818         | June                | Seres, Macedonia\.                                       | 3\.70             | Stone\.             | 15 lbs\.                                        
+ 1818         | Aug\. 10            | Slobodka, Smolensk, Russia\.                             | 3\.47             | Stone\.             | \_One\_\.                                       
+ 1819         | Jun\. 13            | Jonzac, France\.                                         | 3\.08             | Stone\.             | Contains no iron\.                              
+ 1819         | Oct\. 13            | Politz, Gera, S\. Prussia\.                              | 3\.39             | Stone\.             | 3 fell; \_one\_ 7 lbs\.                         
+ 1820         | July 12             | Lixna, Witepsk, Russia\.                                 | 3\.70             | Stone\.             | 14 ½ lbs\.                                      
+ 1820         | Mar\. 21            | Vedenberg, Hungary\.                                     | &nbsp;            | Stone\.             | ?                                               
+ 1820         | Nov\. 29            | Cosenza, Calabria, Italy\.                               | &nbsp;            | Stone\.             | A shower of stones\.                            
+ 1821         | June 15             | Juvenas, France\.                                        | 3\.10             | Stone\.             | 3 fell; one 220 lbs\. Contains only 1\.5 iron\. 
+ 1822         | June 9              | Angers, France\.                                         | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1822         | Sept\. 10           | Carlstadt, Sweden\.                                      | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1822         | Sept\. 13           | La Baffe, Vosges, France\.                               | 3\.66             | Stone\.             | &nbsp;                                          
+ 1822         | Nov\. 30            | Futtehpore, Doab, India\.                                | 3\.35             | Stone\.             | Several; 1 of 22 lbs\. Dir\. S\. E\. to N\. W\. 
+ 1823         | Aug\. 7             | Nobleboro’, Maine, U\. S\.                               | 3\.09             | Stone\.             | 16 lbs\. \(sp\. gr\. 2\.0\)?                    
+ 1824         | Jan\. 15            | Renazzo, Italy\.                                         | 3\.25             | Stone\.             | 3 small ones fell\.                             
+ 1824         | Oct\. 14            | Zebrak, Bohemia\.                                        | 3\.60             | Stone\.             | 4 lbs\.                                         
+ 1824         | Feb\. 18            | Irkutsk, Siberia\.                                       | &nbsp;            | Stone\.             | 5 lbs\.                                         
+ 1825         | Jan\. 16            | Oriang, Malwate, India\.                                 | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1825         | Feb\. 10            | Nanjemoy, Maryland, U\. S\.                              | 3\.66             | Stone\.             | 16 lbs\.                                        
+ 1825         | Sept\. 14           | Owhyhee, Sandwich Isles\.                                | 3\.39             | Stone\.             | Two fell; together 30 lbs\.                     
+ 1825         | &nbsp;              | Ekatherinosloff, Russia\.                                | 3\.77             | Stone\.             | 86 lbs\.                                        
+ 1826         | Sept\.              | Waterville, Maine, U\. S\.                               | &nbsp;            | Stone\.             | Doubtful\.                                      
+ 1827         | Feb\. 27            | Mhow, Ghazeepore, India\.                                | 3\.5              | Stone\.             | \_One\_, of several pounds\.                    
+ 1827         | Oct\. 5 or 8        | Bialistock, Russia\.                                     | 3\.17             | Stone\.             | 4 lbs\.; contains no iron\.                     
+ 1827         | May 9               | Nashville, Summer co\., Tennessee\.                      | 3\.55             | Stone\.             | 3 fell; one 5 lbs\., another 11 ½ lbs\.         
+ 1828         | June 4              | Richmond, Virginia, U\. S\.                              | 3\.34             | Stone\.             | 4 lbs\.                                         
+ 1829         | May 8               | Forsythe, Georgia, U\. S\.                               | 3\.50             | Stone\.             | 36 lbs\.                                        
+ 1829         | Aug\. 15            | Deal, New Jersey, U\. S\.                                | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1830         | Feb\. 15            | Launton, Oxford, England\.                               | &nbsp;            | Stone\.             | 2 ½ lbs\.                                       
+ 1831         | July 18             | Poitiers, Vouille, France\.                              | 3\.55             | Stone\.             | 40 lbs\. \(or May 13\)\.                        
+ 1831         | Sept\. 9            | Wessely, Moravia\.                                       | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1833         | Nov\. 25            | Blansko, Moravia\.                                       | &nbsp;            | Stone\.             | 8 lbs\.                                         
+ 1833         | Dec\. 28            | Okaninak, Volhynia, Russia\.                             | &nbsp;            | Stone\.             | 30 lbs\. \(27 or 29 Dec\.\)                     
+ 1834         | June 12             | Charwallas, India\.                                      | 3\.38             | Stone\.             | 7 lbs\.                                         
+ 1834         | ? Nov\. 29          | Raffaten, borders of Hungary and Wallachia\.             | &nbsp;            | Stone\.             | A shower\.                                      
+ 1835         | July 30             | Dickson co\., Tennessee, U\. S\.                         | &nbsp;            | Iron\.              | 9 lbs\.                                         
+ 1835         | Aug\. 4             | Cirencester, England\.                                   | &nbsp;            | Stone\.             | 2 lbs\.                                         
+ 1835         | Nov\. 13            | Simond, de l’Ain, France\.                               | 1\.35             | Stone\.             | Contains no iron\.                              
+ 1836         | Dec\. 11            | Macao, Brazil\.                                          | 3\.72             | Stone\.             | Immense shower\.                                
+ 1836         | &nbsp;              | Platten See, Hungary\.                                   | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1837         | July 24             | Gross\-Divina, Hungary\.                                 | 3\.55             | Stone\.             | 19 lbs\.                                        
+ 1837         | August              | Esnaude, Charente, France\.                              | &nbsp;            | Stone\.             | 3 lbs\.                                         
+ 1838         | Apr\. 18            | Akburpoor, India\.                                       | &nbsp;            | Stone\.             | 4 lbs\.                                         
+ 1838         | June 6              | Chandakapore, Berar, India\.                             | 3\.53             | Stone\.             | 3 fragments\.                                   
+ 1838         | Oct\. 13            | Cold Bokkewelde, Cape of Good Hope\.                     | 2\.69             | Stone\.             | Many\. N\. W\. to S\. E\. Carbonaceous\.        
+ 1839         | Feb\. 13            | Little Piney Point, Missouri, U\. S\.                    | &nbsp;            | Stone\.             | 50 lbs\. N\. E\. to S\. W\.                     
+ 1839         | Nov\. 29            | Naples, Italy\.                                          | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1840         | July 17             | Casale, Piedmont\.                                       | &nbsp;            | Stone\.             | 11 lbs\.                                        
+ 1840         | May 9               | Kirghiz Steppes, Tartary\.                               | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1841         | March 22            | Grünberg, Silesia\.                                      | 3\.72             | Stone\.             | 2 ½ lbs\.                                       
+ 1841         | June 12             | Chateau Renard, Loiret, France\.                         | 3\.54             | Stone\.             | 75 lbs\.                                        
+ 1841         | August              | Iwan, Hungary\.                                          | &nbsp;            | Stone\.             | \(Or beginning of Sept\.\)                      
+ 1841         | Nov\. 5             | La Vendee, France\.                                      | &nbsp;            | Stone\.             | 11 lbs\.                                        
+ 1842         | Apr\. 26            | Milena, Croatia, Austria\.                               | 3\.54             | Stone\.             | &nbsp;                                          
+ 1842         | July 4              | Logrono, Spain\.                                         | &nbsp;            | Stone\.             | 7 lbs\.                                         
+ 1843         | March 25            | Bishopville, S\. Carolina, U\. S\.                       | 3\.02             | Stone\.             | 13 lbs\.; contains no iron\.                    
+ 1843         | June 2              | Utrecht, Holland\.                                       | &nbsp;            | Stone\.             | Two, 20 lbs\.                                   
+ 1843         | July 26             | Manegon, Khandeish, India\.                              | &nbsp;            | Stone\.             | 10 in\. in diameter\.                           
+ 1843         | Sept\. 16           | Kleinwinden, Mulhausen, Germany\.                        | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1844         | Jan\.               | Corrientes, Entre Rios, Brazil\.                         | &nbsp;            | Iron\.              | Large mass\.                                    
+ 1844         | Apr\. 29            | Kelleter, co\. Tyrone, Ireland\.                         | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1844         | Oct\. 2             | St\. Andrew’s, Cuba\.                                    | &nbsp;            | Stone\.             | Doubtful\.                                      
+ 1846         | May 10              | Macerata, Monte Milone, Italy\.                          | &nbsp;            | Stone\.             | \(Or May 8\.\) 9 stones\.                       
+ 1846         | Nov\. 11            | Lowell, Massachusetts, U\. S\.                           | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1846         | Dec\. 25            | Minderthal, Germany\.                                    | &nbsp;            | Stone\.             | 6 lbs\.                                         
+ 1846         | Summ\.              | Richland, S\. Carolina, U\. S\.                          | 2\.32             | Stone\.             | 6 oz\.                                          
+ 1847         | Feb\. 25            | Iowa, Linn\. co\., U\. S\.                               | 3\.58             | Stone\.             | 75 lbs\.                                        
+ 1847         | July 14             | Braunau, Silesia\.                                       | 7\.71             | Iron\.              | Two fragments, 42 and 30 lbs\.                  
+ 1848         | Feb\. 15            | Dharwar, India\.                                         | 3\.50             | Stone\.             | 4 lbs\.                                         
+ 1848         | May 20              | Castine, Maine, U\. S\.                                  | 3\.45             | Stone\.             | 1 ½ oz\. S\. E\. to N\. W\.                     
+ 1849         | Nov\.               | Tunis and Tripoli, N\. Africa\.                          | &nbsp;            | Stone\.             | A shower\. See the Phil\. Mag\. for 1850\.      
+ 1849         | Oct\. 31            | Cabarras co\., N\. Carolina, U\. S\.                     | 3\.63             | Stone\.             | 18 lbs\.                                        
+ 1849         | March 19            | Poonah, India\.                                          | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1850         | June 22             | Oviedo, Spain\.                                          | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1850         | Nov\. 30            | Bissempore, India\.                                      | &nbsp;            | Stone\.             | 3 feet in diameter\.                            
+ 1851         | Nov\. 5             | Barcelona, Nulles, Spain\.                               | &nbsp;            | Stone\.             | 3 fragments\. 19 lbs\.                          
+ 1851         | April               | Guterlof, Westphalia\.                                   | &nbsp;            | Stone\.             | &nbsp;                                          
+ 1852         | Sept\. 4            | Mezo\-Madaras, Transylvania\.                            | 3\.50             | Stone\.             | 18 lbs\. S\. W\. to N\. E\.                     
+ 1853         | Feb\. 10            | Girgenti, Sicily\.                                       | 3\.76             | Stone\.             | A large stone\.                                 
+ 1854         | Sept\. 5            | Fehrbellin, near Potsdam, Germany\.                      | &nbsp;            | Stone\.             | 6 lbs\.                                         
+ 1855         | May 13              | Bremeworde, Hamburg\.                                    | &nbsp;            | Stone\.             | Three, 10 lbs\.                                 
