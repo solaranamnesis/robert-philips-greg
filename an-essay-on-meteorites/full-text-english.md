@@ -271,11 +271,11 @@ Proceeding still further in our investigations of this part of the subject, I sh
 
  **Elements\.**               | **Vesta\.**  | **Juno\.**   | **Ceres\.**  | **Pallas\.** 
 ------------------------------|--------------|--------------|--------------|--------------
- Mean longitude…              | 69 32 15\.3  | 115 43 15\.1 | 327 41 07\.8 | 304 56 26\.4 
- Longitude of perihelion…     | 251 02 37\.4 | 54 08 33\.3  | 148 14 06\.2 | 121 22 43\.5 
- Longitude of ascending node… | 103 20 03\.4 | 170 52 28\.9 | 80 48 18\.7  | 172 41 48\.1 
- Inclination to ecliptic…     | 7 08 23\.2   | 13 03 05\.6  | 10 37 08\.7  | 34 37 40\.2  
- Angle of excentricity…       | 5 05 19\.9   | 14 42 23\.7  | 4 32 58\.9   | 13 54 01\.2  
+ Mean longitude…              | 69° 32′ 15\.3″  | 115° 43′ 15\.1″ | 327° 41′ 07\.8″ | 304° 56′ 26\.4″ 
+ Longitude of perihelion…     | 251° 02′ 37\.4″ | 54° 08′ 33\.3″  | 148° 14′ 06\.2″ | 121° 22′ 43\.5″ 
+ Longitude of ascending node… | 103° 20′ 03\.4″ | 170° 52′ 28\.9″ | 80° 48′ 18\.7″  | 172° 41′ 48\.1″ 
+ Inclination to ecliptic…     | 7° 08′ 23\.2″   | 13° 03′ 05\.6″  | 10° 37′ 08\.7″  | 34° 37′ 40\.2″  
+ Angle of excentricity…       | 5° 05′ 19\.9″   | 14° 42′ 23\.7″  | 4° 32′ 58\.9″   | 13° 54′ 01\.2″  
 
 "Such are the extraordinary conditions of the asteroids, whose intersecting orbits, leading them almost within hail of each other, so to speak, at the rate of more than 40,000 miles an hour, may eventually lead to mutual disturbances, which the attraction of the larger planets cannot control. Although the strange coincidences attending this group may be _accidental_, in general phrase, yet their phaenomena cannot but be considered as evidence tantamount to demonstration, of their having once composed a single planet, and having diverged by the explosive force of a tremendous cataclysm: and in addition to their orbital vagaries, the bodies themselves are not round, as is said to be indicated by the instantaneous diminution of their light on presenting their _angular_ faces."
 
