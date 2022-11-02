@@ -955,6 +955,9 @@ That is, a velocity more than 20 times too small to allow of the larger known me
  1853         | Feb\. 10            | Girgenti, Sicily\.                                       | 3\.76             | Stone\.             | A large stone\.                                 
  1854         | Sept\. 5            | Fehrbellin, near Potsdam, Germany\.                      | &nbsp;            | Stone\.             | 6 lbs\.                                         
  1855         | May 13              | Bremeworde, Hamburg\.                                    | &nbsp;            | Stone\.             | Three, 10 lbs\.                                 
+ 1850 | Sept\.   | Horta, Barcelona, Spain\.        | 8\.12  | Iron\.  | &nbsp;    
+ 1855 | Aug\. 5  | Lincoln co\., Tennessee, U\. S\. | &nbsp; | Stone\. | 3 ¾ lbs\. 
+ 1856 | April 26 | Ht\. Rhein, France\.             | &nbsp; | &nbsp;  | \[…\]     
 
 # Catalogue. --- No. 2. Iron Meteoric Masses.
 
