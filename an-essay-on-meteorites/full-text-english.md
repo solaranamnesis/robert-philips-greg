@@ -955,3 +955,99 @@ That is, a velocity more than 20 times too small to allow of the larger known me
  1853         | Feb\. 10            | Girgenti, Sicily\.                                       | 3\.76             | Stone\.             | A large stone\.                                 
  1854         | Sept\. 5            | Fehrbellin, near Potsdam, Germany\.                      | &nbsp;            | Stone\.             | 6 lbs\.                                         
  1855         | May 13              | Bremeworde, Hamburg\.                                    | &nbsp;            | Stone\.             | Three, 10 lbs\.                                 
+
+# Catalogue. --- No. 2. Iron Meteoric Masses.
+
+ **Discovered\.** | **Locality\.**                                            | **Spec\. grav\.** | **Pounds weight\.** | **Remarks, peculiarities, \_etc\.\_**                                            
+------------------|-----------------------------------------------------------|-------------------|---------------------|----------------------------------------------------------------------------------
+ B\. C\.          | &nbsp;                                                    | &nbsp;            | &nbsp;              | &nbsp;                                                                           
+ 1168             | Mount Ida, Crete\.                                        | &nbsp;            | &nbsp;              | ?                                                                                
+ 52 or 56         | Lucania, S\. Italy\.                                      | &nbsp;            | &nbsp;              | ? A spongy or vesicular mass\.                                                   
+ A\. D\.          | &nbsp;                                                    | &nbsp;            | &nbsp;              | &nbsp;                                                                           
+ 1368             | Oldenburg, Germany\.                                      | &nbsp;            | &nbsp;              | ? Iron; fell in 1368\.                                                           
+ 1545             | Neuhof, Saxony\.                                          | &nbsp;            | &nbsp;              | Fell between 1540 and 1550\.                                                     
+ 1618             | Bohemia\.                                                 | &nbsp;            | &nbsp;              | Fell 1618\. ?                                                                    
+ 1620             | Jalindher, Persia\.                                       | &nbsp;            | 7                   | Fell 1620, April 17\.                                                            
+ 1712             | Krasnojarsk, Siberia\.                                    | 6\.48             | 1,600               | Cont\. crystallized olivine\.                                                    
+ 1717             | Senegal, W\. Africa\.                                     | 7\.72             | &nbsp;              | Large quantity\. Has crystalline structure\.                                     
+ 1751             | Agram, Croatia\.                                          | 7\.80             | 71 \+ 16            | Two fragments; shows Widmänstattian figures when polished\. May 26\.             
+ 1780             | Lahore, India\.                                           | &nbsp;            | &nbsp;              | Fell 1780\.                                                                      
+ 1783             | \(Tucuman\), Otumpa, Mexico\.                             | &nbsp;            | 13 tons\.           | Wid\. figures, very perfect\.                                                    
+ 1784             | Rio de la Plata, S\. America\.                            | 7\.60             | 17,300              | Crystalline structure imperfect\.                                                
+ 1784             | Ziquipilco, Toluca, Mexico\.                              | 7\.67             | &nbsp;              | Large quantity\. Shows Wid\. figures\.                                           
+ 1784             | Sierra Blanca, Mexico\.                                   | &nbsp;            | 4,000               | Large quantity\. Shows Wid\. figures\.                                           
+ 1792             | Zacatecas, Mexico\.                                       | 7\.50             | 2,000               | Does not show Wid\. figs\.                                                       
+ 1793             | Cape of Good Hope, S\. Africa\.                           | 7\.00             | 300                 | Does not show Wid\. figs\.                                                       
+ 1805             | Bitberg, Prussia\.                                        | 6\.50             | 3,400               | Wid\. figs\.; ? with olivine\.                                                   
+ 1808             | Texas, Red River, U\. S\.                                 | 7\.70             | 3,000               | Wid\. figs\.; very distinct\.                                                    
+ 1810             | Brahin, Russia\.                                          | 6\.20             | 200                 | With crystalline olivine\.                                                       
+ 1811             | Panganoor, India\.                                        | &nbsp;            | &nbsp;              | Fell 1811; ? iron\.                                                              
+ 1811             | Elbogen, Bohemia\.                                        | 7\.74             | 190                 | Shows faint Wid\. figures\.                                                      
+ 1811             | Durango, Mexico\.                                         | 7\.88             | 35,000              | Wid\. figures, distinct\.                                                        
+ 1810             | Rasgata, Santa Rosas, N\. Granada\.                       | 7\.30             | 1,700               | Vesicular and malleable\.                                                        
+ 1814             | Lenarto, Hungary\.                                        | 7\.75             | 194                 | Wid\. figs\., very distinct\.                                                    
+ 1816             | White Mountains, Franconia, New Hampshire, U\. S\.        | &nbsp;            | 20                  | &nbsp;                                                                           
+ 1818             | Lockport, New York, U\. S\.                               | &nbsp;            | 36                  | Wid\. figs\.; cont\. pyrites\.                                                   
+ 1819             | Burlington, Otsego, New York, U\. S\.                     | 7\.50             | 150                 | Wid\. figs\.; extremely hard\.                                                   
+ 1819             | Baffin’s Bay, Greenland\.                                 | 7\.23             | &nbsp;              | Large mass\.                                                                     
+ 1820             | Guildford, N\. Carolina, U\. S\.                          | 7\.67             | 28                  | &nbsp;                                                                           
+ 1822             | Randolph co\., N\. Carolina, U\. S\.                      | &nbsp;            | 2                   | Crystalline structure faint; texture very hard\.                                 
+ 1827             | Atacama, Bolivia\.                                        | &nbsp;            | 300                 | With crystallized olivine\.                                                      
+ 1828             | Caille, Department du Var, France\.                       | 7\.64             | 1,100               | Known 200 years ago\. Wid\. figs\.                                               
+ 1828             | Bedford co\., Pennsylvania, U\. S\.                       | 6\.91             | &nbsp;              | \(Doubtful mass\.\)                                                              
+ 1829             | Bohumilitz, Bohemia\.                                     | 7\.60             | 103                 | With schreibersite\.                                                             
+ 1823 or 1824     | Kinsdale, between West Mountains and Connecticut, U\. S\. | &nbsp;            | &nbsp;              | Several pieces\.                                                                 
+ 1832             | Walker co\., Alabama, U\. S\.                             | 7\.26             | 165                 | Has no crystalline structure\.                                                   
+ 1834             | Scriba, Oswego co\., New York, U\. S\.                    | &nbsp;            | 8                   | Wid\. figures\.                                                                  
+ 1834             | Claiborne co\., Alabama, U\. S\.                          | 6\.5              | 20                  | &nbsp;                                                                           
+ 1835             | Dickson co\., Tennessee, U\. S\.                          | &nbsp;            | 9                   | Fell July 30\.                                                                   
+ 1835             | Black Mountains, Buncombe co\., N\. Carolina, U\. S\.     | 7\.26             | &nbsp;              | &nbsp;                                                                           
+ 1839             | Asheville, Buncombe co\., N\. Carolina, U\. S\.           | 7\.90             | 30                  | &nbsp;                                                                           
+ 1839             | Putnam co\., Georgia, U\. S\.                             | 7\.69             | 70                  | Wid\. figures\.                                                                  
+ 1840             | Cocke co\., Tennessee, U\. S\.                            | 7\.26             | 2,000               | Crystallized in structure, with graphite and magnetite\.                         
+ 1841             | Petropawlowski, Siberia\.                                 | 7\.76             | 17                  | Found 31 feet in the soil\.                                                      
+ 1841             | Newberry, Ruff Mountains, South Carolina, U\. S\.         | 7\.10             | 117                 | Structure crystalline\.                                                          
+ 1842             | Green co\., Babb’s Mill, Tennessee, U\. S\.               | &nbsp;            | 12 \+ 6             | \_Two\.\_ No Wid\. figures\.                                                     
+ 1843             | Otsego co\., New York, U\. S\.                            | &nbsp;            | 276 grs\.           | Finely crystalline\.                                                             
+ 1843             | St\. Augustine’s ay, Madagascar\.                         | &nbsp;            | &nbsp;              | Large quantities\.                                                               
+ 1843             | Arva, Hungary\.                                           | 7\.1              | &nbsp;              | Contains graphite and schreibersite\.                                            
+ 1845             | Buncombe co\., Hommoney Creek, N\. Carolina, U\. S\.      | 7\.32             | 27                  | Vesicular, and with a crystalline structure\.                                    
+ 1845             | De Kalb co\., Tennessee, U\. S\.                          | &nbsp;            | 36                  | &nbsp;                                                                           
+ 1846             | Jackson co\., Tennessee, U\. S\.                          | &nbsp;            | &nbsp;              | &nbsp;                                                                           
+ 1846             | Carthage, Smith co\., Tennessee, U\. S\.                  | &nbsp;            | 280                 | &nbsp;                                                                           
+ 1847             | Chester co\., S\. Carolina, U\. S\.                       | &nbsp;            | &nbsp;              | Wid\. figures indistinct\.                                                       
+ 1847             | Seeläsgen, Silesia\.                                      | 7\.70             | 218                 | ? No Wid\. figures\.                                                             
+ 1847             | Braunau, Silesia\.                                        | 7\.71             | 42 \+ 30            | Two fragments\. Wid\. figs\.; very small\. Cont\. pyrites\. Fell July 14, 1847\. 
+ 1849             | Fort Singhur, Deccan, India\.                             | 4\.80             | 31                  | Olivinoid and vesicular\.                                                        
+ 1850             | Schwetz, Prussia\.                                        | 7\.77             | 43                  | Wid\. figures, distinct\.                                                        
+ 1850             | Pittsburg, Pennsylvania, U\. S\.                          | 7\.38             | &nbsp;              | &nbsp;                                                                           
+ 1853             | Tazewell, Claiborne co\., Tennessee, U\. S\.              | 7\.80             | 60                  | Has a crystalline structure\.                                                    
+ 1853             | Long Creek, Jefferson co\., Tennessee, U\. S\.            | 7\.43             | 3                   | No Wid\. figures\.                                                               
+ 1853             | Cambell co\., Tennessee, U\. S\.                          | 7\.05             | 4 oz\.              | Wid\. figures\.                                                                  
+ &nbsp;           | Haywood co\., N\. Carolina, U\. S\.                       | 7\.42             | 1/8 oz\.            | Crystalline in structure\.                                                       
+ &nbsp;           | Lead Hills, Scotland\.                                    | &nbsp;            | ¾ oz\.              | Finely crystalline; very hard\.                                                  
+ &nbsp;           | Potosi, S\. America\.                                     | &nbsp;            | &nbsp;              | ? Atacama iron\.                                                                 
+ &nbsp;           | Steinbach, Saxony\.                                       | &nbsp;            | &nbsp;              | With olivine\.                                                                   
+ &nbsp;           | Seneca River, Cayuga co\., New York, U\. S\.              | 7\.34             | 9                   | With Wid\. figs\. and pyrites\.                                                  
+ &nbsp;           | Lion River, S\. Africa\.                                  | &nbsp;            | 170                 | &nbsp;                                                                           
+ &nbsp;           | Oaxaca, Mexico\.                                          | 7\.38             | &nbsp;              | Shows Wid\. figures\.                                                            
+ &nbsp;           | Salt River, Kentucky, U\. S\.                             | 6\.83             | &nbsp;              | Doubtful if meteoric\.                                                           
+ &nbsp;           | Murfreesboro’, Tennessee, U\. S\.                         | &nbsp;            | &nbsp;              | Large mass\.                                                                     
+ &nbsp;           | Charlotte co\., Tennessee, U\. S\.                        | &nbsp;            | 19 ?                | &nbsp;                                                                           
+ &nbsp;           | Grayson co\., Tennessee, U\. S\.                          | &nbsp;            | &nbsp;              | &nbsp;                                                                           
+ &nbsp;           | Roanoak, Virginia, U\. S\.                                | &nbsp;            | &nbsp;              | &nbsp;                                                                           
+ &nbsp;           | Alasej Mountains, Siberia\.                               | &nbsp;            | &nbsp;              | Large quantity\.                                                                 
+ &nbsp;           | Tucson, Sonora, New Mexico\.                              | 8\.0              | 2,500               | Three masses\. Olivine\.                                                         
+ &nbsp;           | Livingston co\., Kentucky, U\. S\.                        | &nbsp;            | &nbsp;              | Wid\. figs\. imperfect\.                                                         
+ &nbsp;           | Near the Caspian Sea\.                                    | &nbsp;            | &nbsp;              | Contains iron, nickel, cobalt and copper\.                                       
+ 1840             | Hemalga, Tealcahuaxo, Chili\.                             | 7\.5              | 17                  | Contains native lead\. \(\!\)                                                    
+ &nbsp;           | Greenland, lat\. 69 25\.                                  | 7\.05             | 21                  | Wid\. figures\.                                                                  
+ 1844             | Corrientes, Entre Rios, S\. America\.                     | &nbsp;            | &nbsp;              | Large mass\. Fell Jan\. 1844\.                                                   
+ &nbsp;           | Haciendo de Conception Zapata, Chihuahua, Mexico\.        | &nbsp;            | 3,850               | Very hard large mass\.                                                           
+ &nbsp;           | Senegal, Africa\.                                         | &nbsp;            | &nbsp;              | ?                                                                                
+ &nbsp;           | San Gregorio, North Mexico\.                              | &nbsp;            | &nbsp;              | A smaller mass\.                                                                 
+ &nbsp;           | St\. Rosa, Coahuila, North Mexico\.                       | 7\.8              | 252                 | Soft\. Wid\. figures\.                                                           
+ &nbsp;           | Madoc, Canada\.                                           | &nbsp;            | 370                 | Soft\. Indistinct\.                                                              
+ &nbsp;           | Orange River, South Africa\.                              | &nbsp;            | &nbsp;              | Wid\. figs\. Very perfect\.                                                      
+
+# Catalogue. --- No. 3. Doubtful; or Date of Fall Unknown.
