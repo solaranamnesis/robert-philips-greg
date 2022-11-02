@@ -924,7 +924,7 @@ That is, a velocity more than 20 times too small to allow of the larger known me
  1840         | July 17             | Casale, Piedmont\.                                       | &nbsp;            | Stone\.             | 11 lbs\.                                        
  1840         | May 9               | Kirghiz Steppes, Tartary\.                               | &nbsp;            | Stone\.             | &nbsp;                                          
  1841         | March 22            | Grünberg, Silesia\.                                      | 3\.72             | Stone\.             | 2 ½ lbs\.                                       
- 1841         | June 12             | Chateau Renard, Loiret, France\.                         | 3\.54             | Stone\.             | 75 lbs\.                                        
+ 1841         | June 12             | Château Renard, Loiret, France\.                         | 3\.54             | Stone\.             | 75 lbs\.                                        
  1841         | August              | Iwan, Hungary\.                                          | &nbsp;            | Stone\.             | \(Or beginning of Sept\.\)                      
  1841         | Nov\. 5             | La Vendee, France\.                                      | &nbsp;            | Stone\.             | 11 lbs\.                                        
  1842         | Apr\. 26            | Milena, Croatia, Austria\.                               | 3\.54             | Stone\.             | &nbsp;                                          
@@ -1094,4 +1094,4 @@ That is, a velocity more than 20 times too small to allow of the larger known me
  1762       | Canada\.                                                     | Dust\.             | Explosions, with meteors\.                         
  1814       | Canada\.                                                     | Dust\.             | Explosions, with meteors\.                         
  1819       | Canada\.                                                     | Dust\.             | Explosions, with meteors\.                         
- 1842       | Epinal, Vosges, France\.                                     | ?                  | Explosions, with meteors\. 5 Nov\.                 
+ 1842       | Épinal, Vosges, France\.                                     | ?                  | Explosions, with meteors\. 5 Nov\.                 
