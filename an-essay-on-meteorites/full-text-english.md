@@ -592,7 +592,7 @@ As far as I can judge, the European newspapers and scientific journals record th
 
 # Notes.
 
-Note 1. p. 6. --- One circumstance may be mentioned as being rather singular, which is, the extraordmary number of meteoric irons discovered within a comparatively short period in the United States, _viz._ thirty-four; while only one has been found in France, and but one in Great Britain; it may partly perhaps be accounted for when we consider how newly settled a country the former is, compared with either France or England.
+Note 1. p. 6. --- One circumstance may be mentioned as being rather singular, which is, the extraordinary number of meteoric irons discovered within a comparatively short period in the United States, _viz._ thirty-four; while only one has been found in France, and but one in Great Britain; it may partly perhaps be accounted for when we consider how newly settled a country the former is, compared with either France or England.
 
 In Mexico ten or eleven meteoric irons have been discovered and described, but there is no recorded or historic instance of a stone-fall; and in the United States there have been seventeen falls of stones this century, and but one observed iron-fall.
 
