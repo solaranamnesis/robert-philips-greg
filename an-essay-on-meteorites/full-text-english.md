@@ -1051,3 +1051,43 @@ That is, a velocity more than 20 times too small to allow of the larger known me
  &nbsp;           | Orange River, South Africa\.                              | &nbsp;            | &nbsp;              | Wid\. figs\. Very perfect\.                                                      
 
 # Catalogue. --- No. 3. Doubtful; or Date of Fall Unknown.
+
+ **Year\.** | **Locality\.**                                               | **&nbsp;**         | **Remarks\.**                                      
+------------|--------------------------------------------------------------|--------------------|----------------------------------------------------
+ ?          | Daghistan, \(? Scythia\.\)                                   | Stone\.            | Fell B\. C\.                                       
+ 648        | Constantinople\.                                             | Stone\.            | &nbsp;                                             
+ 1095       | France\.                                                     | Stone\.            | April 4\.                                          
+ 1672       | France\.                                                     | ?                  | &nbsp;                                             
+ 1676       | Copinsha, ?                                                  | ?                  | &nbsp;                                             
+ 1676       | Near Leghorn, Italy\.                                        | ?                  | March 21\. Fell in the sea\.                       
+ 1753       | Eichstädt, Germany\.                                         | Stone\.            | January\. ?                                        
+ 1756       | France\.                                                     | Stone\.            | &nbsp;                                             
+ 1776       | Novellara, Italy\.                                           | Stone\.            | August 5\.                                         
+ 1783       | England\.                                                    | Shower of stones\. | August 18\.                                        
+ 1785       | France\.                                                     | ?                  | &nbsp;                                             
+ 1799       | Baton Rouge, Mississippi, U\. S\.                            | ?                  | April 5\.                                          
+ 1805       | Dordrecht, Holland\.                                         | Stone\.            | &nbsp;                                             
+ 1806       | Basingstoke, Hants, England\.                                | Stone\.            | May 17\.                                           
+ 1810       | France\.                                                     | Stone\.            | ?                                                  
+ 1809       | South Atlantic\.                                             | ?                  | Fell into the sea\. June 19\.                      
+ 1814       | Doab, India\.                                                | ?                  | November 5\.                                       
+ 1813       | Malpas, Cheshire, England\.                                  | Shower of stones\. | In the summer\.                                    
+ 1817       | Paris, France\.                                              | ?                  | November 3\.                                       
+ 1817       | Baltic\.                                                     | ?                  | Fell in the sea\. May 2\.                          
+ 1822       | Kadonah, near Agra, India\.                                  | Stone\.            | Aug\. 7\. Same as the fall at Futtehpore?          
+ 1819       | Blankenberg, Pays Bas\.                                      | &nbsp;             | Nov\. 2\. Red rain\.                               
+ 1824       | Sterlitamak, Orenburg, Russia\.                              | &nbsp;             | Hailstones, enclosing crystals of pyrites\. Sept\. 
+ 1826       | Castres, France\.                                            | ?                  | &nbsp;                                             
+ About 1780 | Kinsdale, New Hampshire, U\. S\., near West River Mountain\. | &nbsp;             | Masses of iron fell\.                              
+ ?          | Cape of Good Hope, S\. Africa\.                              | Iron\.             | ?                                                  
+ 1801       | Isle aux Tonneliers, Mauritius\.                             | Iron\.             | ?                                                  
+ ?          | Pulrose, Isle of Man\.                                       | Iron\.             | &nbsp;                                             
+ ?          | Concord, New Hampshire, U\. S\.                              | Iron\.             | &nbsp;                                             
+ ?          | Russia\.                                                     | Iron\.             | Several\. Dates unknown\.                          
+ ? 1833     | Kandahar, Afghanistan\.                                      | Shower of stones\. | \(See \_Comptes Rendus\_, 1836\.                   
+ ?          | Lucerne, Switzerland\.                                       | Dust\.             | ?                                                  
+ 1637       | Canada\.                                                     | Dust\.             | Explosions, with meteors\.                         
+ 1762       | Canada\.                                                     | Dust\.             | Explosions, with meteors\.                         
+ 1814       | Canada\.                                                     | Dust\.             | Explosions, with meteors\.                         
+ 1819       | Canada\.                                                     | Dust\.             | Explosions, with meteors\.                         
+ 1842       | Epinal, Vosges, France\.                                     | ?                  | Explosions, with meteors\. 5 Nov\.                 
