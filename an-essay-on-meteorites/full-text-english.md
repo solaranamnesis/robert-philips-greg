@@ -10,13 +10,13 @@
 
 # [Observations on Meteorolites or Aërolites, considered Geographically, Statistically, and Cosmically; Accompanied by a Complete Catalogue of Meteoric Falls.](#observations-on-meteorolites-or-aërolites-considered-geographically-statistically-and-cosmically-accompanied-by-a-complete-catalogue-of-meteoric-falls-1)
 
-# [Notes.](#notes)
+# [Notes.](#notes-1)
 
-# [Catalogue. --- No. 1. Stones and Irons.](#catalogue-----no-1-stones-and-irons)
+# [Catalogue. --- No. 1. Stones and Irons.](#catalogue-----no-1-stones-and-irons-1)
 
-# [Catalogue. --- No. 2. Iron Meteoric Masses.](#catalogue-----no-2-iron-meteoric-masses)
+# [Catalogue. --- No. 2. Iron Meteoric Masses.](#catalogue-----no-2-iron-meteoric-masses-1)
 
-# [Catalogue. --- No. 3. Doubtful; or Date of Fall Unknown.](#catalogue-----no-3-doubtful-or-date-of-fall-unknown)
+# [Catalogue. --- No. 3. Doubtful; or Date of Fall Unknown.](#catalogue-----no-3-doubtful-or-date-of-fall-unknown-1)
 
 ---
 
