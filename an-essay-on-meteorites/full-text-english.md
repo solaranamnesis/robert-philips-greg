@@ -987,7 +987,7 @@ That is, a velocity more than 20 times too small to allow of the larger known me
  1811             | Panganoor, India\.                                        | &nbsp;            | &nbsp;              | Fell 1811; ? iron\.                                                              
  1811             | Elbogen, Bohemia\.                                        | 7\.74             | 190                 | Shows faint Wid\. figures\.                                                      
  1811             | Durango, Mexico\.                                         | 7\.88             | 35,000              | Wid\. figures, distinct\.                                                        
- 1810             | Rasgata, Santa Rosas, N\. Granada\.                       | 7\.30             | 1,700               | Vesicular and malleable\.                                                        
+ 1810             | Rasgatà, Santa Rosas, N\. Granada\.                       | 7\.30             | 1,700               | Vesicular and malleable\.                                                        
  1814             | Lenarto, Hungary\.                                        | 7\.75             | 194                 | Wid\. figs\., very distinct\.                                                    
  1816             | White Mountains, Franconia, New Hampshire, U\. S\.        | &nbsp;            | 20                  | &nbsp;                                                                           
  1818             | Lockport, New York, U\. S\.                               | &nbsp;            | 36                  | Wid\. figs\.; cont\. pyrites\.                                                   
