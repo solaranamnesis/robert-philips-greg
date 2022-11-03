@@ -7,8 +7,12 @@
 \setlength{\emergencystretch}{15pt}
 \usepackage{fancyhdr}
 \usepackage{amssymb}
+\usepackage{lscape}
+\usepackage{longtable}
+\usepackage{tablefootnote}
 \usepackage{array}
 \usepackage{imakeidx}
+\usepackage{float}
 \usepackage{qtree}
 \usepackage{microtype}
 \begin{document}
@@ -100,18 +104,70 @@ Great care has been taken to avoid erroneous dates or confusion of localities; a
 It is more especially my present object to investigate some of the results apparently indicated by these tables, constructed purposely from the general catalogue; and I shall consider the subject, first \emph{geographically}, \emph{i. e.} with regard to the \emph{geographical} distribution or deposition of aërolites on the surface of the globe; secondly, \emph{statistically}, with reference to dates and numbers; and thirdly, if I may use the term, \emph{cosmically}.
 
 Considerable allowance must be made in the following, as indeed in all considerations respecting these singular bodies; but I am of opinion that the number of falls now brought together in a tabulated form will be sufficient to furnish us with some evidence, if indeed only of a negative kind, to start from. The three following tables would indicate a pretty equable occurrence of meteoric falls on the surface of our earth, a point by no means without importance. Due allowance must of course be made for various counteracting influences, such as preponderance of sea and uninhabited countries in certain latitudes, and want of historical or scientific records among particular nations, etc.
-
 \subsection{Table A.}
-
-                  
-
+\begin{table}[H]
+    \centering
+    \footnotesize
+    \begin{tabular}{|p{40mm}|l|l|l|p{17mm}|}
+    \hline
+         Countries. & Stones. & Irons. & Total. & Average latitude. $^\circ$ \\ \hline
+        France & 34 & 1 & 35 & 46 N. \\ \hline
+        Ireland and Great Britain & 20 & 1 & 21 & 53 N. \\ \hline
+        Bavaria, Prussia; Germany & 38 & 6 & 44 & 51 N. \\ \hline
+        Hungary, Bohemia; Austria & 28 & 5 & 33 & 48 N. \\ \hline
+        Switzerland & 2 & ~ & 2 & 46 N. \\ \hline
+        Lombardy, Piedmont, Sicily; Italy & 33 & 1 & 34 & 43 N. \\ \hline
+        Portugal and Spain & 9 & ~ & 9 & 40 N. \\ \hline
+        European Russia & 14 & 1 & 15 & 54 N. \\ \hline
+        Finland and Siberia & 4 & 3 & 7 & 63 N. \\ \hline
+        Sweden & 1 & ~ & 1 & 60 N. \\ \hline
+        Asia Minor, Crete; Turkey & 10 & 1 & 11 & 40 N. \\ \hline
+        Egypt, Arabia and N. Africa & 6 & 1 & 7 & 30 N. \\ \hline
+        Tartary, Persia and Central Asia & 1 & 2 & 3 & 35 N. \\ \hline
+        Japan and China & 23 & ~ & 23 & 18 N. \\ \hline
+        Ceylon and India & 19 & 3 & 22 & 20 N. \\ \hline
+        United States & 18 & 36 & 54 & 35 N. \\ \hline
+        Greenland & 1 & 2 & 3 & 65 N. \\ \hline
+        West Indies and Mexico & 2 & 10 & 12 & 25 N. \\ \hline
+        Sandwich Islands & 1 & ~ & 1 & 20 N. \\ \hline
+        South Africa & 2 & 2 & 4 & 30 S. \\ \hline
+        Java & 1 & ~ & 1 & 10 S. \\ \hline
+        South America & 1 & 8 & 9 & 20 S. \\ \hline
+        Canada & ~ & 1 & 1 & ~ \\ \hline \hline
+        Totals & 268 & 84 & 352 & ~ \\ \hline
+    \end{tabular}
+\end{table}
 \subsection{Table B. --- Showing the number of Meteoric Depositions recorded, arranged according to zones of Latitude, North.}
-
-
-
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|l|r|}
+    \hline
+        Between N. Latitude 5$^\circ$ and 10$^\circ$ & 3 \\ \hline
+        Between N. Latitude 10$^\circ$ and 20$^\circ$ & 18 \\ \hline
+        Between N. Latitude 20$^\circ$ and 30$^\circ$ & 35 \\ \hline
+        Between N. Latitude 30$^\circ$ and 40$^\circ$ & 75 \\ \hline
+        Between N. Latitude 40$^\circ$ and 50$^\circ$ & 129 \\ \hline
+        Between N. Latitude 50$^\circ$ and 60$^\circ$ & 68 \\ \hline
+        Between N. Latitude 60$^\circ$ and 70$^\circ$ & 9 \\ \hline \hline
+        ~ & 337 \\ \hline
+    \end{tabular}
+\end{table}
 \subsection{Table C. --- Showing the proportion of falls, for several countries, that might be supposed to occur, making due allowance for the relative extent and population of each, taking France as the standard or unit of comparison, and commencing with the year 1790.}
-
-                
+\begin{table}[!ht]
+    \centering
+    \begin{tabular}{|l|l|l|}
+    \hline
+         ~ & Actual number. & Computed number. \\ \hline
+        France & 19 & 19 \\ \hline
+        Great Britain and Ireland & 11 & 12 \\ \hline
+        Spain & 5 & 9 \\ \hline
+        Germany & 12 & 13 \\ \hline
+        Austria & 14 & 13 \\ \hline
+        Italy & 11 & 14 \\ \hline
+        European Russia & 12 & 31 \\ \hline
+        United States & 18 & 8 \\ \hline
+    \end{tabular}
+\end{table}                
 \paragraph{}
 The number of meteoric falls recorded for Great Britain, France, Germany, Austria and Italy, is thus shown to have been sixty-seven, in a period of sixty-four years. Taking the area of these five countries at 900,000 square miles, and that of the earth's surface at 197 millions, we obtain 220 as the number of annual falls likely, in the ordmary course of events, to be observed, were the whole surface of our globe peopled with an European density of population and a similar degree of civilization.
 
@@ -130,18 +186,57 @@ I need not say more respecting this part of the subject, except that I must diff
 It would indeed be strange should these bodies --- varying in size and weight from half an ounce to 30,000 lbs., sometimes containing no iron at all, and occasionally composed of nothing but iron, having an oblique direction generally from east to west, and a velocity of fifteen to thirty miles in a second, --- be attracted by particular countries more than others, or arrange themselves in zones parallel to the isothermal or isodynamic lines.
 
 The next point I shall draw attention to, are the variations in the number of falls taken in five-yearly periods, from 1795 up to 1854:---
-
-
-
+\begin{table}[H]
+    \centering
+    \begin{tabular}{l r}
+         ~ & ~ \\ \hline
+        From 1795 to 1800 are described… & 7 \\ \hline
+        From 1800 to 1805 are described… & 6 \\ \hline
+        From 1805 to 1810 are described… & 13 \\ \hline
+        From 1810 to 1815 are described… & 15 \\ \hline
+        From 1815 to 1820 are described… & 9 \\ \hline
+        From 1820 to 1825 are described… & 12 \\ \hline \hline
+        Falls… & 62 \\ \hline \hline
+        From 1825 to 1830 are described… & 11 \\ \hline
+        From 1830 to 1835 are described… & 7 \\ \hline
+        From 1835 to 1840 are described… & 12 \\ \hline
+        From 1840 to 1845 are described… & 14 \\ \hline
+        From 1845 to 1850 are described… & 11 \\ \hline
+        From 1850 to 1854 are described… & 7 \\ \hline \hline
+        Falls… & 63 \\ \hline \hline
+        Total… & 125 \\ \hline
+    \end{tabular}
+\end{table}
+\paragraph{}
 This gives an average of eleven for each of the twelve quinquennial periods, or nearly \emph{two} per annum; but one more fall is recorded for the first moiety of the sixty years than for the second, though one might have expected rather a marked increase during the second period, owing to the increase which has taken place during the last quarter of a century in population and intelligence, as well as facilities for procuring and disseminating information.
 
 Indeed, as but one fall is recorded for each of the years 1852, 1853, 1854 and 1855, and but two for each of the years 1847, 1848, 1849 and 1850, while some years present us with three, four, and even five instances of falls, one is almost led to imagine a temporary if not absolute falling off in the frequency of these phaenomena; whether this may be owing to accident and chance, or to the existence of some unknown cause or cycle, we must, from want of more data, at present remain ignorant.
 
 The following Table, presenting an analysis of the total number of known falls I have been enabled to collect or hear of, arranged according to the falls for each month, from the year AD 1496 to 1855, shows some curious if not indeed important results.
-
 \subsection{Table D.}
- 
-
+ \begin{table}[H]
+    \centering
+    \begin{tabular}{|l|r|}
+    \hline
+        Month. & No. \\ \hline
+        January & 10 \\
+        February & 15 \\
+        March & 17 \\
+        April & $14\frac{1}{2}$ \\
+        May & 17 \\
+        June & 18 \\ \hline
+        First half-yearly total & $91\frac{1}{2}$ \\ \hline
+        July & $19\frac{1}{2}$ \\
+        August & 15 \\
+        September & 16 \\
+        October & 14 \\
+        November & 16 \\
+        December & 9 \\ \hline
+        Second half-yearly total & $89\frac{1}{2}$ \\ \hline \hline
+        N. B. Average & 15.0 \\ \hline
+    \end{tabular}
+\end{table}
+\paragraph{}
 It is rather singular how nearly equal the number is for each half-yearly period; but the most important thing to notice is the great falling off for the months of December and January, and the almost corresponding increase for June and July; the two former together only show 19, while the two latter $37\frac{1}{2}$, or about double.\footnote{Monsieur Marcel de Serres, in the \emph{Annales de Chimie et de Physique}, vol. 85. p. 262, remarks, that out of sixty-five falls, two-thirds were in June, July and August.}
 
 It may be argued, that this is in consequence of the days being longer in summer than in winter. While, however, there is but 16 per cent. more daylight in November than in December, the falls of meteorites are, it is seen, more than 50 per cent. more, and while there are ten falls recorded in January, there are fifteen in February, and seventeen in March, months when the days are still nearly as short. November shows considerably more also than December. The difference existing between different countries, in latitude and longitude, will also tend rather to equalize the difference that occurs in the duration or simultaneous commencement of night at any particular period of the year. The ten falls for January are spread over, be it observed, a very long period. There appear only to be four instances in the last hundred years. (See Note 2.)
@@ -153,11 +248,27 @@ Let it be borne in mind that the earth in her orbit at those periods of the year
 I shall revert to this part of the subject, and now proceed to the consideration of the following Table which I have constructed, rather roughly indeed, from the reports of Professor Powell, drawn up for, and published by the British Association, in the volumes of its Transactions for the years 1848 to 1853. At best these results can only be relative and approximative.
 
 Column A. denotes the total number of luminous meteors described (or recorded and particularized) in the above-named reports; and column B. the number only of the most remarkable ones.\footnote{Such as those having a larger \emph{apparent} size than the planet Jupiter, those accompanied by audible explosion, or such as are described as having approached particularly near the surface of the earth.}
-
 \subsection{Table E. --- Luminous Meteors.}
-
-                           
-
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|l|l|l|r|}
+    \hline
+         Months. & A. & B. & Percentage of large ones. \\ \hline
+        January & 190 & 13 & 6.8 \\ \hline
+        February & 102 & 18 & 18.0 \\ \hline
+        March & 117 & 7 & 6.0 \\ \hline
+        April & 236 & 15 & 6.7 \\ \hline
+        May & 41 & 8 & 20.0 \\ \hline
+        June & 88 & 12 & 13.6 \\ \hline
+        July & 364 & 20 & 5.5 \\ \hline
+        August & 4370 & 25 & 0.6 \\ \hline
+        September & 315 & 25 & 7.9 \\ \hline
+        October & 320 & 12 & 3.9 \\ \hline
+        November & 1470 & 24 & 1.7 \\ \hline
+        December & 310 & 19 & 6.1 \\ \hline
+    \end{tabular}
+\end{table}
+\paragraph{}
 On comparing this table with Table D, one is struck with several comparative dissimilarities of result. The marked poverty of meteors observed in March, May and June, does not agree with the number of aërolites observed for the same months, as given in Table D, where March and May have over the average number, for the whole year.
 
 In Table E, December has nearly as many as July, September and October; and more than January, February, March, April, May and June. This may perhaps be the result of chance, but not so when we take the months of August and November (Table E.); these two months show a decided and even enormous preponderance in the number of luminous meteors observed, owing principally to the periodic displays which usually take place from the 9$^{th}$ to the 13$^{th}$ of each month.
@@ -179,8 +290,23 @@ I am not now proposing any new theory, but only supporting and carrying out the 
 The average specific gravity of about seventy stones\footnote{Iron falls are comparatively very rare, as compared with stone falls.} I find to be 3.4, the highest being about 3.95 and the lowest 1.7; but as those possessing the smallest specific gravity are necessarily the most destructible and fragile, and after meteoric explosion less likely to arrive on the surface of the earth in an entire or tangible state, we may very fairly take their average density nearer the mean of these two extremes, say 3.0.
 
 We may now construct a Table of densities (taking water as 1), which is not without interest, as perhaps bearing on the subject in hand.
-     
-
+\begin{table}[H]
+    \centering
+    \begin{tabular}{l r r}
+    \hline
+         ~ & Smyth. & Pierce. \\ \hline
+        The density of Mercury is about… & 15.7 & 20.1 \\ \hline
+        The density of Venus is about… & 5.9 & 5.1 \\ \hline
+        The density of Earth is about… & 5.7 & 5.6 \\ \hline
+        The density of Moon is about… & ~ & 3.6 \\ \hline
+        The density of Mars is about… & 5.3 & 3.8 \\ \hline
+        The density of Aërolites is about… & 3.0 & 3.4 \\ \hline
+        The density of Asteroids is about… & ? & ~ \\ \hline
+        The density of Jupiter is about… & 1.4 & 2.1 \\ \hline
+        The density of Saturn is about… & ~ & 0.76 \\ \hline
+    \end{tabular}
+\end{table}     
+\paragraph{}
 There is here some additional evidence that aërolites or meteorites may belong to the series of planets having orbits at a greater mean distance than that of the earth's from the sun. Bearing this in mind, as also the probability of the fact of our meeting with more of them on the side of the summer solstice, or when the earth is at her \emph{aphelion}, I would draw attention to the following extract from a paper in the American Journal of Science for July 1854, entitled ``Considerations on the group of small Planets situated between Mars and Jupiter,'' by M. U. J. Le Verrier; the paper in question being a translation and abbreviation of the original in the \emph{Comptes Rendus}, vol. 37. p. 793:---
 
 ``If the perihelia of the asteroids, known and unknown, were distributed uniformly in all parts of the zodiac, the second term of the motion of the pershehon of Mars or of the earth might be neglected; because the action of those masses whose perihelia are situated in one half of the heavens, would be destroyed in this second term by the action of those masses whose perihelia are in the other half. But we have seen that there is great liability to error in reckoning upon such a uniformity in their distribution; the perihelia of twenty out of twenty-six being placed in one half of the heavens, a result doubtless not of chance, and seeming to indicate that the matter \emph{whose mass we are investigating is nearer the sun on the side of the summer solstice than of the winter}. This circumstance must be taken into consideration, not for the purpose of introducing it as an essential condition into the solution of the problem, but, on the contrary, of arriving at a result which shall be independent of it.''
@@ -199,9 +325,10 @@ In a second memoir (\emph{Comptes Rendus}, t. 37. p. 965) M. Le Verrier establis
 \end{enumerate}
 \paragraph{}
 \emph{Flora}, which is nearest to the sun of the known asteroids, is 2.20 distant. M. Le Verrier also observes that it is remarkable that a planet has been found almost up to the line which theory assigns as the limit of stability, and that none have been found beyond it. Must we believe that the same cause which has given origin to so many asteroids above the distance 2.00, \emph{has also distributed them below this distance}? but that the excentricities and inclinations of these last being considerably increased, it is at present difficult to discover them, especially because towards their perihelion they will be immersed in the light of the sun, and that coming to their opposition only in their aphelia, they then will be too far from us?
-
-4. ``Owing to the magnitude of their excentricities and their inclinations and the smallness of their variations, the mean motions of the perihelia and of the nodes are proportional to the times.''
-
+\begin{enumerate}
+    \item[4.] ``Owing to the magnitude of their excentricities and their inclinations and the smallness of their variations, the mean motions of the perihelia and of the nodes are proportional to the times.''
+\end{enumerate}
+\paragraph{}
 From the above extracts, if would appear, according to Le Verrier, that there is a probable predominance of the perihelia of the asteroids in the mean direction of our summer solstice; a circumstance, if true, in favour of the opinion I have expressed, that the increase observable in the number of falls recorded for the months of June and July is not quite the result of chance. What Le Verrier says also respecting the probability of undiscovered asteroids outlying as it were the mean limit of stability, argued inductively, is also interesting, and indirectly bears on the point we have been considering. The extreme degree of ellipticity assigned also to the orbits of the asteroids should be noticed.
 
 Proceeding still further in our investigations of this part of the subject, I shall beg leave to make the following quotation from `Smyth's Celestial Cycle,' p. 159. vol. 1., on the subject of the asteroids:---
@@ -209,8 +336,20 @@ Proceeding still further in our investigations of this part of the subject, I sh
 ``Borrowing from La Place's conjecture before alluded to of a great contraction of the sun's atmosphere, a convulsive disorganization of some planet may be supposed to have taken place, by a force capable of overcoming the mutual attraction of its particles, and the mass of matter so broken would inevitably be dispersed in every direction, and in parts of various sizes.''
 
 ``The impulses given by the explosion would gradually diminish, and the parts, in gravitating towards the sun, would become influenced by progression and rotation. To this view there does not appear to be any demonstrable objection. It was suggested that under such a disruption the form of the orbits assumed by the fragments, and their inclination to the ecliptic, or to the orbit of the original planet, would depend upon the size of the fragments, or the weight of their respective masses; \emph{the larger mass would deviate least from the original path, while the smaller fragments being thrown off with greater velocity, will revolve in orbits more excentric and more inclined to the ecliptic}. Now that is precisely what happens. Ceres and Vesta are found to be the largest of the asteroids, and their orbits have nearly the same inclination as some of the old planets; while the orbits of the smaller ones, Juno and Pallas, are inclined to the ecliptic $13^\circ$ and $34.5^\circ$ respectively. Lagrange computed the force of explosion necessary to burst a planet, and convert a portion of it into a systematic wanderer. By the process described in the \emph{Connaissance des Tems} for 1814, he arrived at the conclusion, that were a fragment to be impelled with a velocity equal to 121 times that of a cannon-ball, it would become a \emph{direct} comet, but a \emph{retrograde} one if the velocity were 156 times. With weaker impulse, however, the frazment would describe an ellipse, and thus, it is presumed, the asteroids probably were impelled with only twenty times that velocity. The exact circumstances of these extraordinary bodies are not yet sufficiently determined, and the correction of future observations is urgently necessary; but the following Table, constructed from details in the Nautical Almanae for 1845, exhibits a very close approximation to their principal elements. The planets are arranged in their order of distance from the sun, and in the semi-axes of their orbits; the semi-axis of the earth's orbit is taken as unity.''
-
-
+\begin{table}[!ht]
+    \centering
+    \footnotesize
+    \begin{tabular}{|p{20mm}|l|l|l|l|}
+    \hline
+         Elements. & Vesta. & Juno. & Ceres. & Pallas. \\ \hline
+        Mean longitude… & 69$^\circ$ 32$^\prime$ 15.3$^\prime$$^\prime$ & 115$^\circ$ 43$^\prime$ 15.1$^\prime$$^\prime$ & 327$^\circ$ 41$^\prime$ 07.8$^\prime$$^\prime$ & 304$^\circ$ 56$^\prime$ 26.4$^\prime$$^\prime$ \\ \hline
+        Longitude of perihelion… & 251$^\circ$ 02$^\prime$ 37.4$^\prime$$^\prime$ & 54$^\circ$ 08$^\prime$ 33.3$^\prime$$^\prime$ & 148$^\circ$ 14$^\prime$ 06.2$^\prime$$^\prime$ & 121$^\circ$ 22$^\prime$ 43.5$^\prime$$^\prime$ \\ \hline
+        Longitude of ascending node… & 103$^\circ$ 20$^\prime$ 03.4$^\prime$$^\prime$ & 170$^\circ$ 52$^\prime$ 28.9$^\prime$$^\prime$ & 80$^\circ$ 48$^\prime$ 18.7$^\prime$$^\prime$ & 172$^\circ$ 41$^\prime$ 48.1$^\prime$$^\prime$ \\ \hline
+        Inclination to ecliptic… & 7$^\circ$ 08$^\prime$ 23.2$^\prime$$^\prime$ & 13$^\circ$ 03$^\prime$ 05.6$^\prime$$^\prime$ & 10$^\circ$ 37$^\prime$ 08.7$^\prime$$^\prime$ & 34$^\circ$ 37$^\prime$ 40.2$^\prime$$^\prime$ \\ \hline
+        Angle of excentricity… & 5$^\circ$ 05$^\prime$ 19.9$^\prime$$^\prime$ & 14$^\circ$ 42$^\prime$ 23.7$^\prime$$^\prime$ & 4$^\circ$ 32$^\prime$ 58.9$^\prime$$^\prime$ & 13$^\circ$ 54$^\prime$ 01.2$^\prime$$^\prime$ \\ \hline
+    \end{tabular}
+\end{table}
+\paragraph{}
 ``Such are the extraordinary conditions of the asteroids, whose intersecting orbits, leading them almost within hail of each other, so to speak, at the rate of more than 40,000 miles an hour, may eventually lead to mutual disturbances, which the attraction of the larger planets cannot control. Although the strange coincidences attending this group may be \emph{accidental}, in general phrase, yet their phaenomena cannot but be considered as evidence tantamount to demonstration, of their having once composed a single planet, and having diverged by the explosive force of a tremendous cataclysm: and in addition to their orbital vagaries, the bodies themselves are not round, as is said to be indicated by the instantaneous diminution of their light on presenting their \emph{angular} faces.''
 
 There is much here to the point, and confirmatory of the theory and facts I am endeavouring to establish, that meteorites belong to the planetary system, and are perhaps the minute outriders of the group of fragmentary planets called asteroids, or planetoids. It is not improbable that in the course of fifty or one hundred years, supposing due care be used in collecting all information possible regarding the dates and falls of aërolites, and in placing the \emph{data} properly together, that we shall not only readily and certainly determine those epochs, but also the periods in years when the epoch itself again comes round; with such an end in view I have constructed the Table G, but it is not yet sufficiently rich in \emph{data} to admit our arriving at definite results.
@@ -278,11 +417,29 @@ It surely would make a material difference in our calculations, whether a mass p
 Dr. Smith gives us the result of some interesting experiments, to prove the fallacy of judging of the actual size of meteors by their apparent size; I shall again quote his own words:---
 
 ``In my experiments, three solid bodies in a state of vigorous incandescence were used: 1st, charcoal points transmitting electricity; 2ndly, lime heated by the oxy-hydrogen blow-pipe; 3rdly, steel in a state of incandescence in a stream of oxygen gas. They were observed on a clear night at different distances, and the body of light (without the bordering rays) compared with the disk of the moon, then nearly full, and 45$^\circ$ above the horizon. Without going into details of the experiment the results will be tabulated.''
-
-
+\begin{table}[H]
+    \footnotesize
+    \centering
+    \begin{tabular}{l p{20mm} p{20mm} p{20mm} p{20mm}}
+         ~ & Actual diam. As seen as 10 in. & Apparent diam. At 200 yards. & Apparent diam. At $\frac{1}{4}$ mile. & Apparent diam. At $\frac{1}{2}$ mile. \\ \hline
+        Carbon points & $\frac{3}{10}$ of an inch, & $\frac{1}{2}$ the diam. moon’s disc, & 3 diam. do. & $3\frac{1}{2}$ diam. do. \\ 
+        Lime light & $\frac{4}{10}$ of an inch, & $\frac{1}{3}$ the diam. moon’s disc, & 2 diam. do. & 2 diam. do. \\ 
+        Incandes. steel & $\frac{2}{10}$ of an inch, & $\frac{1}{4}$ the diam. moon’s disc, & 1 diam. do. & 1 diam. do. \\
+    \end{tabular}
+\end{table}
+\paragraph{}
 ``If then the apparent diameter of a luminous meteor at a given distance is to be accepted as a guide for calculating the real size of these bodies, the
-
-
+\begin{table}[H]
+    \footnotesize
+    \centering
+    \begin{tabular}{l l l}
+         &  &  \\ 
+        Charcoal points would be & 80 feet in diam. instead of & $\frac{3}{10}$ of an in. \\
+        Lime points would be & 50 feet in diam. instead of & $\frac{4}{10}$ of an in. \\
+        The steel globule points would be & 25 feet in diam. instead of & $\frac{2}{10}$ of an in.'' \\
+    \end{tabular}
+\end{table}
+\paragraph{}
 ``I need not here enter into any explanation of these deceptive appearances, for they are well-known facts, and were tried in the present form only to give precision to the criticism on the supposed size of these bodies.''
 
 Dr. Smith is evidently anxious to reduce to a minimum the size of the lunar aërolites, and proceeds a little further on to say:---
@@ -294,9 +451,25 @@ It is not strictly true that no meteorite is known of any great size, \emph{i. e
 The exclusion from a lunar origin of the larger meteoric masses, especially iron ones, though not perhaps altogether subversive of the lunar theory generally, is yet injurious to its stability.
 
 There is no occasion, in continuation, to enter into details concerning the phaenomena attending the fall of meteorites and fire-balls, \emph{etc.}, or to give a list of the analyses which have from time to time been made of various meteoric irons and stones. Suffice it to say, that no new chemical element has yet been discovered in these bodies, though several new mineral compounds have been observed. Most, indeed nearly all, the simple chemical elements have been detected in them. (See Note 5. p. 31.) Some consist of pure iron; others of iron alloyed with nickel, perhaps also accompanied with small quantities of carbon, chromium, cobalt, arsenic and phosphorus; and some few are mechanically combined with crystallized olivine; the majority have, however, a common or normal character, both internally and externally. They have been variously classified; as by Prof. Shepard in the following way, treating them as it were mineralogically:---
-
-
-
+\clearpage
+\begin{landscape}
+\Tree[.{Class 1. --- Metallic.} [.{Order 1. Malleable,\\homogeneous.} [.{Sec. 1. Pure.} ] [.{Sec. 2. Alloyed.} [.{Closely\\crystalline.} ] [.{Coarsely\\crystalline.} ] ] ]
+          [.{Order 2. Malleable,\\heterogeneous.} [.{Amygdalo-\\peridotic.} ] [.{Amygdalo-\\pyritic.} ] 
+            [.{Pyrito-\\plumbaginous.} ]]
+          [.{Order 3. Brittle.} [.{Pure.} ] [.{Alloyed.} ] 
+            ]]
+\end{landscape}
+\clearpage
+\begin{landscape}
+\footnotesize
+\Tree[.{Class 2. --- Stony.} [.{Order 1.\\Trachytic.} [.{Sec. 1.\\Peridotic.} [.{Coarse-\\grained.} ] [.{Fine-\\grained.} ] ] [.{Sec. 2.\\Pyroxenic.} ] [.{Sec. 3.\\Chladnitic.} ] [.{Sec. 4.\\Carbonaceous.} ] ]
+          [.{Order 2.\\Trappean.} [.{Sec. 1.\\Homogeneous.} ] [.{Sec. 2.\\Porphyritic.} ] 
+            ]
+          [.{Order 3.} [.{Pumice-like.} ] 
+            ]]
+\end{landscape}
+\clearpage
+\paragraph{}
 In connexion with this similarity with the chemical elements and even minerals of our own planet, has been developed the theory of the \emph{non-extra}-terrestrial origin of meteoric irons and stones; a theory principally supported by the chemists and electricians, as Sir H. Davy, Fusinieri, M. Biot, Prof. Shepard, M. F. G. Fischer and others. Before concluding this paper I shall shortly allude to this theory, as it bears strongly on the general subject. I cannot do better than again quote from Prof. Shepard (see his Report on American Meteorites, published in the American Journal of Science):---
 
 ``The extra-terrestrial origin of meteoric stones and iron masses seems likely to be more and more called in question, with the advance of knowledge respecting such substances, and as additions continue to be made to the connected sciences; I may therefore take an early occasion of presenting some views, founded partly upon Biot's theory of the aurora borealis, which seem to favour such an origin of meteorites.''
@@ -330,18 +503,136 @@ Having thus exammed, and objected to the arguments in favour of the \emph{terres
 \emph{Fourthly}. That their period of least common occurrence takes place when the earth is on the side of the winter solstice in \emph{perihelion}; while, on the other hand, the period of most frequent occurrence is when the earth is in \emph{aphelion}, and the mean system or mass of the asteroids in their \emph{perihelion}.
 
 \emph{Fifthly}. That they may reasonably be considered as once belonging to the group of planetoids or asteroids, and to partake therefore, to some extent at least, of the proper nature and conditions of asteroids.
-
+\clearpage
+\begin{landscape}
 \subsection{Table F. --- Showing the days of each month on which aërolites have fallen to the earth.}
-
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|l|l|l|l|l|l|l|l|l|l|l|l|l|l|l|l|l|l|l|}
+    \hline
+        Months. & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
+        January & 4 & 9 & 9 & 10 & 12 & 13 & 15 & 16 & 28 & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
+        February & 3 & 10 & 10 & 13 & 15 & 15 & 13 & 18 & 18 & 18 & 19 & 19 & 25 & 27 & 27 & ~ & ~ & ~ \\ \hline
+        March & 1 & 2 & 3 & 6 & 8 & 12 & 12 & 13 & 14 & 15 & 19 & 21 & 22 & 22 & 25 & 25 & 30 & 30 \\ \hline
+        April & 1 & 5 & 5 & 11 & 12 & 13 & 15 & 17 & 18 & 19 & 26 & 28 & 29 & ~ & ~ & ~ & ~ & ~ \\ \hline
+        May & 8 & 9 & 9 & 10 & 13 & 17 & 17 & 17 & 18 & 19 & 19 & 20 & 22 & 26 & 26 & 27 & 28 & ~ \\ \hline
+        June & 2 & 4 & 5 & 6 & 9 & 9 & 12 & 12 & 13 & 15 & 16 & 20 & 20 & 21 & 22 & ~ & ~ & ~ \\ \hline
+        July & 3 & 3 & 4 & 4 & 7 & 8 & 12 & 14 & 17 & 18 & 22 & 24 & 24 & 26 & 26 & 26 & 30 & ~ \\ \hline
+        August & 4 & 4 & 5 & 6 & 7 & 9 & 10 & 15 & 15 & 18 & 20 & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
+        September & 3 & 4 & 4 & 5 & 5 & 9 & 10 & 10 & 13 & 13 & 14 & 16 & 19 & ~ & ~ & ~ & ~ & ~ \\ \hline
+        October & 1 & 1 & 2 & 3 & 5 & 6 & 8 & 12 & 13 & 13 & 14 & 20 & 25 & 27 & 31 & ~ & ~ & ~ \\ \hline
+        November & 5 & 7 & 11 & 13 & 17 & 20 & 23 & 25 & 27 & 29 & 29 & 29 & 29 & 30 & 30 & ~ & ~ & ~ \\ \hline
+        December & 11 & 13 & 13 & 13 & 13\tablefootnote{1803.} & 13\tablefootnote{1803.}  & 14 & 25 & 28 & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
+    \end{tabular}
+\end{table}
+\end{landscape}
+\clearpage
 \paragraph{}
 Note \emph{a}. --- Epochs supposed to be periodical in displays of ``luminous meteors'' are here inserted for the purpose of comparing the results with Table F.:---
-
+\begin{table}[H]
+    \centering
+    \begin{tabular}{l r}
+        April & 22-25. \\
+        July & 17-19. \\
+        August & 9-13. \\
+        October & 16-18. \\
+        November & 10-14. \\
+        November & 27-29. \\
+        December & (?) 8-12. \\
+    \end{tabular}
+\end{table}
+\paragraph{}
 Note \emph{b}. --- Epochs when it would appear that the falls of aërolites may be periodical:---
-
+\begin{table}[!ht]
+    \centering
+    \begin{tabular}{l r}
+        February & 15-19. \\
+        March & 21-25. \\
+        May & 17-20. \\
+        June & 20-22. \\
+        July & 24-26. \\
+        September & 9-14. \\
+        November & 29-30. \\
+        December & 11-14. \\
+    \end{tabular}
+\end{table}
+\clearpage
+\begin{landscape}    
 \subsection{Table G. --- Showing years when there have been meteoric falls, arranged monthly.}
-
+\begin{table}[!ht]
+    \centering
+    \footnotesize
+    \begin{tabular}{|l|l|l|l|l|l|l|l|l|l|l|l|l|}
+    \hline
+        ~ & Jan. & Feb. & Mar. & April. & May. & June. & July. & Aug. & Sept. & Oct. & Nov. & Dec. \\ \hline
+        Period of 63 years. & 1844 & 1853 & 1849 & 1851 & 1855 & 1850 & 1847 & 1841 & 1854 & 1849 & 1850 & 1846 \\
+        ~ & 1825 & 1848 & 1843 & 1844 & 1848 & 1843 & 1843 & 1835 & 1852 & 1844 & 1849 & 1836 \\
+        ~ & 1824 & 1847 & 1841 & 1842 & 1846 & 1841 & 1842 & 1829 & 1843 & 1838 & 1846 & 1833 \\
+        ~ & 1810 & 1839 & 1820 & 1838 & ? 1831 & 1838 & 1840 & 1823 & 1831 & 1827 & 1839 & 1813 \\
+        ~ & 1796 & 1830 & 1818 & 1812 & 1829 & 1834 & 1837 & 1822 & 1826 & 1824 & 1835 & 1807 \\
+        ~ & ~ & 1827 & 1813 & 1812 & 1827 & 1828 & 1835 & 1818 & 1825 & 1819 & 1833 & 1803 \\
+        ~ & ~ & 1825 & 1811 & 1808 & 1808 & 1822 & ? 1831 & 1812 & 1822 & 1815 & 1822 & 1803 \\
+        ~ & ~ & 1824 & 1807 & 1804 & 1806 & 1821 & 1820 & 1810 & 1822 & 1803 & 1820 & 1798 \\
+        ~ & ~ & 1818 & 1806 & 1799 & 1791 & 1819 & 1811 & ~ & 1814 & 1791 & 1814 & 1795 \\
+        ~ & ~ & 1815 & 1805 & 1795 & ~ & 1818 & 1810 & ~ & 1813 & ~ & 1811 & ~ \\
+        ~ & ~ & 1814 & 1798 & ~ & ~ & 1809 & 1803 & ~ & 1808 & ~ & 1805 & ~ \\
+        ~ & ~ & 1796 & 1796 & ~ & ~ & 1805 & 1790 & ~ & 1802 & ~ & ~ & ~ \\
+        ~ & ~ & ~ & ~ & ~ & ~ & 1794 & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
+        Period of 100 years. & 1717 & 1785 & 1683 & 1780 & 1751 & 1752 & 1766 & 1789 & 1775 & 1787 & 1773 & ~ \\
+        ~ & 1697 & 1671 & 1654 & 1750 & 1698 & 1723 & 1755 & 1766 & 1768 & 1750 & 1768 & ~ \\
+        ~ & 1683 & 1647 & 1636 & 1620 & 1680 & 1668 & 1753 & 1738 & 1753 & 1740 & 1639 & ~ \\
+        ~ & 1622 & ~ & ~ & 1715 & 1677 & 1635 & 1727 & 1650 & 1650 & 1674 & 1627 & ~ \\
+        ~ & ~ & ~ & ~ & 1620 & ~ & ~ & 1725 & 1642 & ~ & ~ & ~ & ~ \\
+        ~ & ~ & ~ & ~ & ~ & ~ & ~ & 1647 & 1828 & ~ & ~ & ~ & ~ \\
+        ~ & ~ & ~ & ~ & ~ & ~ & ~ & 1635 & 1618 & ~ & ~ & ~ & ~ \\ \hline
+        Period of 200 years. & 1585 & 1596 & 1540 & 1580 & 1591 & 1581 & ~ & 1511 & ~ & 1492 & ~ & ~ \\
+        ~ & 1496 & 1583 & ~ & 1561 & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\
+        ~ & ~ & 1491 & ~ & 1552 & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\
+        ~ & ~ & ~ & ~ & 1520 & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\
+        ~ & ~ & ~ & ~ & 1379 & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
+        ~ & 1328 & ~ & ~ & ~ & ~ & 1249 & ~ & ~ & 1304 & ~ & ~ & 856 \\ \hline
+    \end{tabular}
+\end{table}
+\end{landscape}
+\clearpage
 \subsection{Table H. --- Showing the days of the month on which some extraordinary meteors have been recorded during the last sixty or seventy years.}
-
+\begin{table}[H]
+    \centering
+    \footnotesize
+    \begin{tabular}{|l|l|l|l|l|l|l|l|l|l|l|l|}
+    \hline
+        Jan. & Feb. & Mar. & April. & May. & June. & July. & Aug. & Sept. & Oct. & Nov. & Dec. \\ \hline
+        5 & 2 & 6 & 1 & 2 & 3* & 1 & 1 & 2 & 1 & 2 & 2* \\
+        8 & 3 & 8 & 4 & 3 & 5* & 3 & 5 & 2 & 4 & 3 & 5* \\
+        9 & 5 & 8 & 5 & 5 & 6* & 4 & 7 & 4 & 4 & 4 & 8 \\
+        10 & 6 & 8 & 11 & 10* & 6 & 4 & 8 & 7 & 6 & 5 & 8 \\
+        13 & 10 & 11 & 15 & 20 & 9 & 5 & 9 & 7 & 8 & 8 & 11* \\
+        15 & 10* & 17 & 23 & 24 & 10* & 12 & 9 & 8 & 10 & 9 & 12 \\
+        21 & 11* & 17 & 24 & 28 & 11 & 12 & 10 & 10 & 12 & 9 & 13 \\
+        31 & 11* & 19* & ~ & ~ & 12 & 14 & 10 & 11* & 13 & 9 & 13 \\
+        ~ & 11 & 21* & ~ & ~ & 20 & 16 & 12 & 13 & 14 & 10 & 17* \\
+        ~ & 12 & 21 & ~ & ~ & 20 & 17* & 12 & 18 & 17 & 11 & 19 \\
+        ~ & 13 & 22 & ~ & ~ & 22 & 20 & 16 & 19 & 17 & 11 & 19 \\
+        ~ & 15 & ~ & ~ & ~ & 23 & 20 & 17 & 20 & 20 & 15 & 21 \\
+        ~ & 21 & ~ & ~ & ~ & 29 & 22 & 18* & 21 & 21 & 17 & 21 \\
+        ~ & 22 & ~ & ~ & ~ & 29 & 23 & 20 & 24 & 24 & 18 & 21 \\
+        ~ & 22 & ~ & ~ & ~ & ~ & 25 & 25 & 25* & 27* & 19 & 24* \\
+        ~ & 22 & ~ & ~ & ~ & ~ & 27 & 26 & 25 & 28 & 22 & 30 \\
+        ~ & 26 & ~ & ~ & ~ & ~ & 27 & 28 & 29 & 30 & 23 & ~ \\
+        ~ & ~ & ~ & ~ & ~ & ~ & 29 & ~ & 30 & 31 & 24 & ~ \\
+        ~ & ~ & ~ & ~ & ~ & ~ & 30* & ~ & ~ & ~ & 26 & ~ \\
+        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & 26 & ~ \\
+        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & 26 & ~ \\
+        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & 29 & ~ \\
+        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & 30 & ~ \\
+        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & 30 & ~ \\
+        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & 30 & ~ \\
+        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & 30 & ~ \\
+        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & 30 & ~ \\
+        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & 30 & ~ \\
+        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & 30 & ~ \\ \hline
+    \end{tabular}
+\end{table}
 \paragraph{}
 N. B. The figures marked with an asterisk * denote those days in which the meteor observed has been accompanied by audible explosion.
 
@@ -387,10 +678,78 @@ In looking through Prof. Powell's `Catalogues of Luminous Meteors,' and various 
 \bigskip
 
 \subsection{Note 5. --- \emph{Mineral and Chemical Species found in Aërolites.}}
+\subsubsection{\emph{Mineral Species found in Aërolites.}}
+\begin{table}[H]
+    \centering
+    \footnotesize
+    \begin{tabular}{l l}
+        1. & Iron. \\
+        2. & Nickeliferous iron. \\
+        3. & Phosphuret of iron and nickel, or Schreibersite. \\
+        4. & Limonite. \\
+        5. & Magnetic iron pyrites. \\
+        6. & Iron pyrites. \\
+        7. & Chromate of iron. \\
+        8. & Magnetic pyrites. \\
+        9. & Carbon. \\
+        10. & Sulphur. \\
+        11. & Lead. \\
+        12. & Oxide of lead. \\
+        13. & Cobalt. \\
+        14. & Copper. ? \\
+        15. & Magnetite. ? \\
+        16. & Vitriolic nickel. \\
+        17. & Copperas. \\
+        18. & Chloride of iron. \\
+        19. & Chloride of nickel. \\
+        20. & Chloride of cobalt. ? \\
+        21. & Peridot. \\
+        22. & Anorthite. \\
+        23. & Pyroxene. \\
+        24. & Chladnite. ? \\
+        25. & Garnet. \\
+        26. & Chantonnite. ? \\
+        27. & Chloride of calcium. \\
+        28. & Chloride of magnesium. \\
+        29. & Chloride of sodium. \\
+        30. & Soluble silica. \\
+        31. & Epsom salt. \\
+        32. & Glauber salt. \\
+        33. & Sulphurous acid. \\
+        34. & Graphite. \\
+    \end{tabular}
+\end{table}
 
-\emph{Mineral Species found in Aërolites.}
+\centerline{*\hspace{15mm}*\hspace{15mm}*\hspace{15mm}*\hspace{15mm}*}
+\bigskip
 
-\emph{Chemical Elements found in Aërolites.}
+\subsubsection{\emph{Chemical Elements found in Aërolites.}}
+\begin{table}[H]
+    \centering
+    \footnotesize
+    \begin{tabular}{l l}
+        1. & Iron. \\
+        2. & Nickel. \\
+        3. & Magnesium. \\
+        4. & Oxygen. \\
+        5. & Silicon. \\
+        6. & Sulphur. \\
+        7. & Calcium. \\
+        8. & Aluminium. \\
+        9. & Chromium. \\
+        10. & Sodium. \\
+        11. & Potassium. \\
+        12. & Phosphorus. \\
+        13. & Lead. \\
+        14. & Carbon. \\
+        15. & Chlorine. \\
+        16. & Cobalt. \\
+        17. & Manganese. ? \\
+        18. & Copper. \\
+        19. & Hydrogen. \\
+        20. & Tin. ? \\
+    \end{tabular}
+\end{table}
 
 \centerline{*\hspace{15mm}*\hspace{15mm}*\hspace{15mm}*\hspace{15mm}*}
 \bigskip
@@ -412,11 +771,14 @@ $ \sqrt[3]{ \frac{132009 \times 8}{3} } = \sqrt[3]{ 352024 } = 70.6. $
 \end{center}
 \paragraph{}
 Now if a piece of stone 5.6 inches in diameter, weighing 10 lbs., be projected with a velocity of 9000 feet per second, a mass 70.6 inches diameter, and weighing 20,000 lbs., could only be projected with a velocity of 715 feet per second, because the weights would increase so much faster than the sectional area.
+\begin{center}
+Thus as Lbs. $\frac{20,000}{10}$ : Diam. $\frac{70.6^2}{5.6^2}$ :: Velocity. 9000;
+\end{center}
 
-Thus as Lbs. 20,000/10 : Diam. 70.6² / 5.6² :: Velocity. 9000;
-
-or as Lbs. 2000 : Diam. 4984.36/31.36 :: Velocity. 9000 : 715 feet.
-
+\begin{center}
+or as Lbs. 2000 : Diam. $\frac{4984.36}{31.36 }$ :: Velocity. 9000 : 715 feet.
+\end{center}
+\paragraph{}
 The mass of iron has a less sectional area than the stone because of its greater specific gravity, \emph{viz.} in the proportion of $50.9^2$ to $70.6^2$; it would therefore only be projected with a velocity of 372 feet per second; or as
 \begin{center}
 498436 : 259081 :: 715 : 372.
@@ -425,12 +787,418 @@ The mass of iron has a less sectional area than the stone because of its greater
 That is, a velocity more than 20 times too small to allow of the larger known meteoric masses to reach the earth, if projected from a lunar volcano.
 \clearpage
 \section{Catalogues.}
-
 \subsection{Stones and Irons.}
-
+\begin{center}
+    \footnotesize
+    \begin{longtable}{|p{10mm}|p{15mm}|p{32mm}|p{13mm}|p{13mm}|p{26mm}|}
+    \hline
+        Year. & Month and day. & Locality. & Spec. grav. & Iron or stone. & Remarks. \\ \hline
+        \textbf{B. C.} & ~ & ~ & ~ & ~ & ~ \\
+        1478 & ~ & Crete. & ~ & Stone. & ? \\
+        1200 & ~ & Orchomenos. & ~ & ? Stone. & ~ \\
+        644 & ~ & China. & ~ & Stone. & ~ \\
+        570 or 520 & ~ & Crete. & ~ & Stone. & ~ \\
+        343 or 654 & ~ & Rome, Italy. & ~ & Stone. & A shower of stones. \\
+        466 & ~ & Egospotamos, Pergamus, Thrace. & ~ & Stone. & Very large stone. \\
+        204 & ~ & Ancona, Italy. & ~ & Stone. & A shower. \\
+        211 & ~ & China. & ~ & Stone. & ~ \\
+        192 & ~ & China. & ~ & Stone. & Two falls. \\
+        176 & ~ & Crustumerian Territory, Italy. & ~ & ? Stone. & ~ \\
+        ~ & ~ & Vocontii Territory, Gaul. & ~ & Stone. & Time of Pliny. \\
+        89 & ~ & China. & ~ & Stone. & ~ \\
+        38 to 6 & ~ & China. & ~ & Stone. & 7 distinct falls. \\
+        46 & ~ & Acilla, Africa. & ~ & Stone. & Several stones. \\
+        \textbf{A. D.} & ~ & ~ & ~ & ~ & ~ \\
+        2 to 333 & ~ & China. & ~ & Stone. & 5 distinct falls. \\
+        452 & ~ & Thrace. & ~ & Stone. & 3 large stones. \\
+        ~ & ~ & Emessa and Mount Lebanon, Syria. & ~ & Stone. & 6$^{th}$ century (?) \\
+        About 570 & ~ & Bender, Arabia. & ~ & Stone. & A shower. \\
+        616 & ~ & China. & ~ & Stone. & Several. \\
+        823 & ~ & Saxony & ~ & Stone. & ~ \\
+        856 & Winter (Dec.) & Egypt. & ~ & Stone. & 5 stones. \\
+        886 or 839 & ~ & Japan. & ~ & ? Stone. & ? \\
+        892 or 897 & ~ & Ahmendabad, India. & ~ & Stone. & ~ \\
+        921 & ~ & Narni, Italy. & ~ & Stone. & A very large one. \\
+        905 & ~ & China. & ~ & Stone. & ~ \\
+        951 & ~ & Augsburg, Bavaria. & ~ & Stone. & One. \\
+        998 & ~ & Magdeburg, Prussia. & ~ & Stone. & Two. \\
+        1021 & July or Aug. & Africa. & ~ & Stone. & Several. \\
+        1057 & ~ & Hoang?, China. & ~ & Stone. & ~ \\
+        1112 & ~ & Aquileia, Trieste. & ~ & ? Stone. & ~ \\
+        1198 & ~ & Near Paris, France. & ~ & Stone. & ~ \\
+        1135 or 1136 & ~ & Oldisleben, Thuringia, Germany. & ~ & Stone. & One 12 in. in diameter. \\
+        1164 & ~ & Misnia, Saxony. & ~ & Stone. & A shower. \\
+        ? & ~ & Würzburg, Franconia. & ~ & Stone. & 13$^{th}$ century. \\
+        ? & ~ & Welixos, Ussing, Russia. & ~ & Stone. & 13$^{th}$ or 14$^{th}$ century. \\
+        1249 & July 26 & Quedlinburg, Saxony. & ~ & Stone. & A shower. \\
+        1280 & ~ & Alexandria, Egypt. & ~ & Stone. & One. (?) \\
+        About 1300 & ~ & Arragon, Spain. & ~ & Stone. & Several large ones. \\
+        1304 & Oct. 1 & Friedland, Saale, Saxony. & ~ & ? & ~ \\
+        1305 & ~ & Vandals, S. Austria. & ~ & ? & ~ \\
+        1328 & Jan. 9 & In Mortahiah and Dakhalia. & ~ & Stone. & ~ \\
+        1368 & ~ & Oldenburg, Germany. & ~ & Iron. & ? \\
+        1379 & May 26 & Minden, Hanover. & ~ & Stone. & ~ \\
+        1421 & ~ & Island of Java. & ~ & Stone. & One. \\
+        1438 & ~ & Burgos, Spain. & ~ & Stone. & Many. ? \\
+        1474 & ~ & Viterbo, Italy. & ~ & Stone. & Two large ones. \\
+        1480 & ~ & S. Saxony or Bohemia. & ~ & Stone. & ~ \\
+        1491 & Mar. 22 & Crema, Italy. & ~ & Stone. & One. \\
+        1492 & Nov. 7 & Ensisheim, France. & 3.50 & Stone. & 270 lbs. weight; one. \\
+        1496 & Jan. 28 & Cesena, Romagna, Italy. & ~ & Stone. & ~ \\
+        1510 & ~ & Padua, Italy. & ~ & Stone. & (Doubtful.) \\
+        1511 & Sept. & Crema, North Italy. & ~ & Stone. & Large number. \\
+        1516 & ~ & China. & ~ & Stone. & 6 fragments. \\
+        1520 & May & Arragon, Spain. & ~ & Stone. & ~ \\
+        1540 & Apr. 28 & Limousin, France. & ~ & Stone. & ? \\
+        About 1545 & ~ & Neuhof, Saxony. & ~ & Iron. & ~ \\
+        1545 & ~ & Piedmont, Italy. & ~ & Stone. & ? \\
+        1552 & May 19 & Thuringia, Saxony. & ~ & Stone. & ~ \\
+        1559 & ~ & Miscoz, Transylvania. & ~ & Stone. & Several. \\
+        1561 & May 17 & Eilenborg, Torgau, Prussia. & ~ & Stone. & One. \\
+        1580 & May 27 & Göttingen (?), Germany. & ~ & Stone. & Several. \\
+        1581 & July 26 & Thuringia, Germany. & ~ & Stone. & One. \\
+        1583 & Mar. 2 & Piedmont, Italy. & ~ & Stone. & ~ \\
+        1585 & Jan. 9 & Castrovillari or Rosas?, Italy. & ~ & Stone. & 30 lbs.; one stone. \\
+        1591 & June 9 & Kumersdorf?, Germany. & ~ & Stone. & ~ \\
+        1596 & Mar. 1 & Crevalcore, Piedmont. & ~ & Stone. & ~ \\
+        1618 & August & Muraköz, Styria. & ~ & Stone. & 3 of about 100 lbs. each. \\
+        1620 & Apr. 17 & Jalindher, Persia. & ~ & Iron. & 7 lbs. \\
+        1622 & Jan. 10 & Devon, England. & ~ & Stone. & ~ \\
+        1627 & Nov. 27 & Provence, France. & ~ & Stone. & 59 lbs. \\
+        1628 & Aug. 9 & Berkshire, England. & ~ & Stone. & ~ \\
+        1634 & Oct. 27 & Charollois, France. & ~ & Stone. & Two stones. \\
+        1635 & June 21 & Vago near Verona, Italy. & ~ & Stone. & A large stone, N. To S. \\
+        1635 & July 7 & Calce, Vicenza, Italy. & ~ & Stone. & 11 oz. (Doubtful.) \\
+        1636 & Mar. 6 & Sagau, Silesia, Prussia. & ~ & Stone. & One large one. \\
+        1639 & Nov. 29 & Mt. Vaison, Maritime Alps, France. & ~ & Stone. & 38 lbs. \emph{One}. \\
+        1642 & Aug. 4 & Suffolk co., between Woodbridge and Aldboro’, England. & ~ & Stone. & 4 lbs. \\
+        1647 & Feb. 18 & Zwickau, Saxony. & ~ & Stone. & ~ \\
+        1647 & August & Stolzenau, Westphalia, Germany. & ~ & Stone. & ? \\
+        1650 & Aug. 6 & Dordrecht, Holland. & ~ & Stone. & One stone. \\
+        1650 & Sep. 4 ? & Milan, Italy. & ~ & Stone. & ~ \\
+        1654 & Mar. 30 & Funen Island, Denmark. & ~ & Stone. & A shower. \\
+        1668 & Jun. 20 & Verona, Italy. & ~ & Stone. & Large ones. \\
+        1671 & Feb. 27 & Swabia, Austria. & ~ & Stone. & A shower. \\
+        1673 & ~ & Dietting, Bavaria. & ~ & Stone. & ~ \\
+        1674 & Oct. 6 & Glarus canton, Switzerland. & ~ & Stone. & ~ \\
+        1676 & ~ & Orkneys, Scotland. & ~ & Stone. & Fell into a boat. \\
+        1677 & May 28 & Ermendorf, Saxony. & ~ & Stone. & Several. \\
+        1680 & May 18 & Near London, England. & ~ & Stone. & Several. \\
+        1683 & Jan. 12 & Castrovillari, Calabria, Italy. & ~ & Stone. & ~ \\
+        1683 & Mar. 3 & Piedmont, Italy. & ~ & Stone. & ~ \\
+        1692 & ~ & Temesvar, Hungary. & ~ & Stone. & ~ \\
+        1697 & Jan. 13 & Near Sienna, Italy. & ~ & Stone. & Several. \\
+        1698 & May 19 & Berne, Switzerland. & ~ & Stone. & ~ \\
+        1700 & Autum. & Jamaica, West Indies. & ~ & Stone. & ~ \\
+        1715 & Apr. 11 & Garz, Pomerania, Prussia. & ~ & Stone. & ~ \\
+        1717 & Jan. & Larissa, Macedonia. & ~ & Stone. & ~ \\
+        1723 & June 22 & Reichstadt, Bohemia. & ~ & Stone. & A shower. \\
+        1725 & July 3 & Mixbury, Northamptonshire, England. & ~ & Stone. & 20 lbs. \\
+        1727 & July 22 & Lilaschitz, Bohemia. & ~ & Stone. & Several. \\
+        1738 & Aug. 18 & Carpentras, France. & ~ & Stone. & ~ \\
+        1740 & Oct. 25 & Rasgrad, Hungary. & ~ & Stone. & Several. \\
+        1740, 1741 & Winter & Greenland. & ~ & Stone. & A large stone. \\
+        1750 & Oct. 12 & Niort, Normandy, France. & ~ & Stone. & A large stone. \\
+        1751 & May 26 & Agram, Croatia. & 7.80 & Iron. & 71 + 16 lbs. W. to E. \\
+        1752 & June 5 & Freisengen, Bavaria. & ~ & Stone. & Several (or 1722). \\
+        1753 & July 3 & Tabor, Bohemia. & 3.65 & Stone. & Several stones. \\
+        1753 & Sept. & Liponas, France. & 3.66 & Stone. & Two = 31 lbs. \\
+        1755 & July & Terra Nuova, S. Italy. & ~ & Stone. & 7 oz. \\
+        1766 & July & Albereto near Milan, S. Italy. & ~ & Stone. & One. \\
+        1766 & Aug. 15 & Novellara, Modena, S. Italy. & ~ & Stone. & Doubtful. \\
+        1768 & Sep. 13 & Lucé, France. & 3.50 & Stone. & 7 $\frac{1}{2}$ lbs. \\
+        1768 & Nov. 20 & Mauerkirchen, Bavaria. & 3.45 & Stone. & Two; one of 38 lbs. \\
+        1773 & Nov. 17 & Sigena, Arragon, Spain. & 3.63 & Stone. & 9 lbs. \\
+        1775 & Sep. 19 & Rödach, Coburg, Germany. & ~ & Stone. & ~ \\
+        1775 or 1776 & ~ & Obruteza in Volhynia, Russia. & ~ & Stone. & ~ \\
+        1776 or 1777 & ~ & Fabriano, Ancona, Italy. & ~ & Stone. & ~ \\
+        1779 & ~ & Pettiswood, West Meath, Ireland. & ~ & Stone. & 6 oz. \\
+        1780 & April 1 & Beeston, England. & ~ & Stone. & ? \\
+        1780 & ~ & Lahore, India. & ~ & Iron. & ~ \\
+        1782 & ~ & Turin, Italy. & ~ & Stone. & One fell. \\
+        1785 & Feb. 19 & Eichstädt, Bavaria. & 3.65 & Stone. & ~ \\
+        1787 & Oct. 1 & Kharkof, Ukraine, Russia. & ~ & Stone. & A shower. \\
+        1789 & Aug. 20 & France. & ~ & Stone. & 15 inches in diameter. \\
+        1790 & July 24 & Barbotan, France. & 3.62 & Stone. & Several of 10 and 20 lbs. \\
+        1791 & Oct. 20 & Menabilly, Cornwall, England. & ~ & Stone. & ~ \\
+        1791 & May 17 & Tuscany, Italy. & ~ & Stone. & ~ \\
+        1794 & June 16 & Sienna, Italy. & 3.40 & Stone. & 12 small ones. \\
+        1795 & Dec. 13 & Wold Cottage, Yorkshire, England. & 3.85 & Stone. & 56 lbs. \\
+        1795 & Apr. 13 & Ceylon, India. & 3.55 & Stone. & ~ \\
+        1796 & Jan. 4 & Belaja, Zerkwa, Russia. & ~ & Stone. & ~ \\
+        1796 & Feb. 19 & Friexo, Portugal. & ~ & Stone. & 10 lbs. \\
+        1796 & Mar. 8 & Lusatia, Saxony. & ~ & Stone. & ~ \\
+        1798 & Mar. 12 & Salis, France. & 3.45 & Stone. & Or March 8. W. to E. \\
+        1798 & Dec. 13 & Benares, India. & 3.36 & Stone. & A shower. \\
+        1799 & April 5 & Baton Rouge, Mississippi, U. S. & ~ & Stone. & Belfast Chron. of the war. \\
+        ? 1802 & Sept. & Scotland. & ~ & Stone. & Several. \\
+        1803 & Oct. 8 & Apt, Provence, France. & 3.48 & Stone. & 7 lbs. \\
+        1803 & July 4 & East Norton, Leicestershire, England. & ~ & Stone. & ~ \\
+        1803 & Dec. 13 & L’Aigle, France. & 3.45 & Stone. & 3000 stones fell. \\
+        1803 & Dec. 13 & Mässing, Bavaria. & 3.26 & Stone. & 3 ¼ lbs. Contains little iron. \\
+        1804 & April 5 & Possil, Glasgow, Scotland. & 3.53 & Stone. & S. E. To N. W. \\
+        1805 & Mar. 25 & Irkutsk, Siberia. & ~ & Stone. & \emph{Two}, of 7 + 2 $\frac{1}{2}$ lbs. \\
+        1805 & June & Constantinople, Turkey. & 3.17 & Stone. & Contains no iron. \\
+        1805 & Nov. & Asco, Corsica. & 3.66 & Stone. & ~ \\
+        1806 & Mar. 15 & Alais, France. & 1.70 & Stone. & Carbonaceous; no iron. \\
+        1806 & May 17 & Glastonbury, Somerset, England. & ~ & Stone. & \emph{One}, 2 $\frac{1}{2}$ lbs. \\
+        1807 & Mar. 13 & Timochen, Smolensk, Russia. & 3.64 & Stone. & 160 lbs. \\
+        1807 & Dec. 14 & Weston, Connecticut, U. S. & 3.50 & Stone. & 300 lbs.; in fragments. \\
+        1808 & ~ & Moradabad, India. & ~ & Stone. & ~ \\
+        1808 & Apr. 19 & Parma, Italy. & 3.40 & Stone. & ~ \\
+        1808 & May 22 & Stannern, Moravia. & 3.15 & Stone. & 250 stones fell; no iron. \\
+        1808 & Sept. 3 & Lissa, Bohemia. & 3.52 & Stone. & 4 or 5 small ones. \\
+        1809 & ~ & Kikina, Smolensk, Russia. & ~ & Stone. & ~ \\
+        1809 & June 20 & Lat. 30 58 N., long. 70 25 W. & ~ & Stone. & 6 oz. Fell on ship\-board. \\
+        1810 & Jan. 7 & Caswell, N. Carolina, U. S. & ~ & Stone. & 3 lbs. \\
+        1810 & July & Futty\-Ghur, India. & ~ & ? Stone. & ~ \\
+        1810 & August & Tipperary, Ireland. & ~ & Stone. & 7 $\frac{3}{4}$ lbs. \\
+        1811 & Nov. 23 & Panganoor, India. & ~ & Iron (?). & ~ \\
+        1811 & Mar. 12 & Poltowa, Russia. & 3.49 & Stone. & \emph{Two} fell; one of 13 lbs. \\
+        1811 & July 8 & Berlanguillas, Spain. & 3.49 & Stone. & 3 fell. \\
+        1812 & Apr. 12 & Toulouse, France. & 3.70 & Stone. & Several small ones. \\
+        1812 & Apr. 15 & Erxleben, Saxony. & 3.63 & Stone. & 4 $\frac{1}{2}$ lbs. \\
+        1812 & Aug. 5 & Chantonnay, France. & 3.46 & Stone. & One of 69 lbs., and 2 smaller. \\
+        1813 & Mar. 14 & Cutro, Calabria, Italy. & ~ & Stone. & Dust and stones. \\
+        1813 & Sept. 10 & Limerick, Ireland. & 3.64 & Stone. & 17 + 65 + 24 lbs. E. to W. \\
+        1813 & Dec. 13 & Lontalex, Wiborg, Finland. & 3.07 & Stone. & Contains no iron. \\
+        1814 & Feb. 3 & Bachmut, Ekatherinoslaw, Russia. & 3.42 & Stone. & 40 lbs. \\
+        1814 & Sept. 5 & Agen, France. & 3.60 & Stone. & Several; \emph{one} of 18 lbs. \\
+        1814 or 1812 & ~ & Saros, North Hungary. & ~ & Stone. & 112 lbs. \\
+        1815 & Feb. 18 & Loodianah, India. & ~ & Stone. & 25 lbs. \\
+        1815 & Oct. 3 & Chassigny, France. & 3.65 & Stone. & 8 lbs.; contains no iron. \\
+        1816 & ~ & Near Nagy Banya, Hungary. & ~ & Stone. & ~ \\
+        1818 & Mar. 30 & Gov. Of Volhynia, Zabortzcka, Russia. & 3.40 & Stone. & One. \\
+        1818 & Feb. 15 & Limoges, France. & ~ & ? Stone. & ? \\
+        1818 & June & Seres, Macedonia. & 3.70 & Stone. & 15 lbs. \\
+        1818 & Aug. 10 & Slobodka, Smolensk, Russia. & 3.47 & Stone. & \emph{One}. \\
+        1819 & Jun. 13 & Jonzac, France. & 3.08 & Stone. & Contains no iron. \\
+        1819 & Oct. 13 & Politz, Gera, S. Prussia. & 3.39 & Stone. & 3 fell; \emph{one} 7 lbs. \\
+        1820 & July 12 & Lixna, Witepsk, Russia. & 3.70 & Stone. & 14 $\frac{1}{2}$ lbs. \\
+        1820 & Mar. 21 & Vedenberg, Hungary. & ~ & Stone. & ? \\
+        1820 & Nov. 29 & Cosenza, Calabria, Italy. & ~ & Stone. & A shower of stones. \\
+        1821 & June 15 & Juvenas, France. & 3.10 & Stone. & 3 fell; one 220 lbs. Contains only 1.5 iron. \\
+        1822 & June 9 & Angers, France. & ~ & Stone. & ~ \\
+        1822 & Sept. 10 & Carlstadt, Sweden. & ~ & Stone. & ~ \\
+        1822 & Sept. 13 & La Baffe, Vosges, France. & 3.66 & Stone. & ~ \\
+        1822 & Nov. 30 & Futtehpore, Doab, India. & 3.35 & Stone. & Several; 1 of 22 lbs. Dir. S. E. to N. W. \\
+        1823 & Aug. 7 & Nobleboro’, Maine, U. S. & 3.09 & Stone. & 16 lbs. (sp. gr. 2.0)? \\
+        1824 & Jan. 15 & Renazzo, Italy. & 3.25 & Stone. & 3 small ones fell. \\
+        1824 & Oct. 14 & Zebrak, Bohemia. & 3.60 & Stone. & 4 lbs. \\
+        1824 & Feb. 18 & Irkutsk, Siberia. & ~ & Stone. & 5 lbs. \\
+        1825 & Jan. 16 & Oriang, Malwate, India. & ~ & Stone. & ~ \\
+        1825 & Feb. 10 & Nanjemoy, Maryland, U. S. & 3.66 & Stone. & 16 lbs. \\
+        1825 & Sept. 14 & Owhyhee, Sandwich Isles. & 3.39 & Stone. & Two fell; together 30 lbs. \\
+        1825 & ~ & Ekatherinosloff, Russia. & 3.77 & Stone. & 86 lbs. \\
+        1826 & Sept. & Waterville, Maine, U. S. & ~ & Stone. & Doubtful. \\
+        1827 & Feb. 27 & Mhow, Ghazeepore, India. & 3.5 & Stone. & \emph{One}, of several pounds. \\
+        1827 & Oct. 5 or 8 & Bialistock, Russia. & 3.17 & Stone. & 4 lbs.; contains no iron. \\
+        1827 & May 9 & Nashville, Summer co., Tennessee. & 3.55 & Stone. & 3 fell; one 5 lbs., another 11 $\frac{1}{2}$ lbs. \\
+        1828 & June 4 & Richmond, Virginia, U. S. & 3.34 & Stone. & 4 lbs. \\
+        1829 & May 8 & Forsythe, Georgia, U. S. & 3.50 & Stone. & 36 lbs. \\
+        1829 & Aug. 15 & Deal, New Jersey, U. S. & ~ & Stone. & ~ \\
+        1830 & Feb. 15 & Launton, Oxford, England. & ~ & Stone. & 2 $\frac{1}{2}$ lbs. \\
+        1831 & July 18 & Poitiers, Vouillé, France. & 3.55 & Stone. & 40 lbs. (or May 13). \\
+        1831 & Sept. 9 & Wessely, Moravia. & ~ & Stone. & ~ \\
+        1833 & Nov. 25 & Blansko, Moravia. & ~ & Stone. & 8 lbs. \\
+        1833 & Dec. 28 & Okaninak, Volhynia, Russia. & ~ & Stone. & 30 lbs. (27 or 29 Dec.) \\
+        1834 & June 12 & Charwallas, India. & 3.38 & Stone. & 7 lbs. \\
+        1834 & ? Nov. 29 & Raffaten, borders of Hungary and Wallachia. & ~ & Stone. & A shower. \\
+        1835 & July 30 & Dickson co., Tennessee, U. S. & ~ & Iron. & 9 lbs. \\
+        1835 & Aug. 4 & Cirencester, England. & ~ & Stone. & 2 lbs. \\
+        1835 & Nov. 13 & Simond, de l’Ain, France. & 1.35 & Stone. & Contains no iron. \\
+        1836 & Dec. 11 & Macao, Brazil. & 3.72 & Stone. & Immense shower. \\
+        1836 & ~ & Platten See, Hungary. & ~ & Stone. & ~ \\
+        1837 & July 24 & Gross\-Divina, Hungary. & 3.55 & Stone. & 19 lbs. \\
+        1837 & August & Esnaude, Charente, France. & ~ & Stone. & 3 lbs. \\
+        1838 & Apr. 18 & Akburpoor, India. & ~ & Stone. & 4 lbs. \\
+        1838 & June 6 & Chandakapore, Berar, India. & 3.53 & Stone. & 3 fragments. \\
+        1838 & Oct. 13 & Cold Bokkewelde, Cape of Good Hope. & 2.69 & Stone. & Many. N. W. to S. E. Carbonaceous. \\
+        1839 & Feb. 13 & Little Piney Point, Missouri, U. S. & ~ & Stone. & 50 lbs. N. E. to S. W. \\
+        1839 & Nov. 29 & Naples, Italy. & ~ & Stone. & ~ \\
+        1840 & July 17 & Casale, Piedmont. & ~ & Stone. & 11 lbs. \\
+        1840 & May 9 & Kirghiz Steppes, Tartary. & ~ & Stone. & ~ \\
+        1841 & March 22 & Grünberg, Silesia. & 3.72 & Stone. & 2 $\frac{1}{2}$ lbs. \\
+        1841 & June 12 & Château Renard, Loiret, France. & 3.54 & Stone. & 75 lbs. \\
+        1841 & August & Iwan, Hungary. & ~ & Stone. & (Or beginning of Sept.) \\
+        1841 & Nov. 5 & La Vendee, France. & ~ & Stone. & 11 lbs. \\
+        1842 & Apr. 26 & Milena, Croatia, Austria. & 3.54 & Stone. & ~ \\
+        1842 & July 4 & Logrono, Spain. & ~ & Stone. & 7 lbs. \\
+        1843 & March 25 & Bishopville, S. Carolina, U. S. & 3.02 & Stone. & 13 lbs.; contains no iron. \\
+        1843 & June 2 & Utrecht, Holland. & ~ & Stone. & Two, 20 lbs. \\
+        1843 & July 26 & Manegon, Khandeish, India. & ~ & Stone. & 10 in. in diameter. \\
+        1843 & Sept. 16 & Kleinwinden, Mulhausen, Germany. & ~ & Stone. & ~ \\
+        1844 & Jan. & Corrientes, Entre Rios, Brazil. & ~ & Iron. & Large mass. \\
+        1844 & Apr. 29 & Kelleter, co. Tyrone, Ireland. & ~ & Stone. & ~ \\
+        1844 & Oct. 2 & St. Andrew’s, Cuba. & ~ & Stone. & Doubtful. \\
+        1846 & May 10 & Macerata, Monte Milone, Italy. & ~ & Stone. & (Or May 8.) 9 stones. \\
+        1846 & Nov. 11 & Lowell, Massachusetts, U. S. & ~ & Stone. & ~ \\
+        1846 & Dec. 25 & Minderthal, Germany. & ~ & Stone. & 6 lbs. \\
+        1846 & Summ. & Richland, S. Carolina, U. S. & 2.32 & Stone. & 6 oz. \\
+        1847 & Feb. 25 & Iowa, Linn. co., U. S. & 3.58 & Stone. & 75 lbs. \\
+        1847 & July 14 & Braunau, Silesia. & 7.71 & Iron. & Two fragments, 42 and 30 lbs. \\
+        1848 & Feb. 15 & Dharwar, India. & 3.50 & Stone. & 4 lbs. \\
+        1848 & May 20 & Castine, Maine, U. S. & 3.45 & Stone. & 1 $\frac{1}{2}$ oz. S. E. to N. W. \\
+        1849 & Nov. & Tunis and Tripoli, N. Africa. & ~ & Stone. & A shower. See the Phil. Mag. for 1850. \\
+        1849 & Oct. 31 & Cabarras co., N. Carolina, U. S. & 3.63 & Stone. & 18 lbs. \\
+        1849 & March 19 & Poonah, India. & ~ & Stone. & ~ \\
+        1850 & June 22 & Oviedo, Spain. & ~ & Stone. & ~ \\
+        1850 & Nov. 30 & Bissempore, India. & ~ & Stone. & 3 feet in diameter. \\
+        1851 & Nov. 5 & Barcelona, Nulles, Spain. & ~ & Stone. & 3 fragments. 19 lbs. \\
+        1851 & April & Guterlof, Westphalia. & ~ & Stone. & ~ \\
+        1852 & Sept. 4 & Mezo\-Madaras, Transylvania. & 3.50 & Stone. & 18 lbs. S. W. to N. E. \\
+        1853 & Feb. 10 & Girgenti, Sicily. & 3.76 & Stone. & A large stone. \\
+        1854 & Sept. 5 & Fehrbellin, near Potsdam, Germany. & ~ & Stone. & 6 lbs. \\
+        1855 & May 13 & Bremeworde, Hamburg. & ~ & Stone. & Three, 10 lbs. \\
+        1850 & Sept. & Horta, Barcelona, Spain. & 8.12 & Iron. & ~ \\
+        1855 & Aug. 5 & Lincoln co., Tennessee, U. S. & ~ & Stone. & 3 $\frac{3}{4}$ lbs. \\
+        1856 & April 26 & Ht. Rhein, France. & ~ & ~ & (?) \\ \hline
+    \end{longtable}
+\end{center}
+\clearpage
 \subsection{Iron Meteoric Masses.}
-
+\begin{center}
+    \footnotesize
+    \begin{longtable}{|p{16mm}|p{34mm}|p{10mm}|p{12mm}|p{40mm}|}
+    \hline
+        Discovered. & Locality. & Spec. grav. & Pounds weight. & Remarks, peculiarities, \emph{etc.} \\ \hline
+        \textbf{B. C.} & ~ & ~ & ~ & ~ \\
+        1168 & Mount Ida, Crete. & ~ & ~ & ? \\
+        52 or 56 & Lucania, S. Italy. & ~ & ~ & ? A spongy or vesicular mass. \\
+        \textbf{A. D.} & ~ & ~ & ~ & ~ \\
+        1368 & Oldenburg, Germany. & ~ & ~ & ? Iron; fell in 1368. \\
+        1545 & Neuhof, Saxony. & ~ & ~ & Fell between 1540 and 1550. \\
+        1618 & Bohemia. & ~ & ~ & Fell 1618. ? \\
+        1620 & Jalindher, Persia. & ~ & 7 & Fell 1620, April 17. \\
+        1712 & Krasnojarsk, Siberia. & 6.48 & 1,600 & Cont. crystallized olivine. \\
+        1717 & Senegal, W. Africa. & 7.72 & ~ & Large quantity. Has crystalline structure. \\
+        1751 & Agram, Croatia. & 7.80 & 71 + 16 & Two fragments; shows Widmänstattian figures when polished. May 26. \\
+        1780 & Lahore, India. & ~ & ~ & Fell 1780. \\
+        1783 & (Tucuman), Otumpa, Mexico. & ~ & 13 tons. & Wid. figures, very perfect. \\
+        1784 & Rio de la Plata, S. America. & 7.60 & 17,300 & Crystalline structure imperfect. \\
+        1784 & Ziquipilco, Toluca, Mexico. & 7.67 & ~ & Large quantity. Shows Wid. figures. \\
+        1784 & Sierra Blanca, Mexico. & ~ & 4,000 & Large quantity. Shows Wid. figures. \\
+        1792 & Zacatecas, Mexico. & 7.50 & 2,000 & Does not show Wid. figs. \\
+        1793 & Cape of Good Hope, S. Africa. & 7.00 & 300 & Does not show Wid. figs. \\
+        1805 & Bitberg, Prussia. & 6.50 & 3,400 & Wid. figs.; ? with olivine. \\
+        1808 & Texas, Red River, U. S. & 7.70 & 3,000 & Wid. figs.; very distinct. \\
+        1810 & Brahin, Russia. & 6.20 & 200 & With crystalline olivine. \\
+        1811 & Panganoor, India. & ~ & ~ & Fell 1811; ? iron. \\
+        1811 & Elbogen, Bohemia. & 7.74 & 190 & Shows faint Wid. figures. \\
+        1811 & Durango, Mexico. & 7.88 & 35,000 & Wid. figures, distinct. \\
+        1810 & Rasgatà, Santa Rosas, N. Granada. & 7.30 & 1,700 & Vesicular and malleable. \\
+        1814 & Lenarto, Hungary. & 7.75 & 194 & Wid. figs., very distinct. \\
+        1816 & White Mountains, Franconia, New Hampshire, U. S. & ~ & 20 & ~ \\
+        1818 & Lockport, New York, U. S. & ~ & 36 & Wid. figs.; cont. pyrites. \\
+        1819 & Burlington, Otsego, New York, U. S. & 7.50 & 150 & Wid. figs.; extremely hard. \\
+        1819 & Baffin’s Bay, Greenland. & 7.23 & ~ & Large mass. \\
+        1820 & Guildford, N. Carolina, U. S. & 7.67 & 28 & ~ \\
+        1822 & Randolph co., N. Carolina, U. S. & ~ & 2 & Crystalline structure faint; texture very hard. \\
+        1827 & Atacama, Bolivia. & ~ & 300 & With crystallized olivine. \\
+        1828 & Caille, Départment du Var, France. & 7.64 & 1,100 & Known 200 years ago. Wid. figs. \\
+        1828 & Bedford co., Pennsylvania, U. S. & 6.91 & ~ & (Doubtful mass.) \\
+        1829 & Bohumilitz, Bohemia. & 7.60 & 103 & With schreibersite. \\
+        1823 or 1824 & Kinsdale, between West Mountains and Connecticut, U. S. & ~ & ~ & Several pieces. \\
+        1832 & Walker co., Alabama, U. S. & 7.26 & 165 & Has no crystalline structure. \\
+        1834 & Scriba, Oswego co., New York, U. S. & ~ & 8 & Wid. figures. \\
+        1834 & Claiborne co., Alabama, U. S. & 6.5 & 20 & ~ \\
+        1835 & Dickson co., Tennessee, U. S. & ~ & 9 & Fell July 30. \\
+        1835 & Black Mountains, Buncombe co., N. Carolina, U. S. & 7.26 & ~ & ~ \\
+        1839 & Asheville, Buncombe co., N. Carolina, U. S. & 7.90 & 30 & ~ \\
+        1839 & Putnam co., Georgia, U. S. & 7.69 & 70 & Wid. figures. \\
+        1840 & Cocke co., Tennessee, U. S. & 7.26 & 2,000 & Crystallized in structure, with graphite and magnetite. \\
+        1841 & Petropawlowski, Siberia. & 7.76 & 17 & Found 31 feet in the soil. \\
+        1841 & Newberry, Ruff Mountains, South Carolina, U. S. & 7.10 & 117 & Structure crystalline. \\
+        1842 & Green co., Babb’s Mill, Tennessee, U. S. & ~ & 12 + 6 & \emph{Two.} No Wid. figures. \\
+        1843 & Otsego co., New York, U. S. & ~ & 276 grs. & Finely crystalline. \\
+        1843 & St. Augustine’s ay, Madagascar. & ~ & ~ & Large quantities. \\
+        1843 & Arva, Hungary. & 7.1 & ~ & Contains graphite and schreibersite. \\
+        1845 & Buncombe co., Hommoney Creek, N. Carolina, U. S. & 7.32 & 27 & Vesicular, and with a crystalline structure. \\
+        1845 & De Kalb co., Tennessee, U. S. & ~ & 36 & ~ \\
+        1846 & Jackson co., Tennessee, U. S. & ~ & ~ & ~ \\
+        1846 & Carthage, Smith co., Tennessee, U. S. & ~ & 280 & ~ \\
+        1847 & Chester co., S. Carolina, U. S. & ~ & ~ & Wid. figures indistinct. \\
+        1847 & Seeläsgen, Silesia. & 7.70 & 218 & ? No Wid. figures. \\
+        1847 & Braunau, Silesia. & 7.71 & 42 + 30 & Two fragments. Wid. figs.; very small. Cont. pyrites. Fell July 14, 1847. \\
+        1849 & Fort Singhur, Deccan, India. & 4.80 & 31 & Olivinoid and vesicular. \\
+        1850 & Schwetz, Prussia. & 7.77 & 43 & Wid. figures, distinct. \\
+        1850 & Pittsburg, Pennsylvania, U. S. & 7.38 & ~ & ~ \\
+        1853 & Tazewell, Claiborne co., Tennessee, U. S. & 7.80 & 60 & Has a crystalline structure. \\
+        1853 & Long Creek, Jefferson co., Tennessee, U. S. & 7.43 & 3 & No Wid. figures. \\
+        1853 & Cambell co., Tennessee, U. S. & 7.05 & 4 oz. & Wid. figures. \\
+        ~ & Haywood co., N. Carolina, U. S. & 7.42 & $\frac{1}{8}$ oz. & Crystalline in structure. \\
+        ~ & Lead Hills, Scotland. & ~ & $\frac{3}{4}$ oz. & Finely crystalline; very hard. \\
+        ~ & Potosi, S. America. & ~ & ~ & ? Atacama iron. \\
+        ~ & Steinbach, Saxony. & ~ & ~ & With olivine. \\
+        ~ & Seneca River, Cayuga co., New York, U. S. & 7.34 & 9 & With Wid. figs. and pyrites. \\
+        ~ & Lion River, S. Africa. & ~ & 170 & ~ \\
+        ~ & Oaxaca, Mexico. & 7.38 & ~ & Shows Wid. figures. \\
+        ~ & Salt River, Kentucky, U. S. & 6.83 & ~ & Doubtful if meteoric. \\
+        ~ & Murfreesboro’, Tennessee, U. S. & ~ & ~ & Large mass. \\
+        ~ & Charlotte co., Tennessee, U. S. & ~ & 19 ? & ~ \\
+        ~ & Grayson co., Tennessee, U. S. & ~ & ~ & ~ \\
+        ~ & Roanoak, Virginia, U. S. & ~ & ~ & ~ \\
+        ~ & Alasej Mountains, Siberia. & ~ & ~ & Large quantity. \\
+        ~ & Tucson, Sonora, New Mexico. & 8.0 & 2,500 & Three masses. Olivine. \\
+        ~ & Livingston co., Kentucky, U. S. & ~ & ~ & Wid. figs. imperfect. \\
+        ~ & Near the Caspian Sea. & ~ & ~ & Contains iron, nickel, cobalt and copper. \\
+        1840 & Hemalga, Tealcahuaxo, Chili. & 7.5 & 17 & Contains native lead. (!) \\
+        ~ & Greenland, lat. 69 25. & 7.05 & 21 & Wid. figures. \\
+        1844 & Corrientes, Entre Rios, S. America. & ~ & ~ & Large mass. Fell Jan. 1844. \\
+        ~ & Haciendo de Conception Zapata, Chihuahua, Mexico. & ~ & 3,850 & Very hard large mass. \\
+        ~ & Senegal, Africa. & ~ & ~ & ? \\
+        ~ & San Gregorio, North Mexico. & ~ & ~ & A smaller mass. \\
+        ~ & St. Rosa, Coahuila, North Mexico. & 7.8 & 252 & Soft. Wid. figures. \\
+        ~ & Madoc, Canada. & ~ & 370 & Soft. Indistinct. \\
+        ~ & Orange River, South Africa. & ~ & ~ & Wid. figs. Very perfect. \\
+        1835 & Cape of Good Hope, S. Africa. & 7.3 & 323 lbs. & Widd. figs. \\ \hline
+    \end{longtable}
+\end{center}
+\clearpage
 \subsection{Doubtful; or Date of Fall Unknown.}
-
+\begin{center}
+    \footnotesize
+    \begin{longtable}{|p{12mm}|p{45mm}|p{12mm}|p{35mm}|}
+    \hline
+        Year. & Locality. & ~ & Remarks. \\ \hline
+        ? & Daghistan, (? Scythia.) & Stone. & Fell B. C. \\
+        648 & Constantinople. & Stone. & ~ \\
+        1095 & France. & Stone. & April 4. \\
+        1672 & France. & ? & ~ \\
+        1676 & Copinsha, ? & ? & ~ \\
+        1676 & Near Leghorn, Italy. & ? & March 21. Fell in the sea. \\
+        1753 & Eichstädt, Germany. & Stone. & January. ? \\
+        1756 & France. & Stone. & ~ \\
+        1776 & Novellara, Italy. & Stone. & August 5. \\
+        1783 & England. & Shower of stones. & August 18. \\
+        1785 & France. & ? & ~ \\
+        1799 & Baton Rouge, Mississippi, U. S. & ? & April 5. \\
+        1805 & Dordrecht, Holland. & Stone. & ~ \\
+        1806 & Basingstoke, Hants, England. & Stone. & May 17. \\
+        1810 & France. & Stone. & ? \\
+        1809 & South Atlantic. & ? & Fell into the sea. June 19. \\
+        1814 & Doab, India. & ? & November 5. \\
+        1813 & Malpas, Cheshire, England. & Shower of stones. & In the summer. \\
+        1817 & Paris, France. & ? & November 3. \\
+        1817 & Baltic. & ? & Fell in the sea. May 2. \\
+        1822 & Kadonah, near Agra, India. & Stone. & Aug. 7. Same as the fall at Futtehpore? \\
+        1819 & Blankenberg, Pays Bas. & ~ & Nov. 2. Red rain. \\
+        1824 & Sterlitamak, Orenburg, Russia. & ~ & Hailstones, enclosing crystals of pyrites. Sept. \\
+        1826 & Castres, France. & ? & ~ \\
+        About 1780 & Kinsdale, New Hampshire, U. S., near West River Mountain. & ~ & Masses of iron fell. \\
+        ? & Cape of Good Hope, S. Africa. & Iron. & ? \\
+        1801 & Isle aux Tonneliers, Mauritius. & Iron. & ? \\
+        ? & Pulrose, Isle of Man. & Iron. & ~ \\
+        ? & Concord, New Hampshire, U. S. & Iron. & ~ \\
+        ? & Russia. & Iron. & Several. Dates unknown. \\
+        ? 1833 & Kandahar, Afghanistan. & Shower of stones. & (See \emph{Comptes Rendus}, 1836.) \\
+        ? & Lucerne, Switzerland. & Dust. & ? \\
+        1637 & Canada. & Dust. & Explosions, with meteors. \\
+        1762 & Canada. & Dust. & Explosions, with meteors. \\
+        1814 & Canada. & Dust. & Explosions, with meteors. \\
+        1819 & Canada. & Dust. & Explosions, with meteors. \\
+        1842 & Épinal, Vosges, France. & ? & Explosions, with meteors. 5 Nov. \\ \hline
+    \end{longtable}
+\end{center}
 \clearpage
 \end{document}
