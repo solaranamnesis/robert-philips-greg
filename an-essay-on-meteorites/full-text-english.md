@@ -1096,7 +1096,7 @@ That is, a velocity more than 20 times too small to allow of the larger known me
  ?          | Pulrose, Isle of Man\.                                       | Iron\.             | &nbsp;                                             
  ?          | Concord, New Hampshire, U\. S\.                              | Iron\.             | &nbsp;                                             
  ?          | Russia\.                                                     | Iron\.             | Several\. Dates unknown\.                          
- ? 1833     | Kandahar, Afghanistan\.                                      | Shower of stones\. | \(See \_Comptes Rendus\_, 1836\.                   
+ ? 1833     | Kandahar, Afghanistan\.                                      | Shower of stones\. | \(See \_Comptes Rendus\_, 1836\.\)                   
  ?          | Lucerne, Switzerland\.                                       | Dust\.             | ?                                                  
  1637       | Canada\.                                                     | Dust\.             | Explosions, with meteors\.                         
  1762       | Canada\.                                                     | Dust\.             | Explosions, with meteors\.                         
