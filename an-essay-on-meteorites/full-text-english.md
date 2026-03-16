@@ -554,25 +554,25 @@ Table H. --- Showing the days of the month on which some extraordinary meteors h
 
  **Jan\.** | **Feb\.** | **Mar\.** | **April\.** | **May\.** | **June\.** | **July\.** | **Aug\.** | **Sept\.** | **Oct\.** | **Nov\.** | **Dec\.** 
 -----------|-----------|-----------|-------------|-----------|------------|------------|-----------|------------|-----------|-----------|-----------
- 5         | 2         | 6         | 1           | 2         | 3\*        | 1          | 1         | 2          | 1         | 2         | 2\*       
- 8         | 3         | 8         | 4           | 3         | 5\*        | 3          | 5         | 2          | 4         | 3         | 5\*       
- 9         | 5         | 8         | 5           | 5         | 6\*        | 4          | 7         | 4          | 4         | 4         | 8         
- 10        | 6         | 8         | 11          | 10\*      | 6          | 4          | 8         | 7          | 6         | 5         | 8         
- 13        | 10        | 11        | 15          | 20        | 9          | 5          | 9         | 7          | 8         | 8         | 11\*      
- 15        | 10\*      | 17        | 23          | 24        | 10\*       | 12         | 9         | 8          | 10        | 9         | 12        
- 21        | 11\*      | 17        | 24          | 28        | 11         | 12         | 10        | 10         | 12        | 9         | 13        
- 31        | 11\*      | 19\*      | &nbsp;      | &nbsp;    | 12         | 14         | 10        | 11\*       | 13        | 9         | 13        
- &nbsp;    | 11        | 21\*      | &nbsp;      | &nbsp;    | 20         | 16         | 12        | 13         | 14        | 10        | 17\*      
- &nbsp;    | 12        | 21        | &nbsp;      | &nbsp;    | 20         | 17\*       | 12        | 18         | 17        | 11        | 19        
+ 5         | 2         | 6         | 1           | 2         | 3\⁑        | 1          | 1         | 2          | 1         | 2         | 2\⁑       
+ 8         | 3         | 8         | 4           | 3         | 5\⁑        | 3          | 5         | 2          | 4         | 3         | 5\⁑       
+ 9         | 5         | 8         | 5           | 5         | 6\⁑        | 4          | 7         | 4          | 4         | 4         | 8         
+ 10        | 6         | 8         | 11          | 10\⁑      | 6          | 4          | 8         | 7          | 6         | 5         | 8         
+ 13        | 10        | 11        | 15          | 20        | 9          | 5          | 9         | 7          | 8         | 8         | 11\⁑      
+ 15        | 10\⁑      | 17        | 23          | 24        | 10\⁑       | 12         | 9         | 8          | 10        | 9         | 12        
+ 21        | 11\⁑      | 17        | 24          | 28        | 11         | 12         | 10        | 10         | 12        | 9         | 13        
+ 31        | 11\⁑      | 19\⁑      | &nbsp;      | &nbsp;    | 12         | 14         | 10        | 11\⁑       | 13        | 9         | 13        
+ &nbsp;    | 11        | 21\⁑      | &nbsp;      | &nbsp;    | 20         | 16         | 12        | 13         | 14        | 10        | 17\⁑      
+ &nbsp;    | 12        | 21        | &nbsp;      | &nbsp;    | 20         | 17\⁑       | 12        | 18         | 17        | 11        | 19        
  &nbsp;    | 13        | 22        | &nbsp;      | &nbsp;    | 22         | 20         | 16        | 19         | 17        | 11        | 19        
  &nbsp;    | 15        | &nbsp;    | &nbsp;      | &nbsp;    | 23         | 20         | 17        | 20         | 20        | 15        | 21        
- &nbsp;    | 21        | &nbsp;    | &nbsp;      | &nbsp;    | 29         | 22         | 18\*      | 21         | 21        | 17        | 21        
+ &nbsp;    | 21        | &nbsp;    | &nbsp;      | &nbsp;    | 29         | 22         | 18\⁑      | 21         | 21        | 17        | 21        
  &nbsp;    | 22        | &nbsp;    | &nbsp;      | &nbsp;    | 29         | 23         | 20        | 24         | 24        | 18        | 21        
- &nbsp;    | 22        | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | 25         | 25        | 25\*       | 27\*      | 19        | 24\*      
+ &nbsp;    | 22        | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | 25         | 25        | 25\⁑       | 27\⁑      | 19        | 24\⁑      
  &nbsp;    | 22        | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | 27         | 26        | 25         | 28        | 22        | 30        
  &nbsp;    | 26        | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | 27         | 28        | 29         | 30        | 23        | &nbsp;    
  &nbsp;    | &nbsp;    | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | 29         | &nbsp;    | 30         | 31        | 24        | &nbsp;    
- &nbsp;    | &nbsp;    | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | 30\*       | &nbsp;    | &nbsp;     | &nbsp;    | 26        | &nbsp;    
+ &nbsp;    | &nbsp;    | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | 30\⁑       | &nbsp;    | &nbsp;     | &nbsp;    | 26        | &nbsp;    
  &nbsp;    | &nbsp;    | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | &nbsp;     | &nbsp;    | &nbsp;     | &nbsp;    | 26        | &nbsp;    
  &nbsp;    | &nbsp;    | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | &nbsp;     | &nbsp;    | &nbsp;     | &nbsp;    | 26        | &nbsp;    
  &nbsp;    | &nbsp;    | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | &nbsp;     | &nbsp;    | &nbsp;     | &nbsp;    | 29        | &nbsp;    
@@ -584,11 +584,11 @@ Table H. --- Showing the days of the month on which some extraordinary meteors h
  &nbsp;    | &nbsp;    | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | &nbsp;     | &nbsp;    | &nbsp;     | &nbsp;    | 30        | &nbsp;    
  &nbsp;    | &nbsp;    | &nbsp;    | &nbsp;      | &nbsp;    | &nbsp;     | &nbsp;     | &nbsp;    | &nbsp;     | &nbsp;    | 30        | &nbsp;    
 
-N. B. The figures marked with an asterisk * denote those days in which the meteor observed has been accompanied by audible explosion.
+N. B. The figures marked with an asterisk ⁑ denote those days in which the meteor observed has been accompanied by audible explosion.
 
 Note _a_. --- It is worthy of remark that audibly explosive meteors are of remarkably rare occurrence.
 
-As far as I can judge, the European newspapers and scientific journals record the occurrence of not more than one or two per annum; really not more than the cases of veritable stone-falls for the same time and over the same space. It is reasonable to assume, when an explosion is heard after the appearance or dissipation of a meteor, it is meteorolithic; and it is also probable as often as not, that in countries like England and France, the stone would be picked up, after the occurrence of such phaenomenon; I believe therefore that taking this into consideration, along with the calculations given at page 5, I am not far wrong in supposing the number of meteorolithic falls actually observed will not be less than _one-third_ the whole that really fall. In Table H. I have given the days of the month on which many of the most remarkable or historic (if I may so say) meteors have been observed during a period of many years, and it may be noticed how few are recorded as having been accompanied by any audible explosion. In confirmation of what is stated at pages 9 and 10, it may also be here pointed out that there are no asterisks * against the days of August 9-13th, or November 10-14th. This table, however, might, with some trouble, be made more complete.
+As far as I can judge, the European newspapers and scientific journals record the occurrence of not more than one or two per annum; really not more than the cases of veritable stone-falls for the same time and over the same space. It is reasonable to assume, when an explosion is heard after the appearance or dissipation of a meteor, it is meteorolithic; and it is also probable as often as not, that in countries like England and France, the stone would be picked up, after the occurrence of such phaenomenon; I believe therefore that taking this into consideration, along with the calculations given at page 5, I am not far wrong in supposing the number of meteorolithic falls actually observed will not be less than _one-third_ the whole that really fall. In Table H. I have given the days of the month on which many of the most remarkable or historic (if I may so say) meteors have been observed during a period of many years, and it may be noticed how few are recorded as having been accompanied by any audible explosion. In confirmation of what is stated at pages 9 and 10, it may also be here pointed out that there are no asterisks ⁑ against the days of August 9-13th, or November 10-14th. This table, however, might, with some trouble, be made more complete.
 
 # Notes.
 
